@@ -1,0 +1,312 @@
+1. Cancers (Basel). 2026 Mar 29;18(7):1106. doi: 10.3390/cancers18071106.
+
+Risk of Radiation-Associated Contralateral Breast Cancer in Germline Mutation 
+Carriers: A Meta-Analysis and Systematic Review.
+
+Prihharsanti CHN(1), Prajoko YW(2), Respati DRP(3), Tjandra KC(3), Mutmainnah 
+F(4), Rismadha MB(3), Nugrahani ASD(5), Aryasatya DP(3), Manik AV(6), Nurkolis 
+F(7)(8)(9), Limijadi EKS(10).
+
+Author information:
+(1)Division of Radiation Oncology, Department of Radiology, Faculty of Medicine, 
+Universitas Diponegoro, Semarang 50275, Indonesia.
+(2)Department of Oncology Surgery, Faculty of Medicine, Universitas Diponegoro, 
+Semarang 50275, Indonesia.
+(3)Faculty of Medicine, Universitas Diponegoro, Semarang 50275, Indonesia.
+(4)Faculty of Medicine, Universitas Andalas, Padang 25163, Indonesia.
+(5)Medical Science in Clinical Investigation, Harvard Medical School, Boston, MA 
+02115, USA.
+(6)Oncology Research, University of Manchester, Manchester M13 9PL, UK.
+(7)Program of Basic Medical Science, Faculty of Medicine, Universitas Airlangga, 
+Surabaya 60131, Indonesia.
+(8)Medical Research Center of Indonesia, Surabaya 60281, Indonesia.
+(9)Institute for Research and Community Service, State Islamic University of 
+Sunan Kalijaga (UIN Sunan Kalijaga), Yogyakarta 55281, Indonesia.
+(10)Department of Clinical Pathology, Faculty of Medicine, Universitas 
+Diponegoro, Semarang 50275, Indonesia.
+
+Background/Objectives: Contralateral breast cancer (CBC) is a significant 
+concern among breast cancer survivors, particularly in those with moderator-high 
+penetrance germline mutations such as BRCA1, BRCA2, CHEK2, and ATM. While 
+radiotherapy (RT) is a crucial component of breast cancer (BC) treatment, its 
+potential role in increasing CBC risk remains unclear. This systematic review 
+and meta-analysis aim to evaluate the incidence of radiation-induced CBC in 
+germline mutation carriers. Methods: Following PRISMA guidelines, we conducted a 
+comprehensive search in six electronic databases (PubMed, Scopus, Cochrane 
+Library, ProQuest, EBSCO, and Epistemonikos) for studies published fifteen years 
+prior, up to August 2025. We included cohort and case-control studies assessing 
+the association between RT and CBC incidence in germline mutation carriers. A 
+meta-analysis was performed using a random-effects model to estimate cumulative 
+risk (CR) and rate ratios (RR). Results: Seven studies were included. The 5-year 
+cumulative risk (CR) of contralateral breast cancer (CBC) was 0.55 for BRCA1/2, 
+0.89 for ATM, and 0.80 for CHEK2 carriers. At 10 years, overall CR increased to 
+0.65, with ATM and CHEK2 remaining high. Rate ratio (RR) analysis showed a 
+significant risk for ATM (2.98), while overall RR indicated more than a two-fold 
+increased CBC risk with radiotherapy (RR = 2.70 common-effect; 2.53 
+random-effects). Conclusions: Radiotherapy significantly increases contralateral 
+breast cancer risk, particularly in ATM and CHEK2 carriers, emphasizing the 
+importance of personalized genetic risk stratification in treatment decisions.
+
+DOI: 10.3390/cancers18071106
+PMCID: PMC13072276
+PMID: 41976331
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Nat Rev Cancer. 2026 Apr 13. doi: 10.1038/s41568-026-00916-0. Online ahead of 
+print.
+
+Rethinking ovarian cancer III: the past decade and future directions.
+
+Balkwill FR(1), Laumont CM(2), Burdett N(3), Le Saux O(4), Garsed DW(3), Grither 
+WR(5), Nijhuis AM(6), Recouvreux MS(7), Kang Z(8), Zhang R(9), Chiappinelli 
+KB(10), Lee JS(11), Laniti DD(12), McNeish I(6), Ahmed AA(13), Rottapel R(14), 
+Conejo-Garcia JR(15), Odunsi K(16), Pharoah PDP(17), Zamarin D(18), Ishak CA(9), 
+Fotopoulou C(19), Buckanovich RJ(20), Labidi-Galy I(21), Brenton JD(22), Lengyel 
+E(16), Cook DP(23), George SHL(24), Lheureux S(14), Drapkin R(25), Nephew 
+KP(26), Adams S(27), Pathania S(28), Nelson BH(2), Färkkilä A(8), Fuh K(29), 
+Neel BG(30), Bowtell DD(31).
+
+Author information:
+(1)Barts Cancer Institute, Queen Mary University of London, London, UK. 
+F.balkwill@qmul.ac.uk.
+(2)Deeley Research Centre, BC Cancer Victoria, Victoria, British Columbia, 
+Canada.
+(3)Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia.
+(4)Centre Léon Bérard, Lyon, France.
+(5)Washington University in St. Louis, Saint Louis, MO, USA.
+(6)Imperial College London, London, UK.
+(7)University of California, Los Angeles, Los Angeles, CA, USA.
+(8)University of Helsinki and Helsinki University Hospital, Helsinki, Finland.
+(9)University of Texas MD Anderson Cancer Center, Houston, TX, USA.
+(10)George Washington University, Washington, DC, USA.
+(11)Frazer Institute, The University of Queensland, Woolloongabba, Queensland, 
+Australia.
+(12)Lausanne University Hospital and Lausanne Branch of the Ludwig Institute for 
+Cancer Research, Lausanne, Switzerland.
+(13)MRC Weatherall Institute of Molecular Medicine, John Radcliffe Hospital, 
+University of Oxford, Oxford, UK.
+(14)Princess Margaret Cancer Centre, University of Toronto, Toronto, Ontario, 
+Canada.
+(15)Duke University School of Medicine, Durham, NC, USA.
+(16)University of Chicago, Chicago, IL, USA.
+(17)Cedars-Sinai Medical Center, Los Angeles, CA, USA.
+(18)Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+(19)Department of Surgery and Cancer, Faculty of Medicine of Imperial College 
+London, London, UK.
+(20)Magee Womens Research Institute, University of Pittsburgh, Pittsburgh, PA, 
+USA.
+(21)Université de Genève and Hôpitaux Universitaires de Genève, Geneva, 
+Switzerland.
+(22)Cancer Research UK Cambridge Institute, University of Cambridge, Cambridge, 
+UK.
+(23)Ottawa Hospital Research Institute, University of Ottawa, Ottawa, Ontario, 
+Canada.
+(24)Sylvester Comprehensive Cancer Center University of Miami Miller School of 
+Medicine, Miami, FL, USA.
+(25)University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, 
+USA.
+(26)Indiana University School of Medicine, Bloomington, IN, USA.
+(27)University of New Mexico Comprehensive Cancer Centre, Albuquerque, NM, USA.
+(28)University of Massachusetts, Boston, MA, USA.
+(29)University of California, San Francisco, San Francisco, CA, USA.
+(30)NYU Grossman School of Medicine, New York, NY, USA.
+(31)Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia. 
+David.bowtell@petermac.org.
+
+Approximately 80% of deaths from ovarian cancer are due to high-grade serous 
+carcinoma (HGSC), which has the highest proportion of BRCA1 or BRCA2 
+(BRCA1/BRCA2) mutations of any cancer type and is a highly chromosomally 
+unstable disease. Despite the introduction of targeted therapies benefitting 
+some patients with HGSC as well as surgical advances, only 50% of patients will 
+survive more than 5 years, and just 30% of patients who present with advanced 
+disease without BRCA1/BRCA2 mutations will survive this long. This Expert 
+Recommendation is based on discussions among emerging and leading ovarian cancer 
+researchers at the 15th Helene Harris Memorial Trust International Forum on 
+ovarian cancer hosted by Ovarian Cancer Action in October 2024. The meeting 
+considered advances in HGSC research and treatment made over the last decade, 
+current challenges, emerging technologies in prevention, early detection, and 
+treatment, and research priorities for the years ahead.
+
+© 2026. Springer Nature Limited.
+
+DOI: 10.1038/s41568-026-00916-0
+PMID: 41975230
+
+Conflict of interest statement: Competing interests: J.D.B. is a shareholder in 
+Tailor Bio. A.A.A. is a founder, director, and consultant for Singular Bio Ltd. 
+S.H.L.G. receives research grants from Pfizer, Advenchen, and GSK. K.O. is a 
+co-founder of Tactiva Therapeutics. D.Z. reports institutional grants from 
+Merck, Genentech, AstraZeneca, Xencor, Zymeworks, and Synthekine; personal fees 
+from AstraZeneca, Xencor, Memgen, Daichi Sankyo, Gilead, Synthekine, Immunos, 
+Hervolution, Accurius, Replimune, and Calidi Biotherapeutics; and holds a patent 
+on the use of oncolytic Newcastle Disease Virus for cancer therapy. K.B.C. 
+reports consulting fees from ROME Therapeutics and Daiichi Sankyo, and has a 
+sponsored research agreement with Enara Bio. J.R.C.-G. receives consulting fees 
+from Alloy Therapeutics and licensing fees from Anixa Biosciences; holds 
+intellectual property with Anixa Biosciences and Compass Therapeutics; and is 
+co-founder of Cellepus Therapeutics, a CAR gamma/delta T cell company. E.L. 
+receives research funding from AbbVie through the University of Chicago to study 
+ovarian cancer. D.D.L. has received research grants from Hoffmann-La Roche AG 
+and 10xGenomics. S.A. receives clinical trial funding from AstraZeneca. F.R.B. 
+receives an honorarium from GSK and research funding from AstraZeneca. D.D.B. 
+has received research grant funding from Hoffmann-La Roche and Astra Zeneca. 
+ C.M.L., N.B., O.L.S., D.W.G., W.R.G., A.M.N., M.S.R., Z.K., R.Z., J.S.L., I.M., 
+R.R., P.D.P.P., C.A.I., C.F., R.J.B., I.L.-G., D.P.C., S.L., R.D., K.P.N., S.P., 
+B.H.N., A.F., K.F., and B.G.N. all declare no competing interests.
+
+
+3. Cells. 2026 Mar 26;15(7):588. doi: 10.3390/cells15070588.
+
+PARP Inhibition in Prostate Cancer: Current Status, Resistance Mechanisms, and 
+Clinical Challenges.
+
+Matsuoka T(1)(2)(3)(4), Akamatsu S(5), Ong CJ(1)(3), Gleave ME(1)(3), Wang 
+Y(1)(2)(3).
+
+Author information:
+(1)Vancouver Prostate Centre, Vancouver General Hospital, Vancouver, BC V5Z 1M9, 
+Canada.
+(2)Department of Experimental Therapeutics, BC Cancer Agency, Vancouver, BC V5Z 
+1L3, Canada.
+(3)Department of Urologic Sciences, Faculty of Medicine, The University of 
+British Columbia, Vancouver, BC V5Z 1M9, Canada.
+(4)Department of Urology, Graduate School of Medicine, Kyoto University, Kyoto 
+606-8507, Japan.
+(5)Department of Urology, Graduate School of Medicine, Nagoya University, Nagoya 
+466-8550, Japan.
+
+Poly(ADP-ribose) polymerase inhibitors (PARPi) have reshaped therapy for 
+advanced prostate cancer, yet durable benefit remains concentrated in 
+BRCA1/2-altered tumors, especially BRCA2, and most responders eventually 
+relapse. Here, we frame PARPi response and resistance through a unifying model 
+in which DNA damage response (DDR) rewiring (e.g., homologous recombination 
+repair (HRR) restoration, fork protection, checkpoint tolerance, and altered 
+drug handling) converges with treatment-induced dormancy and quiescent 
+therapy-tolerant residual states that sustain minimal residual disease (MRD) 
+under androgen receptor pathway inhibition (ARPI) and PARP blockade. We 
+synthesize clinical and translational evidence for PARPi monotherapy and 
+PARPi-based combinations across disease states. In first-line metastatic 
+castration-resistant prostate cancer (mCRPC), PARPi plus ARPI consistently 
+prolongs radiographic progression-free survival, with the greatest benefit in 
+HRR-altered tumors, and emerging overall-survival signals in selected subgroups. 
+In later-line settings, monotherapy activity is most robust in BRCA2-mutated 
+disease, whereas non-BRCA HRR alterations show heterogeneous and often modest 
+responses, underscoring the need for biomarkers beyond gene panels. We also 
+discuss combination strategies with DDR-targeting agents, radioligand therapies, 
+and immunotherapy, and summarize ongoing phase III programs in metastatic 
+castration-sensitive prostate cancer (mCSPC). Finally, we outline practical 
+considerations for biomarker-informed patient selection, monitoring, sequencing, 
+and toxicity management, with particular emphasis on intercepting MRD and 
+resistance evolution.
+
+DOI: 10.3390/cells15070588
+PMCID: PMC13072167
+PMID: 41972679 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+4. Biochem Biophys Rep. 2026 Mar 31;46:102564. doi: 10.1016/j.bbrep.2026.102564. 
+eCollection 2026 Jun.
+
+From mutation to treatment: The dual role of BRCA1 and BRCA2 in gynecological 
+malignancy development and management a systematic review.
+
+Georgy DM(1), Sedeek HN(1), Abaza NE(1), Eldeeb SEK(1), Khamis SM(1), Elgamil 
+MR(1), Magar RW(2).
+
+Author information:
+(1)Department of Applied Biochemistry and Molecular Biology, Faculty of Science, 
+Mansoura University, Mansoura, Egypt.
+(2)Transplantation Immunology Department, Urology and Nephrology Center, 
+Mansoura University, Mansoura, Egypt.
+
+The Breast Cancer gene 1 (BRCA1) and Breast Cancer gene 2 (BRCA2) genes are 
+pivotal human tumor suppressor genes that are essential for preserving genomic 
+stability. Mutations in BRCA1 and BRCA2 prevent homologous recombination, which 
+is regulated by cell cycle checkpoints, thereby hindering the repair of 
+double-stranded DNA. The ultimate result of genomic instability is characterized 
+by altered transcriptional control and abnormal expression of essential 
+cell-cycle proteins. As significant genetic factors, any mutations in the BRCA1 
+and BRCA2 genes substantially elevated a woman's risk of getting ovarian and 
+breast cancer, often resulting in the development of these cancers earlier in 
+life. Treatment of breast and ovarian cancer brought on by BRCA gene mutations 
+focuses heavily on germline BRCA-mutated (gBRCAm) testing, targeted therapies 
+such as Poly (ADP-ribose) polymerase inhibitors (PARP inhibitors), in addition 
+to other options such as traditional chemotherapy and immunotherapy. This 
+systematic review examines the crucial role of BRCA1 and BRCA2 in DNA repair, as 
+well as how their mutations contribute to the development of inherited 
+gynecological malignancies, and potential treatments targeting BRCA-deficient 
+tumors. Also discusses resistance mechanisms to PARP inhibitors, the potential 
+for combination therapies (PARP inhibitors + immune checkpoint inhibitors), and 
+Advances in nanotechnology-based drug delivery, dynamic biomarker development, 
+and CRISPR-based gene repair for BRCA mutations as future challenges and 
+direction for curable patient.
+
+© 2026 Published by Elsevier B.V.
+
+DOI: 10.1016/j.bbrep.2026.102564
+PMCID: PMC13068609
+PMID: 41970631
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+5. Transl Oncol. 2026 Apr 11;68:102757. doi: 10.1016/j.tranon.2026.102757. Online
+ ahead of print.
+
+PARP inhibitors target cellular energy metabolism: Mechanisms of action and 
+clinical implications.
+
+Li J(1), Mu D(2), Li J(3), Lan M(4), Wu W(5), Zhang S(6), Dai Y(7).
+
+Author information:
+(1)Department of Gynecologic Oncology, Gynecologic and Obstetrics Centre, The 
+First Hospital of Jilin University, Changchun, Jilin 130012, China; Jilin 
+Provincial Key Laboratory of Female Reproductive Health, Jilin 130012, China; 
+Laboratory of Cancer Precision Medicine, The First Hospital of Jilin University, 
+Changchun, Jilin 130012, China.
+(2)Department of Operation Room, The First Hospital of Jilin University, 
+Changchun, Jilin 130012, China.
+(3)Department of Blood Transfusion, The First Hospital of Jilin University, 
+Changchun, Jilin 130012, China.
+(4)Laboratory of Cancer Precision Medicine, The First Hospital of Jilin 
+University, Changchun, Jilin 130012, China.
+(5)Department of Neurosurgery, The First Hospital of Jilin University, 
+Changchun, Jilin 130012, China. Electronic address: wu_w@jlu.edu.cn.
+(6)Department of Gynecologic Oncology, Gynecologic and Obstetrics Centre, The 
+First Hospital of Jilin University, Changchun, Jilin 130012, China; Jilin 
+Provincial Key Laboratory of Female Reproductive Health, Jilin 130012, China. 
+Electronic address: slzhang@jlu.edu.cn.
+(7)Laboratory of Cancer Precision Medicine, The First Hospital of Jilin 
+University, Changchun, Jilin 130012, China. Electronic address: 
+daiyun@jlu.edu.cn.
+
+Poly-ADP-ribose polymerase (PARP) is a multifunctional ribozyme that is involved 
+in a variety of biological functions, including DNA repair, modulation of 
+chromatin structure, RNA transcription, cell division, metabolism, mitochondrial 
+biology, oxidative stress biology, and cell death and differentiation. PARP 
+inhibitors (PARPi) are a new class of targeted drugs widely used in the 
+treatment of cancer with BRCA1/2 mutations and non-malignant diseases. Although 
+PARPi has been known to affect the energy metabolism of cells, its exact effects 
+and mechanisms on this process have not yet been fully understood. In this 
+review article, we aim to provide a comprehensive overview of the current 
+understanding of PARPi's effects on various physiological processes involving 
+cellular energy metabolism, highlighting the importance of further exploring how 
+the human body maintains the balance of energy metabolism during PARPi therapy. 
+We also highlight the importance of future studies on the relationship between 
+PARPi treatment and the depletion of NAD+ levels, the activation of PARP1, or 
+the transition between different patterns of energy metabolism, to provide more 
+insights into the safety and efficacy of PARPi in clinical practice.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.tranon.2026.102757
+PMID: 41967334
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no competing interests.
