@@ -1,7 +1,7 @@
 import re
 
 # Example
-VARIANT_PATTERN = r"[pc]\.\d+[A-Z]>[A-Z]"
+VARIANT_PATTERN = r"[pc]\.\d+[A-Z]>[A-Z]|p\.[A-Z]\d+[A-Z]"
 
 
 def extract_variants(text):
