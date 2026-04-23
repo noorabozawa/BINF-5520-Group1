@@ -3,11 +3,11 @@ from Bio import Entrez
 Entrez.email = "noorabozawa@gmail.com"
 
 QUERY = "BRCA1 mutation"
-MAX_RESULTS = 30
+MAX_RESULTS = 5
 
 
 def search_pubmed(query, max_results=5):
-    handle = Entrez.esearch(db="pubmed", term=query, retmax=max_results)
+    handle = Entrez.esearch(db="pubmed", term=query, retmax=max_results, mindate="2021", maxdate="2026", datetype="pdat")
     record = Entrez.read(handle)
     return record["IdList"]
 

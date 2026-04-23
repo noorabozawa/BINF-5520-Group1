@@ -1,2039 +1,281 @@
-1. J Chin Med Assoc. 2026 Apr 1;89(4):263-270. doi:
-10.1097/JCMA.0000000000001365.  Epub 2026 Mar 6.
-
-Comprehensive review of current management and precision medicine in pancreatic 
-cancer.
-
-Yu HY(1)(2)(3), Lin LG(2)(3)(4), Chao Y(2)(3)(5), Li CP(1)(2)(3)(6).
-
-Author information:
-(1)Division of Gastroenterology and Hepatology, Department of Medicine, Taipei 
-Veterans General Hospital, Taipei, Taiwan, ROC.
-(2)School of Medicine, College of Medicine, National Yang Ming Chiao Tung 
-University, Taipei, Taiwan, ROC.
-(3)Therapeutic and Research Center of Pancreatic Cancer, Taipei Veterans General 
-Hospital, Taipei, Taiwan, ROC.
-(4)Department of Nursing, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
-(5)Division of Medical Oncology, Department of Oncology, Taipei Veterans General 
-Hospital, Taipei, Taiwan, ROC.
-(6)Division of Clinical Skills Training, Department of Medical Education, Taipei 
-Veterans General Hospital, Taipei, Taiwan, ROC.
-
-Pancreatic cancer is one of the most lethal malignancies, with an increasing 
-incidence and limited improvement in survival despite therapeutic advances. 
-Surgical resection remains the only curative option; however, recurrence is 
-frequent, and long-term outcomes remain dismal. Major risk factors include 
-smoking, obesity, diabetes, chronic pancreatitis, and pathogenic germline 
-variants such as BRCA1/2, ATM, and mismatch repair genes. Routine population 
-screening is not recommended; instead, surveillance using endoscopic 
-ultrasonography and magnetic resonance cholangiopancreatography is recommended 
-for high-risk individuals. Diagnosis relies on multiphasic pancreatic protocol 
-computed tomography and histological confirmation. Treatment strategies are 
-determined based on resectability: upfront surgery with adjuvant chemotherapy 
-for resectable disease, neoadjuvant chemotherapy for borderline resectable or 
-high-risk patients, and palliative chemotherapy with or without chemoradiation 
-for locally advanced cases. Systemic therapies, including FOLFIRINOX, 
-gemcitabine plus nab-paclitaxel, and NALIRIFOX, remain the cornerstone of 
-therapies for metastatic disease, with precision medicine offering targeted 
-options such as PARP inhibitors for BRCA-mutated tumors. Modern radiotherapy 
-techniques including stereotactic body radiation therapy and particle therapy 
-enhance local control and reduce toxicity. The integration of next-generation 
-sequencing and multidisciplinary management is essential for improving 
-pancreatic cancer outcomes.
-
-Copyright © 2026, the Chinese Medical Association.
-
-DOI: 10.1097/JCMA.0000000000001365
-PMID: 41992406 [Indexed for MEDLINE]
-
-Conflict of interest statement: Conflicts of interest: The authors declare that 
-they have no conflicts of interest related to the subject matter or materials 
-discussed in this article.
-
-
-2. J Med Case Rep. 2026 Apr 16. doi: 10.1186/s13256-025-05048-x. Online ahead of 
-print.
-
-A report of novel inactivating missense mutations of BRCA1 detected in patients 
-with acute myeloid leukemia.
-
-Ejaz S(1), Raashid A(2), Hameed Y(3), Abdullah I(2), Imtiaz N(3), Iqbal M(3), 
-Khurshid M(2), Malik WN(3).
-
-Author information:
-(1)Department of Biochemistry & Molecular Biology, Institute of Biochemistry, 
-Biotechnology and Bioinformatics (IBBB), The Islamia University of Bahawalpur, 
-Bahawalpur, Pakistan. saminaejazsyed@yahoo.com.
-(2)Department of Biochemistry & Molecular Biology, Institute of Biochemistry, 
-Biotechnology and Bioinformatics (IBBB), The Islamia University of Bahawalpur, 
-Bahawalpur, Pakistan.
-(3)Department of Biotechnology, Institute of Biochemistry, Biotechnology and 
-Bioinformatics (IBBB), The Islamia University of Bahawalpur, Bahawalpur, 
-Pakistan.
-
-INTRODUCTION: Exon 11 and exon 14 of BRCA1, a tumor suppressor gene, are known 
-to be mutated in various cancers.
-METHODOLOGY: We screened 24 samples (13 from patients with acute myeloid 
-leukemia and 11 from normal controls) using polymerase chain reaction to detect 
-BRCA1 exon 11 and exon 14 mutations, if any. Purified polymerase chain 
-reaction-amplified products of four samples (cases 1-4) were subjected to 
-bidirectional sequence analysis.
-RESULTS: The sequence analysis revealed in total 20 mutations. One novel 
-frameshift mutation, that is, c.2339insG (p.E781fs), observed in case 1 promoted 
-the synthesis of truncated protein (protein 1). In case 2, five novel 
-insertions mutations c.2376insC (p.K793fs), c.2380insT (p.A794fs), c.2443insT 
-(p.I815fs), c.2533insG (p.I845fs), and c.2511insG (p.N838fs), two novel deletion 
-mutations, c.3762delG (p.N1255fs) and c.3830delC (p.A1277fs), along with one 
-reported mutation,c.3621delG (p.Lys1208fs), were observed which resulted in a 
-truncated protein (protein 2). Besides these, one nonsense c.2383A > T 
-(p.K795X), and four missense c.2429A > C (p.N810T), c.2430C > A (p.N810K), 
-c.3644A > T (p.N1215I), and c.3740 T > A (p.V1247D) were also observed in case 
-2. In case 3, a single missense c.3577 T > C (p.F1193L) and three silent 
-mutations c.3576 T > C (p.P1192P), c.3579C > T (p.F1193F), and c.4311 T > C 
-(p.S1437S) were noted, having no impact on the encoded protein's function. 
-However, a unique silent mutation c.4252 T > C (p.L1418L)  observed in case 4 
-did not influence the protein sequence. Bioinformatics analysis revealed that 
-both truncated proteins (protein 1 and 2) have higher pI and considerably lower 
-molecular weight than the wild-type BRCA1 protein. The molecular weight of 
-protein 3 having one alteration (phenylalanine to leucine) varied slightly, and 
-there was no difference in the characteristics of wild-type BRCA1 and protein 4.
-CONCLUSION: This study reveals the mutational spectrum of BRCA1 in patients with 
-acute myeloid leukemia, representing unique missense and novel pathogenic 
-mutations that can be further targeted for designing diagnostic and therapeutic 
-strategies for acute myeloid leukemia.
-
-© 2026. The Author(s).
-
-DOI: 10.1186/s13256-025-05048-x
-PMID: 41992294
-
-Conflict of interest statement: Declarations. Ethics approval and consent to 
-participate: All the described experiments were conducted following Helsinki 
-Convention 1992 guidelines. This study was approved by the Board of Studies (an 
-IRB) of the Department of Biochemistry and Biotechnology, Institute of 
-Biochemistry, Biotechnology, and Bioinformatics, The Islamia University of 
-Bahawalpur. Informed consent was obtained from all participants. Consent for 
-publication: Written informed consent was obtained from the patients for 
-publication of this case report and any accompanying images. A copy of the 
-written consent is available for review by the Editor-in-Chief of this journal. 
-Competing interests: The authors do not have any competing interests.
-
-
-3. Exp Mol Med. 2026 Apr 16. doi: 10.1038/s12276-026-01693-4. Online ahead of 
-print.
-
-Delineation of the heterogeneity underlying genomic instability in hereditary 
-breast cancers reveals four disease subtypes.
-
-Kim S(#)(1), Lee S(#)(2), Kim H(3)(4), Kang SJ(1)(5), Chae H(6)(7), Kim BJ(8), 
-Kong J(8)(9), Kang MC(3), Kim TM(10)(11)(12), Kong SY(13)(14)(15).
-
-Author information:
-(1)Department of Medical Informatics, The Catholic University of Korea College 
-of Medicine, Seoul, Republic of Korea.
-(2)Department of Surgery, Center for Breast Cancer, National Cancer Center, 
-Goyang, Republic of Korea.
-(3)Targeted Therapy Branch, National Cancer Center, Goyang, Republic of Korea.
-(4)Department of Cancer Biomedical Science, National Cancer Center Graduate 
-School of Cancer Science and Policy, Goyang, Republic of Korea.
-(5)Department of Biomedicine & Health Sciences, Graduate School, The Catholic 
-University of Korea, Seoul, Republic of Korea.
-(6)Department of Medical Oncology, Center for Breast Cancer, National Cancer 
-Center, Goyang, Republic of Korea.
-(7)Department of Internal Medicine, Seoul National University Bundang Hospital, 
-Seoul National University, College of Medicine, Seongnam, Republic of Korea.
-(8)Division of Genome Science, Department of Precision Medicine, National 
-Institute of Health, Cheongju, Republic of Korea.
-(9)Division of Healthcare and Artificial Intelligence, Department of Precision 
-Medicine, National Institute of Health, Cheongju, Republic of Korea.
-(10)Department of Medical Informatics, The Catholic University of Korea College 
-of Medicine, Seoul, Republic of Korea. tmkim@catholic.ac.kr.
-(11)Cancer Research Institute, College of Medicine, The Catholic University of 
-Korea, Seoul, Republic of Korea. tmkim@catholic.ac.kr.
-(12)CMC Institute for Basic Medical Science, The Catholic Medical Center of the 
-Catholic University of Korea, Seoul, Republic of Korea. tmkim@catholic.ac.kr.
-(13)Targeted Therapy Branch, National Cancer Center, Goyang, Republic of Korea. 
-ksy@ncc.re.kr.
-(14)Department of Cancer Biomedical Science, National Cancer Center Graduate 
-School of Cancer Science and Policy, Goyang, Republic of Korea. ksy@ncc.re.kr.
-(15)Department of Laboratory Medicine, National Cancer Center, Goyang, Republic 
-of Korea. ksy@ncc.re.kr.
-(#)Contributed equally
-
-Hereditary breast cancers (hBCs) exhibit genomic heterogeneity, but their 
-underlying genomic instability and clinical implications remain unclear. We 
-conducted whole-genome sequencing on 129 BRCA1/2-negative hBCs, with subsets 
-analyzed by methylome and transcriptome sequencing, and integrated COSMIC 
-mutational, copy number (CN), and structural variation signatures. We identified 
-four subtypes: homologous recombination-deficient (HRD), mutation-dominant 
-(MUT), CN-dominant, and genome stable. HRD tumors exhibited genomic instability, 
-including promoter hypermethylation and loss of heterozygosity at BRCA1/2. Some 
-HRD-low hBC genomes showed elevated mutations and CN changes, indicating 
-HRD-independent mechanisms. MUT tumors showed high tumor mutation burdens with 
-APOBEC-associated kataegis and cytolytic/immune-activation programs with M1 
-macrophage including upregulation of GZMA, GZMB, and large-scale transition. CN 
-tumors were enriched for small-scale loss of heterozygosity maintaining euploidy 
-with recurrent focal losses implicating classic tumor suppressors. 
-Transcriptomics indicated immune and stromal infiltration in MUT and CN 
-subtypes, respectively, suggesting subtype-specific therapeutic vulnerabilities. 
-Functional analysis in cell lines suggests poly (ADP-ribose) polymerase 
-inhibitors and cytotoxic chemotherapy sensitivity in HRD and CN tumors, whereas 
-immune features in MUT tumors support vulnerability to immunotherapy. These 
-findings suggest that distinct hBC subtypes delineated by genomic instability 
-can advance insights into molecular heterogeneity beyond expression-based 
-classifications and support an integrative genomic instability index (HRD score, 
-ploidy, size-stratified CN burden, and signature exposures) for patient 
-stratification and personalized therapeutic strategies.
-
-© 2026. The Author(s).
-
-DOI: 10.1038/s12276-026-01693-4
-PMID: 41991965
-
-Conflict of interest statement: Competing interests: The authors declare no 
-competing interests.
-
-
-4. JCO Precis Oncol. 2026 Apr;10(4):e2501088. doi: 10.1200/PO-25-01088. Epub 2026
- Apr 16.
-
-Increasing Use of Germline Genetic Testing in Pancreatic Ductal Adenocarcinoma 
-and Relationship to Clinical Outcome: A Single-Institution Study.
-
-O'Connor TN(1), Schultz E(1), Horowitz M(2), Alexander MH(3), Fountzilas C(3), 
-Cherkassky L(4), Onel K(3)(5), Knudsen ES(1), Witkiewicz AK(1).
-
-Author information:
-(1)Department of Molecular and Cellular Biology, Roswell Park Comprehensive 
-Cancer Center, Buffalo, NY.
-(2)Jacobs School of Medicine, University at Buffalo, Buffalo, NY.
-(3)Department of Medicine, Roswell Park Comprehensive Cancer Center, Buffalo, 
-NY.
-(4)Department of Surgical Oncology, Roswell Park Comprehensive Cancer Center, 
-Buffalo, NY.
-(5)Department of Cancer Prevention and Control, Roswell Park Comprehensive 
-Cancer Center, Buffalo, NY.
-
-PURPOSE: Precision therapies have improved outcomes in pancreatic ductal 
-adenocarcinoma (PDAC) and highlight the utility of germline genetic testing 
-(GGT) in clinical decision making. Here, we investigate the association of GGT 
-of individuals diagnosed with PDAC over time to identify changes in testing 
-patterns and the relationship of testing with clinicopathologic parameters and 
-overall survival (OS).
-METHODS: The frequency of GGT of 979 patients with PDAC treated at the Roswell 
-Park Comprehensive Cancer Center (RPCCC) between 2017 and 2024 was determined. 
-Factors associated with performing testing and having a germline pathogenic 
-variant (GPV) were assessed. OS and the impact of precision treatment were 
-evaluated.
-RESULTS: Patients with PDAC being treated at RPCCC that had GGT increased from 
-16.5% in 2017 to 57.6% in 2024. Patients with testing had improved OS compared 
-with patients who did not (HR, 0.46). Individuals of older age, without a 
-personal history of other cancers, without a family history of pancreatic 
-cancer, with advanced disease, and with poorly differentiated tumors were less 
-likely to have testing performed. Individuals with a personal history of other 
-cancers were more likely to have a GPV. Of the 425 patients diagnosed with PDAC 
-that had testing, 58 (13.6%) had a GPV detected. Of patients with testing, 12 
-had actionable mutations in BRCA1/2, seven of whom were subsequently treated 
-with olaparib. Three patients harbored actionable mutations in MSH6, with one 
-patient subsequently treated with pembrolizumab. Patients who received therapy 
-informed by testing results had improved OS (HR, 0.09).
-CONCLUSION: GGT prevalence has increased at RPCCC and informed treatment 
-decisions. Universal point-of-care testing is being implemented with the goal of 
-completing testing for all patients with PDAC seen at RPCCC.
-
-DOI: 10.1200/PO-25-01088
-PMID: 41990298 [Indexed for MEDLINE]
-
-
-5. JCO Precis Oncol. 2026 Apr;10(4):e2500596. doi: 10.1200/PO-25-00596. Epub 2026
- Apr 16.
-
-Germline Pathogenic Variants in Homologous Recombination Pathway Genes Are 
-Frequent in Pancreatobiliary Ampullary Carcinoma.
-
-Misyura M(1), Selenica P(1), Ozcan K(1), Kemel Y(2), Basturk O(1), O'Reilly 
-EM(3), Reis-Filho JS(1)(4), Beets-Tan R(5), Stadler ZK(6), Weigelt B(1), 
-Mandelker D(1).
-
-Author information:
-(1)Department of Pathology and Laboratory Medicine, Memorial Sloan Kettering 
-Cancer Center, New York, NY.
-(2)Robert and Kate Niehaus Center for Inherited Cancer Genomics, Memorial Sloan 
-Kettering Cancer Center, New York, NY.
-(3)Gastrointestinal Oncology Service, Division of Solid Tumor Oncology, 
-Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY.
-(4)AstraZeneca, Gaithersburg, MD.
-(5)Department of Radiology, The Netherlands Cancer Institute, Amsterdam, the 
-Netherlands.
-(6)Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY.
-
-PURPOSE: Ampullary carcinoma (AMPCA) is a rare cancer classified into subtypes 
-depending on the histologic appearance and epithelium of origin. To gain 
-insights into the germline genetic factors driving predisposition to AMPCA, the 
-analysis focused on the role of homologous recombination (HR) genes in its 
-oncogenesis.
-METHODS: We analyzed germline testing results from 26,159 patients with cancer 
-undergoing clinical tumor-normal sequencing from May 2015 to November 2022, of 
-which 112 individuals had AMPCA. Germline and somatic alteration profiles were 
-analyzed for the different histologic subtypes of AMPCA, and a subset of cases 
-were selected for whole-genome sequencing (WGS) to determine the presence of HR 
-deficiency (HRD).
-RESULTS: Pathogenic variants in HR pathway genes were identified in 17/72 
-(23.6%), 0/26 (0.0%), and 1/14 (7.1%) patients with pancreatobiliary (PAMPCA), 
-intestinal (IAMPCA), and other (mixed, neuroendocrine, adenosquamous) subtypes 
-of AMPCA, respectively. Germline pathogenic variants in core HR genes, including 
-BRCA1, BRCA2, and PALB2, were exclusively detected in the PAMPCAs, and one ATM 
-germline pathogenic variant was detected in a case with mixed intestinal and 
-pancreatobiliary features. HRD features were detected in all four representative 
-PAMPCA tumor samples that underwent WGS and HRDetect analysis.
-CONCLUSION: Germline pathogenic variants in the HR pathway genes drive 
-oncogenesis in a large subset of PAMPCAs. These findings highlight the 
-importance of germline genetic testing for patients with PAMPCA for informing 
-therapy and assessing familial risk.
-
-DOI: 10.1200/PO-25-00596
-PMID: 41990295 [Indexed for MEDLINE]
-
-
-6. Cancer Treat Res Commun. 2026 Apr 12;47:101214. doi: 
-10.1016/j.ctarc.2026.101214. Online ahead of print.
-
-The complex landscape of non-coding RNAs in olaparib response and resistance.
-
-Tahamipour F(1), Ghasemi M(1), Ghahghaei-Nezamabadi A(2), Ghafouri-Fard S(3).
-
-Author information:
-(1)Student Research Committee, School of Medicine, Shahid Beheshti University of 
-Medical Sciences, Tehran, Iran.
-(2)Department of Obstetrics and Gynecology, Arash Women's Hospital, Tehran 
-University of Medical Sciences, Tehran, Iran.
-(3)Department of Medical Genetics, Shahid Beheshti University of Medical 
-Sciences, Tehran, Iran. Electronic address: s.ghafourifard@sbmu.ac.ir.
-
-Poly(ADP-ribose) polymerase inhibitors (PARPi), such as olaparib, have 
-revolutionized the treatment of cancers with deficiencies in homologous 
-recombination repair (HRR), most notably those with BRCA1/2 mutations. However, 
-the clinical efficacy of olaparib is often limited by the development of both 
-acquired and de novo resistance. Emerging evidence shows the role of non-coding 
-RNAs, including miRNAs, lncRNAs, and circRNAs, as critical regulators of 
-cellular response to olaparib. This review synthesizes current findings on the 
-dual role of ncRNAs in the context of olaparib therapy. We first discuss ncRNAs 
-that modulate sensitivity or resistance to olaparib, detailing their mechanisms 
-of action, which often involve direct or indirect regulation of key HRR genes 
-like BRCA1, BRCA2, and RAD51, as well as alternative signaling pathways such as 
-Wnt/β-catenin and STING. Subsequently, we explore how olaparib treatment itself 
-can alter the expression profile of ncRNAs, creating a dynamic feedback loop 
-that may influence therapeutic outcome. By consolidating these findings across 
-various cancers, including ovarian, breast, prostate, and hepatocellular 
-carcinoma, this review highlights the potential of ncRNAs as both predictive 
-biomarkers and therapeutic targets to overcome PARPi resistance and enhance 
-patient outcomes.
-
-Copyright © 2026 The Author(s). Published by Elsevier Ltd.. All rights reserved.
-
-DOI: 10.1016/j.ctarc.2026.101214
-PMID: 41985435
-
-Conflict of interest statement: Declaration of competing interest Authors 
-declare no conflict of interests.
-
-
-7. Cancers (Basel). 2026 Mar 29;18(7):1106. doi: 10.3390/cancers18071106.
-
-Risk of Radiation-Associated Contralateral Breast Cancer in Germline Mutation 
-Carriers: A Meta-Analysis and Systematic Review.
-
-Prihharsanti CHN(1), Prajoko YW(2), Respati DRP(3), Tjandra KC(3), Mutmainnah 
-F(4), Rismadha MB(3), Nugrahani ASD(5), Aryasatya DP(3), Manik AV(6), Nurkolis 
-F(7)(8)(9), Limijadi EKS(10).
-
-Author information:
-(1)Division of Radiation Oncology, Department of Radiology, Faculty of Medicine, 
-Universitas Diponegoro, Semarang 50275, Indonesia.
-(2)Department of Oncology Surgery, Faculty of Medicine, Universitas Diponegoro, 
-Semarang 50275, Indonesia.
-(3)Faculty of Medicine, Universitas Diponegoro, Semarang 50275, Indonesia.
-(4)Faculty of Medicine, Universitas Andalas, Padang 25163, Indonesia.
-(5)Medical Science in Clinical Investigation, Harvard Medical School, Boston, MA 
-02115, USA.
-(6)Oncology Research, University of Manchester, Manchester M13 9PL, UK.
-(7)Program of Basic Medical Science, Faculty of Medicine, Universitas Airlangga, 
-Surabaya 60131, Indonesia.
-(8)Medical Research Center of Indonesia, Surabaya 60281, Indonesia.
-(9)Institute for Research and Community Service, State Islamic University of 
-Sunan Kalijaga (UIN Sunan Kalijaga), Yogyakarta 55281, Indonesia.
-(10)Department of Clinical Pathology, Faculty of Medicine, Universitas 
-Diponegoro, Semarang 50275, Indonesia.
-
-Background/Objectives: Contralateral breast cancer (CBC) is a significant 
-concern among breast cancer survivors, particularly in those with moderator-high 
-penetrance germline mutations such as BRCA1, BRCA2, CHEK2, and ATM. While 
-radiotherapy (RT) is a crucial component of breast cancer (BC) treatment, its 
-potential role in increasing CBC risk remains unclear. This systematic review 
-and meta-analysis aim to evaluate the incidence of radiation-induced CBC in 
-germline mutation carriers. Methods: Following PRISMA guidelines, we conducted a 
-comprehensive search in six electronic databases (PubMed, Scopus, Cochrane 
-Library, ProQuest, EBSCO, and Epistemonikos) for studies published fifteen years 
-prior, up to August 2025. We included cohort and case-control studies assessing 
-the association between RT and CBC incidence in germline mutation carriers. A 
-meta-analysis was performed using a random-effects model to estimate cumulative 
-risk (CR) and rate ratios (RR). Results: Seven studies were included. The 5-year 
-cumulative risk (CR) of contralateral breast cancer (CBC) was 0.55 for BRCA1/2, 
-0.89 for ATM, and 0.80 for CHEK2 carriers. At 10 years, overall CR increased to 
-0.65, with ATM and CHEK2 remaining high. Rate ratio (RR) analysis showed a 
-significant risk for ATM (2.98), while overall RR indicated more than a two-fold 
-increased CBC risk with radiotherapy (RR = 2.70 common-effect; 2.53 
-random-effects). Conclusions: Radiotherapy significantly increases contralateral 
-breast cancer risk, particularly in ATM and CHEK2 carriers, emphasizing the 
-importance of personalized genetic risk stratification in treatment decisions.
-
-DOI: 10.3390/cancers18071106
-PMCID: PMC13072276
-PMID: 41976331
-
-Conflict of interest statement: The authors declare no conflicts of interest.
-
-
-8. Nat Rev Cancer. 2026 Apr 13. doi: 10.1038/s41568-026-00916-0. Online ahead of 
-print.
-
-Rethinking ovarian cancer III: the past decade and future directions.
-
-Balkwill FR(1), Laumont CM(2), Burdett N(3), Le Saux O(4), Garsed DW(3), Grither 
-WR(5), Nijhuis AM(6), Recouvreux MS(7), Kang Z(8), Zhang R(9), Chiappinelli 
-KB(10), Lee JS(11), Laniti DD(12), McNeish I(6), Ahmed AA(13), Rottapel R(14), 
-Conejo-Garcia JR(15), Odunsi K(16), Pharoah PDP(17), Zamarin D(18), Ishak CA(9), 
-Fotopoulou C(19), Buckanovich RJ(20), Labidi-Galy I(21), Brenton JD(22), Lengyel 
-E(16), Cook DP(23), George SHL(24), Lheureux S(14), Drapkin R(25), Nephew 
-KP(26), Adams S(27), Pathania S(28), Nelson BH(2), Färkkilä A(8), Fuh K(29), 
-Neel BG(30), Bowtell DD(31).
-
-Author information:
-(1)Barts Cancer Institute, Queen Mary University of London, London, UK. 
-F.balkwill@qmul.ac.uk.
-(2)Deeley Research Centre, BC Cancer Victoria, Victoria, British Columbia, 
-Canada.
-(3)Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia.
-(4)Centre Léon Bérard, Lyon, France.
-(5)Washington University in St. Louis, Saint Louis, MO, USA.
-(6)Imperial College London, London, UK.
-(7)University of California, Los Angeles, Los Angeles, CA, USA.
-(8)University of Helsinki and Helsinki University Hospital, Helsinki, Finland.
-(9)University of Texas MD Anderson Cancer Center, Houston, TX, USA.
-(10)George Washington University, Washington, DC, USA.
-(11)Frazer Institute, The University of Queensland, Woolloongabba, Queensland, 
-Australia.
-(12)Lausanne University Hospital and Lausanne Branch of the Ludwig Institute for 
-Cancer Research, Lausanne, Switzerland.
-(13)MRC Weatherall Institute of Molecular Medicine, John Radcliffe Hospital, 
-University of Oxford, Oxford, UK.
-(14)Princess Margaret Cancer Centre, University of Toronto, Toronto, Ontario, 
-Canada.
-(15)Duke University School of Medicine, Durham, NC, USA.
-(16)University of Chicago, Chicago, IL, USA.
-(17)Cedars-Sinai Medical Center, Los Angeles, CA, USA.
-(18)Icahn School of Medicine at Mount Sinai, New York, NY, USA.
-(19)Department of Surgery and Cancer, Faculty of Medicine of Imperial College 
-London, London, UK.
-(20)Magee Womens Research Institute, University of Pittsburgh, Pittsburgh, PA, 
-USA.
-(21)Université de Genève and Hôpitaux Universitaires de Genève, Geneva, 
-Switzerland.
-(22)Cancer Research UK Cambridge Institute, University of Cambridge, Cambridge, 
-UK.
-(23)Ottawa Hospital Research Institute, University of Ottawa, Ottawa, Ontario, 
-Canada.
-(24)Sylvester Comprehensive Cancer Center University of Miami Miller School of 
-Medicine, Miami, FL, USA.
-(25)University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, 
-USA.
-(26)Indiana University School of Medicine, Bloomington, IN, USA.
-(27)University of New Mexico Comprehensive Cancer Centre, Albuquerque, NM, USA.
-(28)University of Massachusetts, Boston, MA, USA.
-(29)University of California, San Francisco, San Francisco, CA, USA.
-(30)NYU Grossman School of Medicine, New York, NY, USA.
-(31)Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia. 
-David.bowtell@petermac.org.
-
-Approximately 80% of deaths from ovarian cancer are due to high-grade serous 
-carcinoma (HGSC), which has the highest proportion of BRCA1 or BRCA2 
-(BRCA1/BRCA2) mutations of any cancer type and is a highly chromosomally 
-unstable disease. Despite the introduction of targeted therapies benefitting 
-some patients with HGSC as well as surgical advances, only 50% of patients will 
-survive more than 5 years, and just 30% of patients who present with advanced 
-disease without BRCA1/BRCA2 mutations will survive this long. This Expert 
-Recommendation is based on discussions among emerging and leading ovarian cancer 
-researchers at the 15th Helene Harris Memorial Trust International Forum on 
-ovarian cancer hosted by Ovarian Cancer Action in October 2024. The meeting 
-considered advances in HGSC research and treatment made over the last decade, 
-current challenges, emerging technologies in prevention, early detection, and 
-treatment, and research priorities for the years ahead.
-
-© 2026. Springer Nature Limited.
-
-DOI: 10.1038/s41568-026-00916-0
-PMID: 41975230
-
-Conflict of interest statement: Competing interests: J.D.B. is a shareholder in 
-Tailor Bio. A.A.A. is a founder, director, and consultant for Singular Bio Ltd. 
-S.H.L.G. receives research grants from Pfizer, Advenchen, and GSK. K.O. is a 
-co-founder of Tactiva Therapeutics. D.Z. reports institutional grants from 
-Merck, Genentech, AstraZeneca, Xencor, Zymeworks, and Synthekine; personal fees 
-from AstraZeneca, Xencor, Memgen, Daichi Sankyo, Gilead, Synthekine, Immunos, 
-Hervolution, Accurius, Replimune, and Calidi Biotherapeutics; and holds a patent 
-on the use of oncolytic Newcastle Disease Virus for cancer therapy. K.B.C. 
-reports consulting fees from ROME Therapeutics and Daiichi Sankyo, and has a 
-sponsored research agreement with Enara Bio. J.R.C.-G. receives consulting fees 
-from Alloy Therapeutics and licensing fees from Anixa Biosciences; holds 
-intellectual property with Anixa Biosciences and Compass Therapeutics; and is 
-co-founder of Cellepus Therapeutics, a CAR gamma/delta T cell company. E.L. 
-receives research funding from AbbVie through the University of Chicago to study 
-ovarian cancer. D.D.L. has received research grants from Hoffmann-La Roche AG 
-and 10xGenomics. S.A. receives clinical trial funding from AstraZeneca. F.R.B. 
-receives an honorarium from GSK and research funding from AstraZeneca. D.D.B. 
-has received research grant funding from Hoffmann-La Roche and Astra Zeneca. 
- C.M.L., N.B., O.L.S., D.W.G., W.R.G., A.M.N., M.S.R., Z.K., R.Z., J.S.L., I.M., 
-R.R., P.D.P.P., C.A.I., C.F., R.J.B., I.L.-G., D.P.C., S.L., R.D., K.P.N., S.P., 
-B.H.N., A.F., K.F., and B.G.N. all declare no competing interests.
-
-
-9. Cells. 2026 Mar 26;15(7):588. doi: 10.3390/cells15070588.
-
-PARP Inhibition in Prostate Cancer: Current Status, Resistance Mechanisms, and 
-Clinical Challenges.
-
-Matsuoka T(1)(2)(3)(4), Akamatsu S(5), Ong CJ(1)(3), Gleave ME(1)(3), Wang 
-Y(1)(2)(3).
-
-Author information:
-(1)Vancouver Prostate Centre, Vancouver General Hospital, Vancouver, BC V5Z 1M9, 
-Canada.
-(2)Department of Experimental Therapeutics, BC Cancer Agency, Vancouver, BC V5Z 
-1L3, Canada.
-(3)Department of Urologic Sciences, Faculty of Medicine, The University of 
-British Columbia, Vancouver, BC V5Z 1M9, Canada.
-(4)Department of Urology, Graduate School of Medicine, Kyoto University, Kyoto 
-606-8507, Japan.
-(5)Department of Urology, Graduate School of Medicine, Nagoya University, Nagoya 
-466-8550, Japan.
-
-Poly(ADP-ribose) polymerase inhibitors (PARPi) have reshaped therapy for 
-advanced prostate cancer, yet durable benefit remains concentrated in 
-BRCA1/2-altered tumors, especially BRCA2, and most responders eventually 
-relapse. Here, we frame PARPi response and resistance through a unifying model 
-in which DNA damage response (DDR) rewiring (e.g., homologous recombination 
-repair (HRR) restoration, fork protection, checkpoint tolerance, and altered 
-drug handling) converges with treatment-induced dormancy and quiescent 
-therapy-tolerant residual states that sustain minimal residual disease (MRD) 
-under androgen receptor pathway inhibition (ARPI) and PARP blockade. We 
-synthesize clinical and translational evidence for PARPi monotherapy and 
-PARPi-based combinations across disease states. In first-line metastatic 
-castration-resistant prostate cancer (mCRPC), PARPi plus ARPI consistently 
-prolongs radiographic progression-free survival, with the greatest benefit in 
-HRR-altered tumors, and emerging overall-survival signals in selected subgroups. 
-In later-line settings, monotherapy activity is most robust in BRCA2-mutated 
-disease, whereas non-BRCA HRR alterations show heterogeneous and often modest 
-responses, underscoring the need for biomarkers beyond gene panels. We also 
-discuss combination strategies with DDR-targeting agents, radioligand therapies, 
-and immunotherapy, and summarize ongoing phase III programs in metastatic 
-castration-sensitive prostate cancer (mCSPC). Finally, we outline practical 
-considerations for biomarker-informed patient selection, monitoring, sequencing, 
-and toxicity management, with particular emphasis on intercepting MRD and 
-resistance evolution.
-
-DOI: 10.3390/cells15070588
-PMCID: PMC13072167
-PMID: 41972679 [Indexed for MEDLINE]
-
-Conflict of interest statement: The authors declare no conflicts of interest.
-
-
-10. Biochem Biophys Rep. 2026 Mar 31;46:102564. doi: 10.1016/j.bbrep.2026.102564.
- eCollection 2026 Jun.
-
-From mutation to treatment: The dual role of BRCA1 and BRCA2 in gynecological 
-malignancy development and management a systematic review.
-
-Georgy DM(1), Sedeek HN(1), Abaza NE(1), Eldeeb SEK(1), Khamis SM(1), Elgamil 
-MR(1), Magar RW(2).
-
-Author information:
-(1)Department of Applied Biochemistry and Molecular Biology, Faculty of Science, 
-Mansoura University, Mansoura, Egypt.
-(2)Transplantation Immunology Department, Urology and Nephrology Center, 
-Mansoura University, Mansoura, Egypt.
-
-The Breast Cancer gene 1 (BRCA1) and Breast Cancer gene 2 (BRCA2) genes are 
-pivotal human tumor suppressor genes that are essential for preserving genomic 
-stability. Mutations in BRCA1 and BRCA2 prevent homologous recombination, which 
-is regulated by cell cycle checkpoints, thereby hindering the repair of 
-double-stranded DNA. The ultimate result of genomic instability is characterized 
-by altered transcriptional control and abnormal expression of essential 
-cell-cycle proteins. As significant genetic factors, any mutations in the BRCA1 
-and BRCA2 genes substantially elevated a woman's risk of getting ovarian and 
-breast cancer, often resulting in the development of these cancers earlier in 
-life. Treatment of breast and ovarian cancer brought on by BRCA gene mutations 
-focuses heavily on germline BRCA-mutated (gBRCAm) testing, targeted therapies 
-such as Poly (ADP-ribose) polymerase inhibitors (PARP inhibitors), in addition 
-to other options such as traditional chemotherapy and immunotherapy. This 
-systematic review examines the crucial role of BRCA1 and BRCA2 in DNA repair, as 
-well as how their mutations contribute to the development of inherited 
-gynecological malignancies, and potential treatments targeting BRCA-deficient 
-tumors. Also discusses resistance mechanisms to PARP inhibitors, the potential 
-for combination therapies (PARP inhibitors + immune checkpoint inhibitors), and 
-Advances in nanotechnology-based drug delivery, dynamic biomarker development, 
-and CRISPR-based gene repair for BRCA mutations as future challenges and 
-direction for curable patient.
-
-© 2026 Published by Elsevier B.V.
-
-DOI: 10.1016/j.bbrep.2026.102564
-PMCID: PMC13068609
-PMID: 41970631
-
-Conflict of interest statement: The authors declare that they have no known 
-competing financial interests or personal relationships that could have appeared 
-to influence the work reported in this paper.
-
-
-11. Transl Oncol. 2026 Apr 11;68:102757. doi: 10.1016/j.tranon.2026.102757.
-Online  ahead of print.
-
-PARP inhibitors target cellular energy metabolism: Mechanisms of action and 
-clinical implications.
-
-Li J(1), Mu D(2), Li J(3), Lan M(4), Wu W(5), Zhang S(6), Dai Y(7).
-
-Author information:
-(1)Department of Gynecologic Oncology, Gynecologic and Obstetrics Centre, The 
-First Hospital of Jilin University, Changchun, Jilin 130012, China; Jilin 
-Provincial Key Laboratory of Female Reproductive Health, Jilin 130012, China; 
-Laboratory of Cancer Precision Medicine, The First Hospital of Jilin University, 
-Changchun, Jilin 130012, China.
-(2)Department of Operation Room, The First Hospital of Jilin University, 
-Changchun, Jilin 130012, China.
-(3)Department of Blood Transfusion, The First Hospital of Jilin University, 
-Changchun, Jilin 130012, China.
-(4)Laboratory of Cancer Precision Medicine, The First Hospital of Jilin 
-University, Changchun, Jilin 130012, China.
-(5)Department of Neurosurgery, The First Hospital of Jilin University, 
-Changchun, Jilin 130012, China. Electronic address: wu_w@jlu.edu.cn.
-(6)Department of Gynecologic Oncology, Gynecologic and Obstetrics Centre, The 
-First Hospital of Jilin University, Changchun, Jilin 130012, China; Jilin 
-Provincial Key Laboratory of Female Reproductive Health, Jilin 130012, China. 
-Electronic address: slzhang@jlu.edu.cn.
-(7)Laboratory of Cancer Precision Medicine, The First Hospital of Jilin 
-University, Changchun, Jilin 130012, China. Electronic address: 
-daiyun@jlu.edu.cn.
-
-Poly-ADP-ribose polymerase (PARP) is a multifunctional ribozyme that is involved 
-in a variety of biological functions, including DNA repair, modulation of 
-chromatin structure, RNA transcription, cell division, metabolism, mitochondrial 
-biology, oxidative stress biology, and cell death and differentiation. PARP 
-inhibitors (PARPi) are a new class of targeted drugs widely used in the 
-treatment of cancer with BRCA1/2 mutations and non-malignant diseases. Although 
-PARPi has been known to affect the energy metabolism of cells, its exact effects 
-and mechanisms on this process have not yet been fully understood. In this 
-review article, we aim to provide a comprehensive overview of the current 
-understanding of PARPi's effects on various physiological processes involving 
-cellular energy metabolism, highlighting the importance of further exploring how 
-the human body maintains the balance of energy metabolism during PARPi therapy. 
-We also highlight the importance of future studies on the relationship between 
-PARPi treatment and the depletion of NAD+ levels, the activation of PARP1, or 
-the transition between different patterns of energy metabolism, to provide more 
-insights into the safety and efficacy of PARPi in clinical practice.
-
-Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.tranon.2026.102757
-PMID: 41967334
-
-Conflict of interest statement: Declaration of competing interest The authors 
-declare that they have no competing interests.
-
-
-12. Clin Genitourin Cancer. 2026 Mar 19:102545. doi: 10.1016/j.clgc.2026.102545. 
-Online ahead of print.
-
-Prognostic Significance of Circulating Tumor DNA in Metastatic Prostate Cancer: 
-A Systematic Review and Meta-Analysis.
-
-Ye D(1), Zhao Y(2), Yang L(3), Sun X(2), Cao T(2), Yuan M(2), Qiao T(2), Xing 
-L(3), Sun X(4).
-
-Author information:
-(1)School of Medical Imaging, Shandong Second Medical University, Weifang, 
-China; Center for Nuclear Medicine and Molecular Imaging, Shandong Cancer 
-Hospital and Institute, Shandong First Medical University and Shandong Academy 
-of Medical Sciences, Jinan, China.
-(2)Department of Graduate, Shandong First Medical University (Shandong Academy 
-of Medical Sciences), Jinan, China; Center for Nuclear Medicine and Molecular 
-Imaging, Shandong Cancer Hospital and Institute, Shandong First Medical 
-University and Shandong Academy of Medical Sciences, Jinan, China.
-(3)Department of Radiotherapy, Shandong Cancer Hospital and Institute, Shandong 
-First Medical University and Shandong Academy of Medical Sciences, Jinan, China.
-(4)Center for Nuclear Medicine and Molecular Imaging, Shandong Cancer Hospital 
-and Institute, Shandong First Medical University and Shandong Academy of Medical 
-Sciences, Jinan, China. Electronic address: xrsun@sdfmu.edu.cn.
-
-Circulating tumor DNA (ctDNA) is a minimally invasive biomarker that enables 
-molecular profiling and prognostic stratification in cancer. This meta-analysis 
-evaluated the prognostic significance of ctDNA in metastatic prostate cancer 
-(mPC). PubMed, Web of Science and Scopus were searched from inception to 
-September 15, 2025 for studies assessing ctDNA and survival in prostate cancer. 
-Hazard ratios (HRs) for progression-free survival (PFS) and overall survival 
-(OS) were extracted; when unavailable, HRs were reconstructed from published 
-survival curves. Meta-analyses were performed according to ctDNA detectability, 
-ctDNA levels and ctDNA-detected gene mutations. About 13 studies including 
-18,575 patients were eligible. Across 9 studies, detectable ctDNA was associated 
-with significantly worse PFS (HR = 1.65, 95% CI: 1.22-2.22) and OS (HR = 2.20, 
-95% CI: 1.92-2.51) versus undetectable ctDNA. In patients receiving androgen 
-receptor pathway inhibitors and in mCRPC, ctDNA negativity consistently 
-correlated with longer PFS and OS. Gene-level analyses showed that AR, CDK6/12, 
-MYC, PIK3CA, and BRCA1/2 mutations in ctDNA were linked to inferior PFS, whereas 
-BRCA1/2 mutations did not significantly worsen OS. About 5 studies examined 
-ctDNA levels: higher ctDNA levels predicted poorer survival (PFS: HR = 1.68, 95% 
-CI: 1.18-2.38; OS: HR = 2.43, 95% CI: 1.50-3.93), and lower levels were 
-associated with better outcomes in ARPI-treated and mCRPC patients. In mPC, 
-ctDNA detectability and elevated ctDNA levels are strongly associated with 
-adverse survival. Quantitative ctDNA profiling, including assessment of key gene 
-mutations, offers a clinically relevant tool to refine risk stratification and 
-to support molecularly informed treatment selection and monitoring where 
-clinically validated.
-
-Copyright © 2026 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.clgc.2026.102545
-PMID: 41966893
-
-Conflict of interest statement: Disclosure The authors have stated that they 
-have no conflicts of interest.
-
-
-13. NPJ Breast Cancer. 2026 Apr 11;12(1):60. doi: 10.1038/s41523-026-00947-8.
-
-PARP inhibition with olaparib and talazoparib for HER2-negative advanced breast 
-cancer-Results from the prospective PRAEGNANT registry.
-
-Hörner M(1), Hartkopf A(2), John N(1)(3), Ziegler P(1), Häberle L(1)(3), Uhrig 
-S(1), Goossens C(1), Amann N(1), Cieslik JP(4), Tretschock LM(5), Dannehl D(6), 
-Deutsch TM(5), Dimpfl M(7), Ehlert M(8), Eichstädt K(9), Englisch A(2), Köpke 
-MB(10), Krückel A(1), Link T(11), Müller A(2), Reinhardt K(9), Roth J(12), 
-Schäffler H(13), Sych L(14), Tauber N(15), Tegeler CM(2), Wichmann C(11), 
-Banys-Paluchowski M(15), Princk H(15), Rody A(15), Brucker SY(2), Ditsch N(10), 
-Ettl J(16)(17), Fehm T(4), Hack CC(1), Hadji P(18), Hein A(19), Janni WW(13), 
-Kolberg HC(20), Lüftner D(21), Lux MP(22), Müller V(8), Taran FA(6), Tesch 
-H(23), Wallwiener D(2), Marmé F(7), Seitz S(12), Belleville E(24), Michel 
-LL(14)(25), Wallwiener M(9), Fasching PA(26), Schneeweiss A(14)(25), Maurer 
-C(27).
-
-Author information:
-(1)Department of Gynecology and Obstetrics, University Hospital Erlangen, 
-Comprehensive Cancer Center Erlangen-EMN (CCC ER-EMN), 
-Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany.
-(2)Department of Women's Health, Tuebingen University, Tuebingen, Germany.
-(3)Biostatistics Unit, Erlangen University Hospital, Department of Gynecology 
-and Obstetrics, University Hospital Erlangen, Comprehensive Cancer Center 
-Erlangen-EMN (CCC ER-EMN), Friedrich-Alexander-Universität Erlangen-Nürnberg 
-(FAU), Erlangen, Germany.
-(4)Department of Gynecology and Obstetrics, Center of Integrated Oncology ABCD, 
-Medical Faculty, Heinrich Heine University and University Hospital Düsseldorf, 
-Düsseldorf, Germany.
-(5)Department of Obstetrics and Gynecology, University Hospital Heidelberg, 
-Heidelberg, Germany.
-(6)Department of Gynecology and Gynecologic Oncology, Center for Integrated 
-Oncology Aachen Bonn Cologne Düsseldorf, Medical Faculty and University Clinic 
-of Cologne, University of Cologne, Cologne, Germany.
-(7)Department of Gynecology and Obstetrics, University Medical Center Mannheim, 
-Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany.
-(8)University Medical Center Hamburg-Eppendorf, Hamburg, Germany.
-(9)Department of Gynecology, University Hospital Halle, Halle, Germany.
-(10)Department of Obstetrics and Gynaecology, University Hospital Augsburg, 
-Augsburg, Germany.
-(11)Department of Gynecology and Obstetrics, Medical Faculty and University 
-Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden, Germany.
-(12)Department of Obstetrics and Gynecology, Caritas Hospital St. Josef, 
-University Medical Center Regensburg,, University of Regensburg, Regensburg, 
-Germany.
-(13)Department of Gynecology and Obstetrics, University Hospital Ulm, Ulm, 
-Germany.
-(14)Department of Medical Oncology, National Center for Tumor Diseases (NCT), 
-University Hospital Heidelberg, Heidelberg, Germany.
-(15)Department of Gynecology and Obstetrics, University Hospital 
-Schleswig-Holstein, Campus Lübeck, Luebeck, Germany.
-(16)Department of Obstetrics and Gynecology, Klinikum Rechts Der Isar, Technical 
-University of Munich, Munich, Germany.
-(17)Cancer Center Kempten/Allgäu (CCKA), Klinikum Kempten, Kempten, Germany.
-(18)Frankfurt Center for Bone Health and Endocrinology, Frankfurt Am Main, 
-Germany.
-(19)Department of Gynecology, Klinikum Esslingen GmbH, Esslingen, Germany.
-(20)Department of Gynecology and Obstetrics, Marienhospital Bottrop, Bottrop, 
-Germany.
-(21)Immanuel Hospital Märkische Schweiz & Immanuel Campus Rüdersdorf, Medical 
-University of Brandenburg Theodor-Fontane, Rüdersdorf bei Berlin, Germany.
-(22)Department of Gynecology and Obstetrics, Frauenklinik St. Louise, Paderborn, 
-St. Josefs-Krankenhaus, Salzkotten, Vincenz Kliniken GmbH, Paderborn, Germany.
-(23)Oncology Practice, Bethanien Hospital, Frankfurt am Main, Germany.
-(24)ClinSol GmbH & Co. KG, Würzburg, Germany.
-(25)German Cancer Research Center (DKFZ), Heidelberg, Germany.
-(26)Department of Gynecology and Obstetrics, University Hospital Erlangen, 
-Comprehensive Cancer Center Erlangen-EMN (CCC ER-EMN), 
-Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany. 
-peter.fasching@uk-erlangen.de.
-(27)Department of Gynecology and Gynecologic Oncology and Department I of 
-Internal Medicine, Center for Integrated Oncology Aachen Bonn Cologne 
-Duesseldorf, Faculty of Medicine and University Hospital Cologne, University of 
-Cologne, Cologne, Germany.
-
-Germline BRCA1 and BRCA2 mutations enable targeted therapies in human epidermal 
-growth factor receptor 2 (HER2)-negative advanced breast cancer (ABC). The two 
-poly (adenosine diphosphate-ribose) polymerase (PARP) inhibitors olaparib and 
-talazoparib were introduced into clinical practice in 2018. Limited evidence 
-about their routine clinical use highlights the importance of this analysis. We 
-provide a real-world analysis for PARP-inhibitor use in ABC patients treated 
-within the prospective German PRAEGNANT registry (NCT02338167). 152 patients 
-with ABC receiving a PARP-inhibitor were included. Real-world progression-free 
-survival (rwPFS) and real-world overall survival (rwOS) were calculated for all 
-patients using the Kaplan-Meier method. Subgroups (line of therapy, metastasis 
-timing, hormone receptor (HR) status, treatment: olaparib, talazoparib, among 
-others), germline BRCA1, BRCA2 and PALB2 mutations and adverse events (AEs) were 
-analyzed. The median rwPFS was 6.2 months (95% CI, 4.8-7.9) and the median rwOS 
-was 17.1 months (95% CI, 14.4-22.3). Line of therapy, HR status and treatment 
-(olaparib versus talazoparib) appeared to especially affect both rwPFS and rwOS. 
-Among patients with a reported germline mutation, 36.1% had a BRCA1, 62.9% a 
-BRCA2 and 1.0% a PALB2 mutation. In summary, outcomes were comparable to those 
-reported in pivotal trials despite later-line use of PARP-inhibitors in this 
-analysis.
-
-© 2026. The Author(s).
-
-DOI: 10.1038/s41523-026-00947-8
-PMID: 41965791
-
-Conflict of interest statement: Competing interests: M.H. received research 
-support from Helsinn Healthcare SA, honoraria from Lilly Deutschland GmbH, 
-Thieme and travel support from Novartis, Lilly Deutschland GmbH, and 
-AstraZeneca. A.H. received grants or contracts from ExactScience, Veracyte, 
-consulting fees from Roche, Novartis, MSD, Agendia, AstraZeneca, GSK, 
-ExactScience, Riemser, Teva, Onkowissen, Lilly, Gilead, Menarini Stemline, 
-Pfizer, Amgen, Pierre Fabre, DaichiiSankyo, and payment or honoraria for 
-lectures, presentations, speakers bureaus from Roche, Novartis, Lilly, MSD, 
-AstraZeneca, Agendia, Seagen, GSK, ExactScience, Riemser, Teva, Onkowissen, 
-Gilead, Menarini Stemline, Pfizer, Amgen, Pierre Fabre, Eisai, DaichiiSankyo, 
-Thieme, Veracyte, Springer, support for attending meetings from Roche, Novartis, 
-Lilly, AstraZeneca, GSK, ExactScience, Gilead, Menarini Stemline, Pfizer, 
-DaichiiSankyo and Participation on Advisory Board from Novartis, Roche, Agendia, 
-Lilly, Gilead, AstraZeneca, Pfizer, MSD, Daiichi Sankyo, GSK, Menarini Stemline, 
-ExactScience, Eisai, Sandoz/Hexal. N.A. received honoraria for lectures and 
-participation in advisory boards: Gilead, Pfizer, Novartis, and received support 
-for attending meetings from AstraZeneca, Novartis. A.K. received lecture fees 
-from Gilead and Novartis, honoria for written scientific work from Thieme as 
-well as support for attending meetings from Lilly; T.L. received Consulting fees 
-from Roche, Lilly, MSD, honoraria for lectures, presentations, speakers bureaus, 
-manuscript writing or educational events from Amgen, Roche, MSD, Novartis, 
-Pfizer, Lilly, GSK, Gilead, AstraZeneca, Daiichi Sankyo, Stemline, Seagen, 
-Support for attending meetings and/or travel from Pfizer, AstraZeneca, Gilead, 
-Daiichi Sankyo, Stemline, Seagen, MSD, advisory board honoraria from MSD, Roche, 
-Pfizer, Lilly, Myriad, Esai, GSK, Gilead, Daiichi Sankyo, Roche, AstraZeneca; 
-A.E. received lecture honoraria from AstraZeneca. H.S. received honoraria from 
-Pfizer, Novartis, GILEAD, Lilly, Daiichi, Eickeler Veranstaltungen, Novartis, 
-GILEAD. N.T. received honoraria for lectures and advisory boards: Novartis, 
-Exact Sciences, Pfizer, Thieme, AstraZeneca, Grants or contracts from: Novartis, 
-Travel expenses: Novartis, Daiichi sankyo, AstraZeneca, Participation on a Data 
-safety Monitoring Board or Advisory Board from Novartis, Thieme, C.G. received 
-speaker honoraria from Novartis Pharma GmbH and ClinSol GmbH & Co. KG. C.M.T. 
-received honoraria from AstraZeneca and is a shareholder in Curevac N.V. and 
-BioNTech SE. M.B.-P. received grants or contracts from Korean Breast Cancer 
-Society, Eugen & Irmgard Hahn Stiftung, EndoMag, Mammotome, MeritMedical, Sirius 
-Medical, Gilead, Hologic, Exact Sciences, Claudia von Schilling Stiftung, Dampft 
-Stiftung, Ehmann Stiftung, Savognin, payment for honoraria or lectures from 
-Roche, Novartis, Pfizer, Pfm, Eli Lilly, Onkowissen, Seagen, AstraZeneca, Eisai, 
-Amgen, Samsung, Canon, MSD, GSK, Daiichi Sankyo, Gilead, Sirius Medical, 
-Syantra, Resitu, Pierre Fabre, Exact Sciences, Aurikamed, Stemline, support for 
-attending meetings from Eli Lilly, Exact Sciences, Pierre Fabre, Pfizer, Daiichi 
-Sankyo, Roche, Stemline. S.Y.B. received institutional grants from Pfizer, 
-Seagen, Daiichi-Sankyo, Gilead, Berlin-Chemie AG, AstraZeneca, Helsinn 
-Healthcare S.A. and personal honoraria for lectures from AstraZeneca. CC.H. 
-received honoraria for lectures from Novartis, Roche, Pfizer, Gilead, 
-AstraZeneca, MSD, Daiichi Sankyo, Eisai, honoraria for participation in advisory 
-boards from Roche, Daiichi Sankyo, MSD, Novartis and support for attending 
-meetings from Daiichi Sankyo. D.L. reports consulting fees, honoraria, payment 
-for expert testimony or support for attending meetings from Eli Lilly, Novartis, 
-Pfizer, Gilead, Daiichi Sankyo, GSK, Loreal, Onkowissen, high5, MSD, 
-AstraZeneca, AbbVie, Genmab. M.P.L reports payments for participation in 
-Advisory Boards / Advisory from Novartis, Hexal, Agendia, Endomag, Lilly, MSD, 
-Pfizer, Exact Sciences, Daiichi-Sankyo, Gilead, Roche, Stemline/ Menari-Group, 
-AstraZeneca, Payment for lectures from Lilly, Roche, MSD, Novartis, Pfizer, 
-Exact Sciences, Daiichi-Sankyo, Grünenthal, GSK, Gilead, AstraZeneca and Eisai, 
-support for attending meetings from Gilead, Daiichi-Sankyo, AstraZeneca and 
-Pfizer, Participation on a Data Safety Monitoring Board or Advisory Board Pfizer 
-PERFORM trial, Novartis BC-CAPTOR-trial, Novartis Caroleen trial and board 
-membership for Deutsche Gesellschaft für Senologie e.V., Deutsche Akademie für 
-Senologie and Participant in the Kommission Mamma der AGO e.V. and Receipt of 
-equipment, materials, drugs, medical writing, gifts or other services from 
-AstraZeneca Pfizer, V.M. received Speaker honoraria: AstraZeneca, arsTempi, 
-Daiichi-Sankyo, Eisai, Pfizer, MSD, Medac, Novartis, Roche, Seagen, Onkowissen, 
-high5 Oncology, Lilly, Medscape, Gilead, Pierre Fabre, iMED Institute, 
-Consultancy honoraria: Roche, Pierre Fabre, PINK, ClinSol, Novartis, MSD, 
-Daiichi-Sankyo, Eisai, Lilly, Seagen, Gilead, Stemline, Institutional research 
-support: Novartis, Roche, Seagen, Genentech, AstraZeneca, Travel grants: Astra 
-Zeneca, Roche, Pfizer, Daiichi Sankyo, Gilead, V.M. is an editorial board member 
-of the journal The Breast. F.-A.T. received consulting fees from GSK, AbbVie, 
-MSD, Payment or honoraria for lectures, presentations, speakers bureaus from 
-AstraZeneca, Roche, Novartis and Support for attending meetings and/or travel 
-from AbbVie. A.S. received honoraria from Amgen, AstraZeneca, Aurikamed, Bayer, 
-Celgene, ClinSol, Clovis Oncology, coma UroGyn, Connectmedica, Daiichi Sankyo, 
-Gilead, GSK, if-kongress, I-MED, iOMEDICO, Lilly, MCI Deutschland, med publico, 
-Menarini Stemline, Metaplan, MSD, Mylan, NeoConnect, NanoString Technologies, 
-Novartis, Onkowissen, Pfizer, Pierre Fabre, promedicis, Roche, Seagen, 
-streamedup, SYNLAB, Tesaro and travel support from AstraZeneca, Celgene, Daiichi 
-Sankyo, Gilead, Pfizer, Roche; M.B-P. received honoraria for lectures and 
-advisory boards: Roche, Novartis, Pfizer, pfm, Eli Lilly, Onkowissen, Seagen, 
-AstraZeneca, Eisai, Amgen, Samsung, Canon, MSD, GSK, Daiichi Sankyo, Gilead, 
-Sirius Medical, Syantra, resitu, Pierre Fabre, ExactSciences, Aurikamed. Study 
-support: Korean Breast Cancer Society, Eugen & Irmgard Hahn Stiftung, EndoMag, 
-Mammotome, MeritMedical, Sirius Medical, Gilead, Hologic, ExactSciences, Claudia 
-von Schilling Stiftung, Damp Stiftung, Ehmann Stiftung Savognin. Travel 
-expenses: Eli Lilly, ExactSciences, Pierre Fabre, Pfizer, Daiichi Sankyo, Roche, 
-Stemline. A.R. received honoraria for lectures: Roche, Pfizer, Novartis, Celgen, 
-LEO Pharma, Novartis, ExactSciences, Pierre Fabre, Lilly, Seagen, Targos and 
-honoraria for Participation on a Data Safety Monitoring Board or Advisory Board 
-from Roche, Daiichi Sankyo, AstraZeneca, Pfizer, Celgen, Eisai, Novartis, MSD, 
-Hexal, Amgen, Exact Sciences, Pierre Fabre, RG. Advisory Boards: Roche, 
-AstraZeneca, Pfizer, Celgen, Eisai, Novartis, MSD, Hexal, Amgen, ExactSciences, 
-Pierre Fabre. J.E. received Speakers Bureau, Travel Grants or Advisory Boards: 
-Eli Lilly, Novartis, Pfizer, Gilead, Daiichi Sankyo, GSK, Onkowissen, 
-AstraZeneca, Menarini. T.F. received as consulting fees or honoraria for 
-lectures, presentations, speakers bureaus, manuscript writing or educational 
-events personal payments from Onkowissen, Medconcept, Payments to institution 
-from AstraZeneca, Daichii Sankyo, Roche, Novartis, Pfizer, AbbVie. MSD, Support 
-for attending meetings and/or travel from Roche, Daichii Sankyo, Pfizer; S.S. 
-received consulting fees or Payment or honoraria for lectures, presentations, 
-speakers bureaus, manuscript writing or educational events from AstraZeneca, 
-Daiichi-Sankyo, GE HealthCare, Gilead, GSK, Lilly, MSD, Novartis, Pfizer, Roche, 
-Stemline Menarini and support for attending meetings from AstraZeneca, GE 
-HealthCare, Gilead, Lilly, Pfizer, Stemline Menarini. L.L.M. received fees for 
-speaking engagements and accommodation expenses in connection with congress 
-participations from Roche, Pfizer, Lilly Pharma, Daiichi Sankyo, AstraZeneca, 
-Onkowissen, Gilead, Novartis. W.W.J. received research Grants and/or honoraria 
-from AstraZeneca, Cellgene, Chugai, Daiichi Sankyo, Eisai, ExactScience, Gilead, 
-GSK, Guardant Health, Janssen, Lilly, Menarini Stemline, MSD, NeoGenomics, 
-Novartis, Pfizer, Roche, Sanofi-Aventis, Seagen. M.W. received Grants or 
-contracts from Novartis, Consulting fees from AstraZeneca, Daichi-Sankyo, 
-Pfizer, Novartis, Roche, Ethicon, Onkowissen, Menari, Storz, PlantTec, honoraria 
-for lectures, presentations, speakers bureaus, manuscript writing or educational 
-events from AstraZeneca, Daichi-Sankyo, Pfizer, Novartis, Roche, Ethicon, 
-Onkowissen, Menari, Storz, PlantTec, Payment for expert testimony from 
-Astra-Zeneca, Daichi-Sankyo, Pfizer, Novartis, Roche, Menari, fees for 
-participation on a Data Safety Monitoring Board or Advisory Board from 
-Astra-Zeneca, Daichi-Sankyo, Pfizer, Novartis, Roche, Ethicon, Onkowissen, 
-Menari, Storz, PlantTec and is an ESGE AdBoard member, AGE Steering Board, 
-Member of AGO “uterus committee”, Coordinator S2-LL Uterine sarcomas, P.A.F. has 
-received institutional funding from BioNTech, Cepheid and Pfizer and peronal 
-honoraria from Novartis, Pfizer, Roche, Daiichi Sankyo, AstraZeneca, Lilly, 
-Eisai, Merck Sharp & Dohme, Pierre Fabre, SeaGen, Agendia, Sanofi Aventis, 
-Gilead and Mylan for consulting, participation in advisory boards and steering 
-committees and/or lectures. His institution conducts research for Novartis. C.M. 
-received consulting fees from AbbVie, Celgene/BMS, Pfizer, Nordic Pharma, 
-honoraria for lectures or presentations from Daiichi Sankyo, Novartis, Lilly and 
-support for attending meetings and/or travel from Brustkrebs Deutschland eV, 
-Novartis, Roche, Mundipharma, Amgen, Servier Deutschland GmbH, AbbVie. The other 
-authors do not have a competing interest.
-
-
-14. Biomark Res. 2026 Apr 10;14(1):40. doi: 10.1186/s40364-026-00915-1.
-
-The molecular landscape of the C1498 murine acute myeloid leukemia cell line.
-
-Ghetti M(#)(1), De Santis I(#)(2), Tolomeo D(3), Ruggieri F(1)(4), Bracci C(1), 
-Bochicchio MT(1), Paganelli M(1), Ferrari A(1), Sangaletti S(5), Storlazzi 
-CT(3), Simonetti G(6).
-
-Author information:
-(1)Biosciences Laboratory, IRCCS Istituto Romagnolo per lo Studio dei Tumori 
-(IRST) "Dino Amadori", via Piero Maroncelli, 40, 47014, Meldola (FC), Italy.
-(2)Unit of Biostatistics and Clinical Trials, IRCCS Istituto Romagnolo per lo 
-Studio dei Tumori (IRST) "Dino Amadori", Meldola (FC), Italy.
-(3)Department of Biosciences, Biotechnology and Environment, University of Bari 
-Aldo Moro, Bari, Italy.
-(4)Department of Medical and Surgical Sciences (DIMEC), University of Bologna, 
-Bologna, Italy.
-(5)Molecular Immunology Unit, Department of Experimental Oncology, Fondazione 
-IRCCS Istituto Nazionale Tumori, Milan, Italy.
-(6)Biosciences Laboratory, IRCCS Istituto Romagnolo per lo Studio dei Tumori 
-(IRST) "Dino Amadori", via Piero Maroncelli, 40, 47014, Meldola (FC), Italy. 
-giorgia.simonetti@irst.emr.it.
-(#)Contributed equally
-
-The murine C1498 cell line is one of the most widely used syngeneic models to 
-investigate acute myeloid leukemia (AML) pathogenesis, tumor-host interactions 
-and therapeutic responses. However, in the absence of a comprehensive molecular 
-characterization it remains impossible to reliably associate genetic lesions 
-with disease phenotype, drug sensitivity or resistance. Here, we provide an 
-integrated genomic and functional analysis combining whole genome and whole 
-transcriptome sequencing (WGS and WTS), multicolor fluorescent in situ 
-hybridization (M-FISH) and drug sensitivity assays. WGS identified 2,007 coding 
-variants absent from population databases, including functionally relevant 
-alterations in AML-related genes. These comprised deleterious or likely 
-pathogenic variants in Nf1, Gnas and Trp53 (murine ortholog of the human TP53 
-gene), a splice-site mutation in Crebbp and truncating variants in Bcor and 
-Tet2. Structural variant analysis revealed 1,767 events, including deletions of 
-Trp53, Nf1, Brca1, Csnk1a1, Ctnna1, Luc7l2 and cohesin genes, and Myc tandem 
-duplication. Copy number variant profiling detected ten tumor-specific 
-alterations, including amplifications of Stk32b and Bub1, the latter linked to 
-aggressive cancer phenotypes. Variants integration uncovered biallelic 
-disruption of Trp53, double-hit events affecting additional tumor suppressors 
-(mutation and deletion: Nf1, Recql4) and oncogenes (mutation and amplification: 
-Idh1, Gnas, Pik3cd, Vav1). Functionally, C1498 demonstrated in vitro a dose- and 
-time-dependent response to venetoclax/azacitidine consistent with resistance, in 
-line with the presence of altered Trp53 and recent prognostic AML signatures. 
-This comprehensive molecular framework establishes C1498 as a genetically 
-defined AML model and provides a valuable resource to inform biomarker-driven 
-preclinical studies and translational research aimed at overcoming 
-venetoclax/azacitidine resistance.
-SUPPLEMENTARY INFORMATION: The online version contains supplementary material 
-available at 10.1186/s40364-026-00915-1.
-
-DOI: 10.1186/s40364-026-00915-1
-PMCID: PMC13067734
-PMID: 41964082
-
-Conflict of interest statement: Declarations. Ethics approval and consent to 
-participate: Not applicable. Consent for publication: Not applicable. Competing 
-interests: The authors declare no competing interests.
-
-
-15. Proc Natl Acad Sci U S A. 2026 Apr 21;123(16):e2513742123. doi: 
-10.1073/pnas.2513742123. Epub 2026 Apr 10.
-
-Resistance to neoadjuvant talazoparib in triple-negative breast cancer by 
-BRN2-induced ATR/STAT3 pathways or SHLD2 subclone expansion.
-
-Abdulkareem NM(#)(1), Jiang Y(#)(1), Qi Y(1)(2), Liu X(3), Zhang X(1), Cai S(1), 
-Shao J(1), Jeter-Jones S(1), Rinkenbaugh AL(1), Cheng CC(1), Hancock F(1), 
-Schwartz J(4), Litton JK(4), Chang JT(2)(3), Piwnica-Worms H(1).
-
-Author information:
-(1)Department of Experimental Radiation Oncology, The University of Texas MD 
-Anderson Cancer Center, Houston, TX 77030.
-(2)Department of Bioinformatics and Computational Biology, The University of 
-Texas MD Anderson Cancer Center, Houston, TX 77030.
-(3)Department of Integrative Biology and Pharmacology, Institute of Molecular 
-Medicine, The University of Texas Health Science Center at Houston, Houston, TX 
-77030.
-(4)Department of Breast Medical Oncology, The University of Texas MD Anderson 
-Cancer Center, Houston, TX 77030.
-(#)Contributed equally
-
-Intrinsic and acquired resistance to poly(ADP-ribose) polymerase (PARP) 
-inhibitors (PARPi) remains a major barrier in treating homologous recombination 
-(HR) repair-deficient tumors, including those with germline or somatic BRCA1/2 
-mutations. Although PARPi are FDA approved for adjuvant treatment of locally 
-advanced or metastatic breast cancer in patients with germline BRCA1/2 
-mutations, emerging data support their use as monotherapy in the neoadjuvant 
-setting. Promising safety profiles of newer-generation PARPi further support 
-this potential. However, resistance mechanisms specific to the neoadjuvant 
-setting are poorly understood. To address this gap, we leveraged resources from 
-a phase II neoadjuvant clinical trial (NCT03499353), analyzing tumors from 
-patients with germline BRCA1/2 mutant breast tumors before and after six months 
-of talazoparib monotherapy. Whole-transcriptome analyses were performed on these 
-samples. Additionally, we established orthotopic patient-derived xenograft 
-models from a subset of the patient tumors and conducted whole-exome and 
-whole-transcriptome analysis. This integrative approach revealed both known and 
-previously unknown PARPi resistance mechanisms. In one case, overexpression of 
-BRN2, encoding a transcription factor that plays a critical role in 
-neurogenesis, led to activation of ATR/RAD51 and STAT3 pathways, restoring HR 
-repair. BRN2-driven resistance could be reversed with ATR and STAT3 inhibitors, 
-resensitizing cells to talazoparib. In another, an HR repair proficient tumor 
-subclone lacking Shieldin 2 expression expanded during treatment and accounted 
-for intrinsic resistance. Our findings highlight the need to determine intrinsic 
-and anticipate acquired resistance pathways in treatment-naïve tumors and 
-support combining PARPi with targeted agents to improve outcomes in the 
-neoadjuvant setting.
-
-DOI: 10.1073/pnas.2513742123
-PMID: 41961819 [Indexed for MEDLINE]
-
-Conflict of interest statement: Competing interests statement:Dr. Litton is on 
-the advisory board of Gilead (uncompensated). Dr. Litton receives research 
-support (to her Institution) from Medivation, Pfizer, Merck, Zenith, EMD-Serono, 
-Genentech, Astra-Zeneca.
-
-
-16. Breast Cancer. 2026 Apr 10. doi: 10.1007/s12282-026-01855-2. Online ahead of 
-print.
-
-BRCA1/2 Reversion Mutations in Japanese Patients with Metastatic Breast Cancer 
-Progressing on Olaparib: OLIVE (WJOG15321B).
-
-Sakai H(1), Kusumoto-Matsuo R(2), Hosonaga M(3), Nozawa K(4), Futamura M(5), 
-Tanabe Y(6), Mukohara T(7), Shiraishi K(8), Toyama T(9), Yasojima H(10), 
-Watanabe N(11), Sakai H(12), Iwasa T(13), Takeuchi N(14), Tada H(15), Sakai 
-K(16), Chiba N(17), Takano T(3), Tsurutani J(2).
-
-Author information:
-(1)Advanced Cancer Translational Research Institute, Showa Medical University, 
-1-5-8 Hatanodai, Shinagawa-ku, Tokyo, 142-8555, Japan. 
-sakai-h@med.showa-u.ac.jp.
-(2)Advanced Cancer Translational Research Institute, Showa Medical University, 
-1-5-8 Hatanodai, Shinagawa-ku, Tokyo, 142-8555, Japan.
-(3)Breast Oncology Center, Cancer Institute Hospital of the Japanese Foundation 
-for Cancer Research, Tokyo, Japan.
-(4)Department of Breast Oncology, Aichi Cancer Center, Nagoya, Japan.
-(5)Department of Breast Surgery, Gifu University Hospital, Gifu, Japan.
-(6)Department of Medical Oncology, Toranomon Hospital, Tokyo, Japan.
-(7)Department of Oncology, National Cancer Center Hospital East, Kashiwa, Japan.
-(8)Department of Medical Oncology, NHO Nagoya Medical Center, Nagoya, Japan.
-(9)Department of Breast Surgery, Nagoya City University, Nagoya, Japan.
-(10)Department of Surgery, Breast Oncology, NHO Osaka National Hospital, Osaka, 
-Japan.
-(11)Department of Breast and Endocrine Surgery, Osaka International Cancer 
-Institute, Osaka, Japan.
-(12)Department of Medical Oncology, Hyogo Cancer Center, Akashi, Japan.
-(13)Department of Medical Oncology, Kindai University Faculty of Medicine, 
-Osaka, Japan.
-(14)Department of Oncology, Ina Central Hospital, Ina, Japan.
-(15)Department of Surgery, Division of Breast and Endocrine Surgery, Tohoku 
-University Hospital, Sendai, Japan.
-(16)Department of Genome Biology, Kindai University Faculty of Medicine, Osaka, 
-Japan.
-(17)Department of Cancer Biology, Institute of Development, Aging and Cancer 
-(IDAC), Tohoku University, Sendai, Japan.
-
-DOI: 10.1007/s12282-026-01855-2
-PMID: 41961224
-
-Conflict of interest statement: Declarations. Conflict of interest: HS received 
-honoraria from Daiichi Sankyo, Eli Lilly, Gilead Sciences, AstraZeneca, and 
-Pfizer, and medical writing support from Daiichi Sankyo outside the submitted 
-work. MF received honoraria from Chugai and Daiichi Sankyo. TM received research 
-funding (to the institution) from MSD, AstraZeneca, Eisai, Sanofi, Novartis 
-Pharma, Bayer, ONO Pharmaceutical, Daiichi Sankyo, Chugai Pharmaceutical, 
-Pfizer, Gilead Sciences, Merck Biopharma, Seagen, Astellas Pharma, Sysmex, and 
-Exact Sciences; and honoraria from Terumo, Bayer, MICIN, Kyowa Kirin, Daiichi 
-Sankyo, Eli Lilly, MI-Force, AstraZeneca, Eisai, Taiho Pharmaceutical, Chugai 
-Pharmaceutical, Shionogi, Pfizer, and Ono Pharmaceutical. He is an advisory 
-board member of Pfizer and AstraZeneca. TaT received honoraria from Chugai, 
-Daiichi Sankyo, Pfizer, MSD, Eli Lilly, Novartis, and Taiho. HT received 
-honoraria from Chugai Pharmaceutical, Eli Lilly, Pfizer, and Daiichi Sankyo. KS 
-received honoraria for lectures from Takeda Pharmaceutical Co., Ltd., Nippon 
-Kayaku Co., Ltd., and Qiagen, Inc., and honoraria for manuscript writing from 
-Life Technologies Japan Ltd. NC received research funding from AstraZeneca 
-outside the submitted work. ToT received honoraria from Daiichi Sankyo, Eli 
-Lilly, and Gilead Sciences. JT received research funding from Daiichi Sankyo 
-Co., Ltd., outside the submitted work; honoraria from Daiichi Sankyo Co., Ltd., 
-AstraZeneca K.K., Eli Lilly Japan K.K., Pfizer Japan Inc., Eisai Co., Ltd., 
-Kyowa Kirin Co., Ltd., Taiho Pharmaceutical Co., Ltd., MSD K.K., and Gilead 
-Sciences, Inc.; consulting fees from Daiichi Sankyo Co., Ltd., AstraZeneca K.K., 
-Seagen Inc., Pfizer Japan Inc., and Gilead Sciences, Inc.; and his institution 
-received research funding from Eli Lilly Japan K.K., Kyowa Kirin Co., Ltd., 
-Taiho Pharmaceutical Co., Ltd., Chugai Pharmaceutical Co., Ltd., MSD K.K., and 
-Eisai Co., Ltd., outside the submitted work. All other authors declare no 
-competing financial or non-financial interests. Ethical approval and consent to 
-participate: Study protocol was approved by the institutional review board 
-(Approval number: 21-029-B). Informed consent was obtained from all participants 
-involved in the study.
-
-
-17. Breast Cancer Res. 2026 Apr 9. doi: 10.1186/s13058-026-02273-0. Online ahead
-of  print.
-
-Contributing factors of contralateral breast cancer in patients with BRCA 
-mutation (ON-BRCA II study, KoREa-BSG 11).
-
-Shin SH(#)(1)(2), Ahn SG(#)(3), Ryu JM(4), Lee SB(5), Park HS(6), Lee ES(7), Lee 
-J(8), Kang B(9), Kim S(10), Kim EY(11), Kang YJ(12), Min SY(13), Lee M(14), Kim 
-SK(15), Kim HK(16), Cha CD(17); and the Korea Robot endoscopy Minimal Access 
-BreastSurgery Study Group.
-
-Author information:
-(1)Department of Medical Research Collaborating Center, Hanyang Univ. College of 
-Medicine, Seoul, Republic of Korea.
-(2)Department of Radiology, NYU Grossman School of Medicine, New York, USA.
-(3)Department of Surgery, Gangnam Severance Hospital, Yonsei University College 
-of Medicine, Seoul, Republic of Korea.
-(4)Division of Breast Surgery, Department of Surgery, Sungkyunkwan University 
-School of Medicine, Samsung Medical Center, Seoul, Republic of Korea.
-(5)Division of Breast Surgery, Department of Surgery, University of Ulsan 
-College of Medicine, Asan Medical Center, Seoul, Republic of Korea.
-(6)Department of Surgery, Yonsei University College of Medicine, Seoul, Republic 
-of Korea.
-(7)Department of Surgery, Korea Univ. Anam Hospital, Korea University College of 
-Medicine, Seoul, Republic of Korea.
-(8)Department of Surgery, Ewha Womans University Mokdong Hospital, Ewha 
-University College of Medicine, Seoul, Republic of Korea.
-(9)Department of Surgery, School of Medicine, Kyungpook National University, 
-Kyungpook National University Chilgok Hospital, Daegu, Republic of Korea.
-(10)Department of Breast and Endocrine Surgery, Hallym University Sacred Heart 
-Hospital, Hallym University, Anyang, Republic of Korea.
-(11)Department of Surgery, Kangbuk Samsung Hospital, Sungkyunkwan University 
-School of Medicine, Seoul, Republic of Korea.
-(12)Department of Surgery, Incheon St. Mary's Hospital, College of Medicine, The 
-Catholic University of Korea, Incheon, Republic of Korea.
-(13)Department of Surgery, Kyung Hee University Hospital, Kyung Hee University 
-College of Medicine, Seoul, Republic of Korea.
-(14)Department of Surgery, Keimyung University School of Medicine, Daegu, 
-Republic of Korea.
-(15)Department of Pediatrics, Baylor College of Medicine, Houston, USA.
-(16)Department of Surgery, Seoul National University Hospital, 101 Daehak-Ro, 
-Jongno-Gu, Seoul, Republic of Korea. limittango@gmail.com.
-(17)Department of Surgery, Hanyang University Medical Center, Wangsimni-Ro, 
-Seongdong-Gu, 222-1, Seoul, Republic of Korea. chachihwan@gmail.com.
-(#)Contributed equally
-
-BACKGROUND: The cumulative risk of contralateral breast cancer (CBC) in BRCA1/2 
-carriers is remarkably higher than in non-carriers. This study aimed to 
-investigate the clinicopathological predictors associated with the risk of 
-metachronous CBC among breast cancer patients with BRCA1/2 mutations using 
-correspondence analysis.
-METHODS: This retrospective study included patients who underwent BRCA testing 
-between January 2008 and December 2018. The inclusion criterion was patients 
-being between 20 and 80-years-old with invasive breast cancer (pT1-3, N0-3). We 
-performed univariate and multivariate survival analyses to assess the risks 
-associated with BRCA mutations, and conducted correspondence analysis to 
-identify contributing factors for CBC among subgroup by age and BRCA mutations.
-RESULTS: Total of 4009 patients were included in this analysis. After median 
-follow-up of 93 months, 278 cases of CBC were documented. Among 576 patients 
-with BRCA mutations, there was no difference in the incidence of CBC between 
-BRCA1 and BRCA2 carriers (P = 0.07). Correspondence analysis revealed that, in 
-younger patients (< 50 years) with BRCA1 mutations, the triple-negative subtype 
-(r = 0.93) and high grade (r = 0.74) showed the closest geometric proximity 
-associated with CBC. In BRCA2 carriers, high Ki-67 labeling index (≥ 20%) 
-demonstrated prominent geometric association in the biplot related to CBC, 
-regardless of age (r = 0.93).
-CONCLUSION: Although no difference was found in the risk of CBC between BRCA 1/2 
-mutations, correspondence analysis revealed different contributing factors. For 
-young BRCA carriers with a triple-negative subtype and poor pathologic 
-parameters such as high grade and Ki-67 index, risk-reducing contralateral 
-prophylactic mastectomy could be considered as a treatment strategy.
-
-© 2026. The Author(s).
-
-DOI: 10.1186/s13058-026-02273-0
-PMID: 41957809
-
-Conflict of interest statement: Declarations. Ethics approval and consent to 
-participate: This study was approved by the Institutional Review Board of 
-Hanyang University Hospital (No. HYUH 2022–04-039) and followed the principles 
-of the Declaration of Helsinki, which protects human subjects in medical 
-research. Owing to the retrospective study design, the IRB waived the 
-requirement for written informed consent. Consent for publication: Not 
-applicable. Competing interests: The authors declare no competing interests.
-
-
-18. Adv Sci (Weinh). 2026 Apr 9:e16332. doi: 10.1002/advs.202516332. Online ahead
-of  print.
-
-Causal Prediction of TP53 Variant Pathogenicity Using a Perturbation-Informed 
-Protein Language Model.
-
-Chen H(1), Zhao Y(1), Hu B(1), Wang W(1), Song M(2), Zhao AX(3), Li X(1), Wang 
-G(1), Wang Y(1), Zheng W(4), Zhang X(5), Lin X(1), Yin Y(5), Huang X(1), Zheng 
-J(2), Liang T(1).
-
-Author information:
-(1)The Key Laboratory of Pancreatic Diseases of Zhejiang Province, the First 
-Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.
-(2)Research Center for Life Sciences Computing, Zhejiang Lab, Hangzhou, 
-Zhejiang, China.
-(3)College of Science & Medicine, The Australian National University, Canberra, 
-Australia.
-(4)Bone Marrow Transplantation Center, the First Affiliated Hospital, Zhejiang 
-University School of Medicine, Hangzhou, China.
-(5)Nebraska Food for Health Center, Department of Food Science and Technology, 
-University of Nebraska, Lincoln, Nebraska, USA.
-
-Accurate prediction of variant functional impact is crucial for understanding 
-human diseases, particularly for cancer-related genes such as TP53. Advances in 
-high-throughput mutational assays have enhanced variant effect prediction (VEP), 
-but missense classification remains challenging due to the limitations of broad, 
-non-gene-specific models. Here we present CaVepP53, a TP53-specific predictor 
-fine-tuned on perturbation-based experimental variants. The model not only 
-classifies mutations but also quantifies their pathogenicity by calculating 
-Euclidean distances between the wild-type and mutant embeddings and deriving 
-confidence scores through logistic transformation. Benchmarking demonstrates 
-that CaVepP53 significantly outperforms general-purpose models, such as 
-AlphaMissense (AM) and PrimateAI-3D, achieving higher accuracy, precision, and 
-F1-score in predicting pathogenic mutations. Competitive growth assay validation 
-of 22 mutations further confirms CaVepP53's robustness, including 7 functional 
-novel variants absent in the ClinVar database. Thus, by integrating protein 
-language models with experimentally validated functional data, our approach 
-enables accurate, interpretable VEP for TP53, overcoming limitations of 
-predictors trained solely on evolutionary or clinical associations. We further 
-extended this framework to five additional cancer-related genes (VHL, ATM, 
-BRCA1, RAD51C, and BAP1), establishing a generalizable framework for 
-gene-specific VEP with potential applications in precision medicine.
-
-© 2026 The Author(s). Advanced Science published by Wiley‐VCH GmbH.
-
-DOI: 10.1002/advs.202516332
-PMID: 41955512
-
-
-19. Cancer Res. 2026 Apr 9. doi: 10.1158/0008-5472.CAN-25-2569. Online ahead of 
-print.
-
-An Analytical Framework Characterizes the Biological Processes that Shape Copy 
-Number-Based Genome Instability Patterns in Breast Cancer.
-
-Wong H(1), Korsakova A(2), Wu AJ(1), Kularatnarajah L(1), Patro CPK(1), Perera 
-AR(1), Walsh RJ(3), Tan TZ(1), Venkitaraman AR(1), Pitt JJ(1).
-
-Author information:
-(1)National University of Singapore Singapore Singapore.
-(2)Calico Life Sciences South San Francisco, California United States.
-(3)National University Cancer Institute Singapore Singapore.
-
-Copy number alterations (CNAs) accumulate non-randomly within cancer genomes 
-reflecting specific DNA damage and repair events. Higher-order patterning of 
-CNAs can illuminate the types and determinants of genome instability (GI), as 
-well as their clinical relevance, highlighting the need to develop analytical 
-frameworks to capture such patterns. To address this issue, we collated a 
-literature-curated compendium of pre-defined CN-based GI scores and extracted de 
-novo CN signatures. Application to 2,763 breast cancer genomes from The Cancer 
-Genome Atlas and METABRIC revealed the complementarity of various GI scores and 
-their differences across immunohistochemical subtypes. Of the eight CN 
-signatures identified, three associated with distinct characteristics of 
-homologous recombination deficiency and showed differential activity between 
-cases with BRCA1 versus BRCA2 loss. Segments assigned to a HER2+ enriched 
-signature strongly overlapped regions of chromothripsis and circular 
-extrachromosomal DNA, suggesting that a common mutational process contributes to 
-these phenotypes. CN "quiet" diploid and tetraploid genomes were apparent, with 
-the latter group capturing a unique subset of whole genome doubled tumors 
-enriched for PIK3CA, MAP3K1, and CDH1 mutations. Finally, combining CN 
-signatures with tumor microenvironment analyses, patients with quiet genomes and 
-low macrophage infiltration showed remarkably better survival outcomes. 
-Collectively, these findings demonstrate the value of deep interrogation of 
-scores and signatures in characterizing the biological processes and clinical 
-implications underlying CN-based GI. The publicly available web portal 
-(https://cnavisualizer.pittlabgenomics.com/home) will facilitate similar 
-analyses across pan-cancer genomes.
-
-DOI: 10.1158/0008-5472.CAN-25-2569
-PMID: 41954631
-
-
-20. BJC Rep. 2026 Apr 8;4(1):15. doi: 10.1038/s44276-026-00218-w.
-
-A comprehensive genomic framework for identifying genes predisposing to 
-homologous recombination repair-deficient breast or ovarian cancer.
-
-Camacho-Valenzuela J(1)(2)(3), Matis T(4)(5), Roca C(6)(7), Cuamatzi Flores 
-JL(8), Hamel N(2), Rivera B(6)(9), Gravel S(1), Polak P(10), Robles-Espinoza 
-CD(8)(11), Foulkes WD(12)(13)(14)(15).
-
-Author information:
-(1)Department of Human Genetics, McGill University, Montréal, QC, Canada.
-(2)Cancer Research Program, Centre for Translational Biology, The Research 
-Institute of the McGill University Health Centre, Montréal, QC, Canada.
-(3)Lady Davis Institute for Medical Research, Jewish General Hospital, Montréal, 
-QC, Canada.
-(4)Cancer Genetics Unit, Institut Bergonié, Bordeaux, France.
-(5)BRIC (BoRdeaux Institute of onCology), INSERM, Univ. Bordeaux, Bordeaux, 
-France.
-(6)Bellvitge Biomedical Research Institute (IDIBELL), Avinguda de la Granvia de 
-l'Hospitalet 199, L'hospitalet de Llobregat, Barcelona, Spain.
-(7)Doctoral Programme in Biomedicine, University of Barcelona (UB), Barcelona, 
-Spain.
-(8)International Laboratory of Research of the Human Genome, National Autonomous 
-University of Mexico, Querétaro, México.
-(9)Gerald Bronfman Department of Oncology, McGill University, Montréal, QC, 
-Canada.
-(10)Quest Diagnostics, Secaucus, NJ, USA.
-(11)Experimental Cancer Genetics Group, Wellcome Trust Sanger Institute, 
-Hinxton, Cambridge, UK.
-(12)Department of Human Genetics, McGill University, Montréal, QC, Canada. 
-william.foulkes@mcgill.ca.
-(13)Cancer Research Program, Centre for Translational Biology, The Research 
-Institute of the McGill University Health Centre, Montréal, QC, Canada. 
-william.foulkes@mcgill.ca.
-(14)Lady Davis Institute for Medical Research, Jewish General Hospital, 
-Montréal, QC, Canada. william.foulkes@mcgill.ca.
-(15)Gerald Bronfman Department of Oncology, McGill University, Montréal, QC, 
-Canada. william.foulkes@mcgill.ca.
-
-BACKGROUND: Patients with clinical characteristics of increased cancer 
-susceptibility without an identified genetic lesion are regularly seen in 
-clinics. Association studies and matched normal/tumour sequencing have advanced 
-the discovery of Cancer Susceptibility Genes (CSGs), with limitations when used 
-independently. We reasoned that combining these strategies alongside mutational 
-signatures and clinical data could improve CSGs identification.
-METHODS: Using breast and ovarian cancer exome data from The Cancer Genome Atlas 
-(TCGA-BRCA and TCGA-OV), we developed a genomic framework that evaluates 
-exome-wide associations of Germline Pathogenic Variants (GPVs) harbouring second 
-hits with Homologous Recombination Repair Deficiency (HRD) mutational signatures 
-(HRDSig) to identify novel HRD-related CSGs. This is complemented by 
-clinico-genomic analysis evaluating clinical and biological plausibility.
-RESULTS: Our framework confirmed significant associations with HRDSig of BRCA1/2 
-GPVs with second hits in both TCGA cohorts, validating its performance. THBS4 
-also reached significance but only co-occurred with other HRD-related events in 
-TCGA-BRCA. Borderline significance was also observed for KIF13B and TESPA1, 
-also only in TCGA-BRCA. The clinico-genomics approach further identified KIF13B 
-and TESPA1, as well as RAD51B and other Fanconi Anaemia pathway-related genes, 
-including FANCD2, warranting further validation.
-CONCLUSIONS: Our approach provides a framework for the identification of 
-candidate HRD-related CSGs through combined statistical and clinico-genomics 
-analyses. It is adaptable to other mutational signatures/cancer types and will 
-be most effective when applied to larger and well-annotated datasets.
-
-© 2026. The Author(s).
-
-DOI: 10.1038/s44276-026-00218-w
-PMCID: PMC13062105
-PMID: 41951763
-
-Conflict of interest statement: Competing interests: The authors declare no 
-competing interests. Ethics approval and consent to participate: The TCGA 
-consortium collected tumour and non-tumour biospecimens from participating human 
-subjects under the authorization of the corresponding institutional review 
-boards. Informed consent was obtained from all participants by the TCGA 
-consortium. Further information is available at 
-https://cancergenome.nih.gov/abouttcga/policies/informedconsent . Access to 
-controlled germline sequencing data (blood-derived BAM files) from TCGA was 
-obtained through the database of Genotypes and Phenotypes (dbGaP) and the GDC 
-portal under an approved project (Project #34072; accession phs000178.v11.p8). 
-Additional information regarding TCGA ethics and data use policies is available 
-at: 
-https://www.cancer.gov/ccg/research/genome-sequencing/tcga/history/ethics-policies 
-. All methods were performed in accordance with the relevant guidelines and 
-regulations. No identifiable human images are included in this study.
-
-
-21. NPJ Breast Cancer. 2026 Apr 8. doi: 10.1038/s41523-026-00945-w. Online ahead
-of  print.
-
-Biomarker, treatment patterns, and survival differences in metastatic 
-triple-negative breast cancer by race in the United States.
-
-Farrokhi P(1), Park L(2), Schmutz HW(3), Thompson SL(4), Lam C(2), Bryan J(5), 
-Stenehjem DD(6)(7).
-
-Author information:
-(1)Department of Pharmaceutical Care and Health Systems, College of Pharmacy, 
-University of Minnesota, Minneapolis, MN, USA.
-(2)AstraZeneca, Gaithersburg, MD, USA.
-(3)College of Pharmacy, University of Utah, Salt Lake City, UT, USA.
-(4)Biometrics Oncology, AstraZeneca, City House, Cambridge, UK.
-(5)Molecular Diagnostics Laboratory, Division of Pathology and Laboratory 
-Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.
-(6)College of Pharmacy, University of Utah, Salt Lake City, UT, USA. 
-stene032@d.umn.edu.
-(7)Department of Pharmacy Practice and Pharmaceutical Sciences, College of 
-Pharmacy, University of Minnesota, Duluth, MN, USA. stene032@d.umn.edu.
-
-Triple-negative breast cancer (TNBC) disproportionately affects Black women, 
-with higher incidence rates and worse outcomes compared with White women. This 
-study included 670 adult patients with metastatic TNBC diagnosed between January 
-2017 and March 2022 from the Flatiron Clinico-Genomic database. All patients 
-underwent NGS-based testing and were assessed for prevalence of BRCA1/2, PIK3CA, 
-AKT1, and PTEN alterations; treatment patterns; and survival outcomes. Of 670 
-patients, 28% were Black and 72% White. Black patients had higher BRCA1/2 
-alteration prevalence (12% vs. 7%; p < 0.04) but similar rates of other 
-mutations. First-line therapy rates were comparable between groups. No 
-significant differences in overall survival were observed (median 13.7 months 
-for Black patients vs. 18.9 months for White patients; p = 0.15). Black patients 
-with metastatic TNBC were nearly twice as likely to have BRCA1/2 alterations, 
-suggesting potential benefit from PARP inhibition. Although survival differences 
-were not statistically significant, larger studies are needed to understand 
-racial disparities in treatments and outcomes.
-
-© 2026. The Author(s).
-
-DOI: 10.1038/s41523-026-00945-w
-PMID: 41951654
-
-Conflict of interest statement: Competing interests: L.P., C.L., and S.T. are 
-employees of AstraZeneca and hold stock or stock options in the company. D.S., 
-H.W.S., and P.F. received research funding from AstraZeneca to support the 
-completion of this study. J.B. received consulting fees from AstraZeneca 
-unrelated to the writing of this manuscript.
-
-
-22. Bioorg Chem. 2026 Jul 5;175:109820. doi: 10.1016/j.bioorg.2026.109820. Epub
-2026  Apr 2.
-
-Discovery and optimization of 1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide 
-derivatives as USP1 inhibitors for BRCA1-mutant cancer treatment.
-
-Zhao T(1), Chen C(2), An Y(3), Xu Y(2), Guo Y(2), Yao S(4), Zhou B(5), Chen 
-Y(6), Duan W(7), Guan Z(8), Tang W(9), Zhang H(10).
-
-Author information:
-(1)School of Pharmacy, Jiangxi University of Chinese Medicine, Nanchang, Jiangxi 
-330004, China; Shandong Laboratory of Yantai Drug Discovery, Bohai Rim Advanced 
-Research Institute for Drug Discovery, Yantai, Shandong 264117, China.
-(2)Shandong Laboratory of Yantai Drug Discovery, Bohai Rim Advanced Research 
-Institute for Drug Discovery, Yantai, Shandong 264117, China.
-(3)Small-Molecule Drug Research Center, Shanghai Institute of Materia Medica, 
-Chinese Academy of Sciences, 555 Zu Chong Zhi Road, Shanghai 201203, China; 
-School of Pharmacy, University of Chinese Academy of Sciences, No. 19A Yuquan 
-Road, Beijing 100049, China.
-(4)Small-Molecule Drug Research Center, Shanghai Institute of Materia Medica, 
-Chinese Academy of Sciences, 555 Zu Chong Zhi Road, Shanghai 201203, China.
-(5)Shandong Laboratory of Yantai Drug Discovery, Bohai Rim Advanced Research 
-Institute for Drug Discovery, Yantai, Shandong 264117, China; School of 
-Pharmacy, Binzhou Medical University, Yantai, Shandong 264003, China.
-(6)School of Pharmacy, Jiangxi University of Chinese Medicine, Nanchang, Jiangxi 
-330004, China; Shandong Laboratory of Yantai Drug Discovery, Bohai Rim Advanced 
-Research Institute for Drug Discovery, Yantai, Shandong 264117, China; Cancer 
-Research Center, Shanghai Institute of Materia Medica, Chinese Academy of 
-Sciences, 555 Zu Chong Zhi Road, Shanghai 201203, China.
-(7)Shandong Laboratory of Yantai Drug Discovery, Bohai Rim Advanced Research 
-Institute for Drug Discovery, Yantai, Shandong 264117, China; School of 
-Pharmacy, University of Chinese Academy of Sciences, No. 19A Yuquan Road, 
-Beijing 100049, China.
-(8)School of Pharmacy, Jiangxi University of Chinese Medicine, Nanchang, Jiangxi 
-330004, China. Electronic address: adlaiguan@126.com.
-(9)Shandong Laboratory of Yantai Drug Discovery, Bohai Rim Advanced Research 
-Institute for Drug Discovery, Yantai, Shandong 264117, China. Electronic 
-address: wtang@baridd.ac.cn.
-(10)Shandong Laboratory of Yantai Drug Discovery, Bohai Rim Advanced Research 
-Institute for Drug Discovery, Yantai, Shandong 264117, China; Small-Molecule 
-Drug Research Center, Shanghai Institute of Materia Medica, Chinese Academy of 
-Sciences, 555 Zu Chong Zhi Road, Shanghai 201203, China; Institute of Applied 
-Ecology, Chinese Academy of Sciences, 72 Wenhua Road, Shenyang, Liaoning 110016, 
-China. Electronic address: zhanghefeng1@simm.ac.cn.
-
-Ubiquitin-specific protease 1 (USP1) plays a critical role in deubiquitinating 
-key protein complexes involved in the DNA damage response (DDR). Inhibition of 
-USP1 has been shown to induce synthetic lethality in BRCA1-mutant cancers, 
-making it an attractive anticancer therapeutic target. In this study, a series 
-of 1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide derivatives were designed and 
-synthesized as novel inhibitors of USP1. The resulting compounds exhibited 
-nanomolar-level inhibitory activity against USP1 and potently inhibited the 
-proliferation of the BRCA1-mutant MDA-MB-436 cells. Among them, compound 18 
-exhibited an IC50 value of 8.1 nM against MDA-MB-436 and demonstrated superior 
-selectivity for BRCA1-mutant cells over BRCA1-wild-type cells. Western blot 
-analysis revealed that compound 18 significantly increased DNA damage 
-accumulation of BRCA1-mutant cells. In vivo pharmacokinetic studies were 
-conducted to determine the oral exposure of compound 18. Moreover, molecular 
-docking and dynamics studies were performed to elucidate the detailed binding 
-mechanism of compound 18 with USP1. Taken together, this study presents a 
-promising class of 1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide derivatives as 
-novel USP1 inhibitors with significant therapeutic potential for the treatment 
-of BRCA1-mutant cancers.
-
-Copyright © 2026 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.bioorg.2026.109820
-PMID: 41950717 [Indexed for MEDLINE]
-
-Conflict of interest statement: Declaration of competing interest The authors 
-declare that they have no known competing financial interests or personal 
-relationships that could have appeared to influence the work reported in this 
-paper.
-
-
-23. Oncol Lett. 2026 Mar 26;31(5):194. doi: 10.3892/ol.2026.15549. eCollection
-2026  May.
-
-A rare case of uterine carcinosarcoma in a 21-year-old woman with hereditary 
-breast and ovarian cancer syndrome: A case report.
-
-Iida Y(1), Kosuge A(1), Saito Y(1), Irie T(1), Matsushima J(2), Iizuka M(1), 
-Takakura S(1).
-
-Author information:
-(1)Department of Obstetrics and Gynecology, Dokkyo Medical University Saitama 
-Medical Center, Koshigaya, Saitama 343-8555, Japan.
-(2)Department of Pathology, Dokkyo Medical University, Saitama Medical Center, 
-Koshigaya, Saitama 343-8555, Japan.
-
-Uterine carcinosarcoma (UCS) is a rare and aggressive malignancy that typically 
-affects postmenopausal women. Its occurrence in young adults, particularly due 
-to hereditary breast and ovarian cancer syndrome (HBOC), is exceptionally 
-uncommon. The present report describes a case of a 21-year-old woman with 
-persistent uterine bleeding who was found to have a uterine mass with 
-para-aortic and pelvic lymphadenopathy and multiple pulmonary metastases. To 
-control bleeding and obtain a definitive diagnosis, the patient underwent a 
-total hysterectomy with bilateral salpingo-oophorectomy. Histopathological 
-examination revealed International Federation of Gynecology and Obstetrics stage 
-IVB UCS. This manifested as poorly differentiated carcinoma and heterologous 
-sarcomatous components with chondrosarcomatous and rhabdomyosarcomatous 
-differentiation. Comprehensive genomic profiling identified a BRCA1 frameshift 
-mutation, a TP53 splice-site mutation, a PIK3CA mutation and a positive 
-homologous recombination deficiency (HRD) signature. After genetic counseling, 
-germline genetic testing for BRCA1 and TP53 was performed. This confirmed a 
-pathogenic germline BRCA1 mutation. The patient was treated with four cycles of 
-paclitaxel and carboplatin, followed by an additional four cycles of combination 
-chemotherapy with durvalumab. The patient achieved a complete radiologic 
-response. Maintenance therapy with durvalumab and olaparib was initiated, and 
-the patient has remained progression-free for 10 months. To the best of our 
-knowledge, this represents one of the youngest reported cases of UCS associated 
-with HBOC. The case highlights the value of genomic profiling and germline 
-testing for personalized treatment strategies. The successful use of 
-platinum-based chemotherapy, immune checkpoint blockade and poly (ADP-ribose) 
-polymerase inhibition to treat this HRD-positive, mismatch repair-proficient 
-tumor demonstrates the potential of biomarker-driven therapy for UCS.
-
-Copyright: © 2026 Iida et al.
-
-DOI: 10.3892/ol.2026.15549
-PMCID: PMC13051640
-PMID: 41947901
-
-Conflict of interest statement: The authors declare that they have no competing 
-interests.
-
-
-24. Breast Cancer Res. 2026 Apr 7. doi: 10.1186/s13058-026-02236-5. Online ahead
-of  print.
-
-Transcriptomic deconvolution reveals prognostic immune signatures and 
-immunotherapy-responsive subtypes in male breast cancer.
-
-Silvestri V(1), Valentini V(2), Bucalo A(2), Porzio V(2), Scafetta G(3), 
-Cerbelli B(4), Zanna I(5), Bianchi S(6), Tibiletti MG(7), Carnevali I(8), 
-Calistri D(9), Arcangeli V(9), Zampiga V(9), Gasparini E(10), Cortesi L(10)(11), 
-Giannini G(2), Capalbo C(12)(13), Fox SB(14)(15), Masala G(16), Mezi S(4), 
-d'Amati G(4), Ottini L(17).
-
-Author information:
-(1)Department of Molecular Medicine, Sapienza University of Rome, Rome, Italy. 
-valentina.silvestri@uniroma1.it.
-(2)Department of Molecular Medicine, Sapienza University of Rome, Rome, Italy.
-(3)Translational Oncology Research Unit, IRCCS Regina Elena National Cancer 
-Institute, Rome, Italy.
-(4)Department of Radiological, Oncological and Pathological Sciences, Sapienza 
-University of Rome, Rome, Italy.
-(5)Cancer Risk Factors and Lifestyle Epidemiology Unit, Institute for cancer 
-research, prevention and clinical network (ISPRO), Florence, Italy.
-(6)Department of Health Sciences, Division of Pathological Anatomy, University 
-of Florence, Florence, Italy.
-(7)Hereditary Cancer Research Center, University of Insubria, Varese, Italy.
-(8)SSD Laboratorio Specialistico Genetica Medica Citogenetica e Genetica 
-Molecolare, ASST Settelaghi Varese, Varese, Italy.
-(9)Istituto Romagnolo per lo Studio dei Tumori "Dino Amadori" IRCCS, Meldola, 
-Italy.
-(10)Medical Oncology, AUSL- IRCCS Reggio Emilia, Reggio Emilia, Italy.
-(11)Department of Medical and Surgical Sciences, University of Modena and Reggio 
-Emilia, Modena, Italy.
-(12)Department of Pharmacy, Health and Nutritional Sciences, University of 
-Calabria, Rende, Italy.
-(13)Oncology Unit, Annunziata Hospital Cosenza, Cosenza, Italy.
-(14)Department of Pathology, Peter MacCallum Cancer Centre, Melbourne, VIC, 
-Australia.
-(15)Sir Peter MacCallum Department of Oncology and Collaborative Centre of 
-Cancer Genomic Medicine, University of Melbourne, Melbourne, VIC, Australia.
-(16)Clinical Epidemiology Unit, Institute for cancer research, prevention and 
-clinical network (ISPRO), Florence, Italy.
-(17)Department of Molecular Medicine, Sapienza University of Rome, Rome, Italy. 
-laura.ottini@uniroma1.it.
-
-DOI: 10.1186/s13058-026-02236-5
-PMID: 41947199
-
-Conflict of interest statement: Declarations. Ethics approval and consent to 
-participate: For each participant, informed consent to participate in the study 
-was obtained. The study was approved by the Local Ethical Committee (Sapienza 
-University of Rome, Prot. 669/17). Consent for publication: Not applicable. 
-Competing interests: The authors declare no competing interests.
-
-
-25. Virchows Arch. 2026 Apr 7. doi: 10.1007/s00428-026-04476-4. Online ahead of 
-print.
-
-Homologous recombination deficiency tumor tissue testing in a real-world cohort 
-of tubo-ovarian carcinoma patients: validation of decentralized genomic 
-profiling in 4777 cases.
-
-Rojo F(1)(2), Lazaro C(3)(4), Abdulkader-Nallib I(5)(6), Camps-Herrero C(7), 
-Roselló-Sastre E(8), de la Hoya M(9), Carvajal N(10), González-Acosta M(3), 
-Pereira-Ares T(5), Caballero C(11), Gómez-Sanz A(9), Pérez-Buira S(10), Del 
-Rosario Taco-Sanchez M(12), Pérez-Becerra R(5), Colomar-Roig M(13), Lorca V(9), 
-Zazo S(10), Varela M(14), Sánchez-Ares M(5), Jantus-Lewintre E(4)(15)(16)(17), 
-Pérez-Segura P(18), Villatoro S(12), Navarro L(19), Santonja-Lopez N(19), 
-Torres-Martínez S(20), Guiu XM(21)(22).
-
-Author information:
-(1)Department of Pathology, Fundacion Jimenez Diaz University Hospital Health 
-Research Institute, Av. de los Reyes Católicos, 2, 28040, Madrid, Spain. 
-FRojo@fjd.es.
-(2)Centro de Investigación Biomédica en Red de Cáncer (CIBERONC), Madrid, Spain. 
-FRojo@fjd.es.
-(3)Servei de Càncer Hereditari and Laboratori Core d'Anàlisi Molecular, Institut 
-Català d'Oncologia (ICO) - Hospital Universitari de Bellvitge, Oncobell Program, 
-Institut d'Investigació Biomèdica de Bellvitge (IDIBELL), L'Hospitalet de 
-Llobregat, Barcelona, Spain.
-(4)Centro de Investigación Biomédica en Red de Cáncer (CIBERONC), Madrid, Spain.
-(5)Department of Pathology, Clinical University Hospital of Santiago de 
-Compostela, Health Research Institute of Santiago de Compostela, Galician 
-Healthcare Service (SERGAS), Santiago de Compostela, Spain.
-(6)Department of Pathology, School of Medicine, University of Santiago de 
-Compostela Department, Santiago de Compostela, Spain.
-(7)Medical Oncology, Valencia University, Valencia, Spain.
-(8)Department of Pathology, Hospital General Universitario de Valencia, 
-Valencia, Spain.
-(9)Molecular Oncology Laboratory, Hospital Clínico San Carlos, IdISSC (Instituto 
-de Investigación Sanitaria del Hospital Clínico San Carlos), Madrid, Spain.
-(10)Department of Pathology, Fundacion Jimenez Diaz University Hospital Health 
-Research Institute, Av. de los Reyes Católicos, 2, 28040, Madrid, Spain.
-(11)Department of Medical Oncology, Consorcio Hospital General Universitario 
-Valencia (CHGUV), Valencia, Spain.
-(12)Department of Pathology, Bellvitge University Hospital, L'Hospitalet de 
-Llobregat, Barcelona, Spain.
-(13)Department of Pathology, Fundación de Investigación Hospital General 
-Universitario de Valencia, Valencia, Spain.
-(14)Anatomical Pathology Department-Core Laboratory for Molecular Analysis, 
-Catalan Institute of Oncology, Bellvitge University Hospital, L'Hospitalet de 
-Llobregat, Spain.
-(15)Instituto Interuniversitario de Investigación de Reconocimiento Molecular y 
-Desarrollo Tecnológico (IDM), Universitat Politècnica de València, Universitat 
-de València, Valencia, Spain.
-(16)Unidad Mixta UPV-CIPF de Investigación en Mecanismos de Enfermedades y 
-Nanomedicina, Universitat Politècnica de València, Centro de Investigación 
-Príncipe Felipe, Valencia, Spain.
-(17)Molecular Oncology Laboratory, General University Hospital Research 
-Foundation, Valencia, Spain.
-(18)Department of Medical Oncology, Hospital Clínico San Carlos, IdISSC 
-(Instituto de Investigación Sanitaria del Hospital Clínico San Carlos), Madrid, 
-Spain.
-(19)Department of Pathology, Consorcio Hospital General Universitario Valencia 
-(CHGUV), Valencia, Spain.
-(20)Department of Molecular Oncology, Fundación Investigación Hospital General 
-Universitario de Valencia, Valencia, Spain.
-(21)Department de Ciencies Mèdiques Bàsiques, Facultat de Medicina, Universitat 
-de Lleida, Lleida, Spain. xavier.matias@udl.cat.
-(22)Pathology Departments, Hospital Universitari de Bellvitge and Hospital 
-Universitari Arnau de Vilanova, IDIBELL, IRBLLEIDA, CIBERONC, Lleida, Spain. 
-xavier.matias@udl.cat.
-
-High-grade tubo-ovarian carcinoma (HGOC) that exhibits homologous recombination 
-deficiency (HRD) comprises almost half of these tumors and shows a greater 
-response to platinum-based chemotherapies and a sensitivity to PARP inhibitors. 
-Therefore, experts believe that tumor testing for HRD should be carried out at 
-the time of primary diagnosis or disease recurrence, if not performed earlier. 
-This study aimed to evaluate HRD in a large series of patients with HGOC via the 
-centralized Myriad MyChoice CDx and the decentralized SOPHiA Genetics DDM HRD 
-Solution assays in a real-world clinical practice in Spain. With the Myriad 
-MyChoice CDx Plus assay, 502 (38%) of the 1322 tumor samples analyzed were 
-categorized as HRD positive; overall, 198 (15%) cases were not informative. With 
-the decentralized SOPHiA Genetics DDM HRD assay, 1876 (39%) of the 4777 tumor 
-tissue samples analyzed were HRD positive; of the 4777 cases, 606 (13%) were 
-non-informative. The HRD and mutational status results for all cases were 
-reported to clinicians from participant laboratories in less than 21 working 
-days using the SOPHiA Genetics DDM HRD assay. This study shows that a 
-decentralized HRD test, such as the SOPHiA Genetics DDM HRD Solution assay, is a 
-reliable and robust assay to provide therapeutic guidance for ovarian cancer 
-patient management in clinical practice, with optimal performance in terms of an 
-informative proportion of cases, positive HRD detection, and an adequate 
-turnaround time.
-
-© 2026. The Author(s).
-
-DOI: 10.1007/s00428-026-04476-4
-PMID: 41945131
-
-Conflict of interest statement: Declarations. Ethics approval: The study was 
-performed in accordance with the principles of the Declaration of Helsinki and 
-was approved by the Ethics Committee of Fundación Jimenez Díaz (Madrid, Spain; 
-code No. 06/24). Informed consent: The study was conducted using anonymized 
-databases. Therefore, informed consent was not required and as such was approved 
-by the Ethics Committee. Competing interests: Federico Rojo reports payment or 
-honoraria for lectures, presentations, speakers bureaus, manuscript writing, or 
-educational events: Menarini-Steamline, MSD, AstraZeneca, Incyte, Pfizer, Roche, 
-AbbVie, Merck, Novartis, Lilly, Astellas, GSK, Amgen, Janssen, Agilent, Sophia 
-Genetics. Research Funding: Menarini-Steamline, AstraZeneca, AbbVie, Astellas, 
-Pfizer, and Roche. Conxi Lazaro has received speaker honorarium from 
-AstraZeneca, Pfizer, and Illumina. Ihab Abdulkader-Nallib has been advisory 
-board member for Pfizer, MSD, and AstraZeneca; has received speaker honorarium 
-from Roche Diagnostics, Lilly, Pfizer, AstraZeneca, Takeda, Janssen, and 
-Agilent; has received research grants to institution from AstraZeneca, BMS, and 
-Pfizer; and has received travel grants from Roche Diagnostics, Lilly, Pfizer, 
-AstraZeneca, Takeda, Janssen, and Agilent. Carlos Camps-Herrero declares no 
-conflict of interest related to the topic of the article. Esther Roselló has 
-received research grants to institution from AstraZeneca for HRD analysis. 
-Miguel de la Hoya has received advisory honorarium from AstraZeneca 
-Pharmaceutical Spain, S.A. Nerea Carvajal reports payment or honoraria for 
-lectures, presentations, speakers bureaus, manuscript writing, or educational 
-events: Menarini-Steamline, MSD, AstraZeneca, Incyte, and Pfizer. Maribel 
-González-Acosta has received speaker honorarium from AstraZeneca. Tamara 
-Pereira-Ares reports no conflict of interest. Cristina Caballero reports no 
-conflict of interest. Alicia Gómez-Sanz reports no conflict of interest. Sandra 
-Pérez-Buira: payment or honoraria for lectures, presentations, speakers bureaus, 
-manuscript writing, or educational events: Menarini-Steamline. Maria del Rosario 
-Taco-Sanchez reports no conflict of interest. Raquel Pérez-Becerra reports no 
-conflict of interest. Maria Colomar-Roig reports no conflict of interest. Victor 
-Lorca reports no conflict of interest. Sandra Zazo reports payment or honoraria 
-for lectures, presentations, speakers bureaus, manuscript writing, or 
-educational events: Menarini-Steamline, MSD, and AstraZeneca. Mar Varela reports 
-no conflict of interest. María Sánchez-Ares has received speaker honorarium from 
-Roche Diagnostics, Lilly, and Agilent; and has received travel grants from Roche 
-Diagnostics, AstraZeneca, Agilent, MSD, Pfizer, and Qiagen. Eloisa 
-Jantus-Lewintre has received research grants to institution from AstraZeneca. 
-Pedro Pérez-Segura has received research grants to IdISSC from AstraZeneca 
-Pharmaceutical Spain, S.A. Sergi Villatoro reports no conflict of interest. Lara 
-Navarro reports no conflict of interest. Nuria Santonja-Lopez reports no 
-conflict of interest. Susana Torres-Martínez reports no conflict of interest. 
-Xavier Matias-Guiu reports lectures and associated travel expenses from Roche 
-Farma, Qiagen, Ferrer Internacional, Novartis, Menarini, Biocartis, 
-Agilent-Dako, Leyca, Reig Jofre, Sysmex, MSD, AstraZeneca, BMS, GSK, Clovis, 
-Eisai, and 3DHISTECH; and has been advisory boards member for AstraZeneca, 
-Lilly, Amgen, GSK, Janssen, Illumina, MiMARK Diagnostics, MSD, Daiichi Sankyo, 
-Inc., AbbVie, CellsIA, and Dreampath.
-
-
-26. Cancer Manag Res. 2026 Mar 31;18:566999. doi: 10.2147/CMAR.S566999.
+1. Front Oncol. 2026 Apr 7;16:1769043. doi: 10.3389/fonc.2026.1769043.
 eCollection  2026.
 
-Identification of BRCA1-Associated RING Domain 1 Mutation as a Novel Indicator 
-for Constructing a Prognostic Nomogram in Multiple Myeloma: A Retrospective 
-Single-Center Study.
+Case Report: Durable complete response to olaparib in a patient with 
+BRCA2-driven metastatic gastric adenocarcinoma after failure of 
+chemo-immunotherapy.
 
-Lin L(#)(1), Xu X(#)(2), Yang T(1), Chen W(1), Fang K(3)(4), Lin Z(3)(4), Yi 
-P(3)(4), Cai P(1), Lin Y(1).
-
-Author information:
-(1)Department of Hematology, Fuzhou University Affiliated Provincial Hospital, 
-Fujian Provincial Hospital, Provincial Clinical Medical College of Fujian 
-Medical University, Fuzhou, People's Republic of China.
-(2)Department of Hematology, Provincial Clinical Medical College of Fujian 
-Medical University, Fuzhou, People's Republic of China.
-(3)Department of scientific Research Project, Wuhan Kindstar Medical Laboratory 
-Co., Ltd., Wuhan, People's Republic of China.
-(4)Department of Scientific Research Project, Kindstar Global Precision Medicine 
-Institute, Wuhan, People's Republic of China.
-(#)Contributed equally
-
-BACKGROUND: This study aims to investigate the prognostic value of BARD1 
-(BRCA1-associated RING domain 1) in newly diagnosed multiple myeloma (NDMM), 
-which has not been well defined previously.
-METHODS: This is a retrospective analysis containing 74 NDMM patients. Clinical 
-data, including R2-ISS and BARD1 gene mutation status, were employed to 
-construct a nomogram using Cox's proportional hazards model.
-RESULTS: Univariate analysis revealed a significant correlation between R2-ISS, 
-BARD1 gene mutations and both Overall Survival (OS) and Progression-Free 
-Survival (PFS) (P < 0.01). Notably, the constructed nomogram models, comprising 
-R2-ISS and BARD1 gene mutations, exhibited excellent predictive performance for 
-PFS and OS in both training and validation sets.
-CONCLUSION: The nomogram, innovatively combining the BARD1 gene with R2-ISS 
-staging, effectively predicts the prognosis of NDMM. Although this study is 
-limited by the relatively small number of patients with BARD1 mutations, the 
-outcome may aid us in comprehending the role of genetic mutations in NDMM and 
-further in the investigation of drugs targeting this gene.
-
-© 2026 Lin et al.
-
-DOI: 10.2147/CMAR.S566999
-PMCID: PMC13050255
-PMID: 41940254
-
-Conflict of interest statement: The authors declare that they have no conflicts 
-of interest in this work.
-
-
-27. Ann Med Surg (Lond). 2026 Mar 23;88(4):2610-2615. doi: 
-10.1097/MS9.0000000000004896. eCollection 2026 Apr.
-
-Distinct biological and molecular characteristics of breast cancer in young 
-women: a narrative review.
-
-Obeagu EI(1)(2).
+Karakaya G(1).
 
 Author information:
-(1)Division of Haematology, Department of Biomedical and Laboratory Science, 
-Africa University, Zimbabwe.
-(2)The Department of Molecular Medicine and Haematology, School of Pathology, 
-Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South 
-Africa.
+(1)Akdeniz Saglik Vakfi Yasam Hastanesi, Antalya, Türkiye.
 
-Breast cancer in young women (defined as ≤40 years of age) presents unique 
-clinical and biological challenges. While it accounts for a small proportion of 
-total breast cancer cases, it is often associated with more aggressive tumor 
-phenotypes, higher-grade histology, and advanced-stage diagnosis. Young patients 
-are more likely to develop triple-negative and HER2-positive subtypes, which are 
-linked to poor prognostic outcomes and limited treatment options. These clinical 
-patterns suggest that age-specific molecular mechanisms drive tumor behavior in 
-this population. Emerging molecular profiling studies have revealed distinct 
-genomic, transcriptomic, and epigenetic features in breast cancer arising in 
-young women. Mutations in TP53, BRCA1/2, and other DNA repair genes are more 
-prevalent, along with basal-like intrinsic subtypes that exhibit high 
-proliferation and genomic instability. The tumor microenvironment also 
-demonstrates unique immune signatures, including increased tumor-infiltrating 
-lymphocytes and inflammatory cytokine expression, which may influence response 
-to immunotherapy and tumor progression. This review synthesizes current 
-knowledge on the unique tumor biology of breast cancer in young women, 
-highlighting the need for precision oncology approaches that account for 
-age-related tumor behavior. Enhanced characterization of this population may 
-ultimately improve survival outcomes and quality of life for young women 
-affected by breast cancer.
+Metastatic gastric adenocarcinoma is associated with poor prognosis and limited 
+treatment options after failure of chemotherapy and immunotherapy. Although 
+BRCA1/2 alterations are well-established predictive biomarkers for PARP 
+inhibitor efficacy in several malignancies, their role in gastric cancer remains 
+incompletely defined. We report a 65-year-old male with metastatic gastric 
+adenocarcinoma who underwent gastrectomy with intraoperatively detected liver 
+metastases. The disease progressed following platinum-based chemotherapy 
+combined with nivolumab and subsequent paclitaxel-ramucirumab therapy. 
+Comprehensive genomic profiling using the Tempus xT assay identified a 
+pathogenic germline BRCA2 frameshift mutation with somatic loss of 
+heterozygosity. Based on this molecular profile, off-label olaparib therapy was 
+initiated. The patient achieved a complete metabolic response on FDG PET-CT, 
+which has been sustained for more than three years under continuous olaparib 
+therapy with acceptable tolerability. This case highlights the importance of 
+molecularly guided treatment strategies and homologous recombination repair 
+deficiency in selected patients with advanced gastric cancer.
 
-Copyright © 2026 The Author(s). Published by Wolters Kluwer Health, Inc.
+Copyright © 2026 Karakaya.
 
-DOI: 10.1097/MS9.0000000000004896
-PMCID: PMC13048682
-PMID: 41939122
+DOI: 10.3389/fonc.2026.1769043
+PMCID: PMC13095560
+PMID: 42022316
 
-Conflict of interest statement: Sponsorships or competing interests that may be 
-relevant to content are disclosed at the end of this article. The author 
-declares no conflict of interest.
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
 
 
-28. ESMO Gastrointest Oncol. 2026 Mar 23;12:100318. doi: 
-10.1016/j.esmogo.2026.100318. eCollection 2026 Jun.
+2. Genes Dis. 2025 Oct 21;13(4):101887. doi: 10.1016/j.gendis.2025.101887. 
+eCollection 2026 Jul.
 
-Spatial immune profiling complements genomic sequencing in biliary tract cancer: 
-hypothesis-generating use cases.
+PAK1 inhibition synergistically enhances the anti-tumor efficacy of PARP 
+inhibitors in ovarian cancers.
 
-Barsch M(1), Godbole I(1), Metzger P(2), Benzing M(1), Klaas L(1), Decker A(1), 
-Dammer A(1), Weiß J(3), Dopfer EP(4)(5), Gräßel L(4)(6)(7), Kuehn J(4)(7), 
-Miething C(4)(7), Becker H(4)(7)(8), Lassmann S(4)(5)(8), Bronsert P(5), 
-Schultheis AM(4)(5), Werner M(4)(5)(8), Boerries M(2)(4)(8)(9), Duyster 
-J(4)(7)(8), Thimme R(1), Hofmann M(1), Quante M(1), Bengsch B(1)(8)(10).
+Li C(1), Li X(1), Gao M(2), Deng M(1), Li YX(1), Lou Z(3).
 
 Author information:
-(1)Clinic for Internal Medicine II, Gastroenterology, Hepatology, Endocrinology 
-and Infectious Disease, Medical Center-University of Freiburg, Faculty of 
-Medicine, University of Freiburg, Freiburg, Germany.
-(2)Institute of Medical Bioinformatics and Systems Medicine, Medical 
-Center-University of Freiburg, Faculty of Medicine, University of Freiburg, 
-Freiburg, Germany.
-(3)Department of Diagnostic and Interventional Radiology, Medical 
-Center-University of Freiburg, Faculty of Medicine, University of Freiburg, 
-Freiburg, Germany.
-(4)Comprehensive Cancer Center Freiburg, Medical Center-University of Freiburg, 
-Faculty of Medicine, University of Freiburg, Freiburg, Germany.
-(5)Institute for Surgical Pathology, Medical Center-University of Freiburg, 
-Faculty of Medicine, University of Freiburg, Freiburg, Germany.
-(6)Clinic for Hematology and Medical Oncology, University Medical Center 
-Goettingen, Goettingen, Germany.
-(7)Department of Medicine I, Medical Center-University of Freiburg, Faculty of 
-Medicine, University of Freiburg, Freiburg, Germany.
-(8)German Cancer Consortium (DKTK) Partner site Freiburg, a partnership between 
-DKFZ and Medical Center-University of Freiburg, Heidelberg, Germany.
-(9)German Cancer Research Center (DKFZ), Heidelberg, Germany.
-(10)Signalling Research Centres BIOSS and CIBSS, University of Freiburg, 
-Freiburg, Germany.
+(1)State Key Laboratory of Molecular Oncology and Department of Radiation 
+Oncology, National Cancer Center/National Clinical Research Center for 
+Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union 
+Medical College, Beijing 100021, China.
+(2)State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research 
+Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 
+100085, China.
+(3)Department of Oncology, Mayo Clinic, Rochester, MN 55905, USA.
 
-BACKGROUND: Personalized therapy approaches targeting homologous recombination 
-deficiency (HRD) in biliary tract cancer (BTC) remain poorly explored with 
-limited clinical data available. Beyond BRCA1/2, the therapeutic implications of 
-BRCA1-associated protein 1 (BAP1) alterations are unclear.
-MATERIALS AND METHODS: We describe three patients with BTC and HRD-related 
-mutations as hypothesis-generating use cases. We illustrate how integration of 
-multiplexed imaging mass cytometry-based spatial immune profiling with genomic 
-sequencing may help generate testable biological hypotheses beyond genomics 
-alone.
-RESULTS: A patient with germline BRCA2-mutated BTC together with a positive HRD 
-score was sensitive to platinum-based therapy and poly (ADP-ribose) polymerase 
-inhibition. In contrast, a patient with loss of BAP1 was linked to a CD8+ T-cell 
-enriched tumor microenvironment, classified as spatially immune enriched and 
-responded long-term to subsequent immune checkpoint inhibition and tyrosine 
-kinase inhibition therapy.
-CONCLUSION: These observations provide a rationale for integrated genomic and 
-spatial immune profiling in BTC, which will require further prospective 
-validation.
+Poly (ADP-ribose) polymerase inhibitors (PARPi) demonstrate effective treatment 
+outcomes in ovarian cancer patients with BRCA1/2 mutations or homologous 
+recombination (HR) repair deficiencies, leveraging the principle of synthetic 
+lethality. However, PARPi resistance and HR proficiency remain significant 
+challenges in the clinical management of PARPi, necessitating the development of 
+novel strategies for PARPi therapy in ovarian cancer. Our previous research 
+identified PAK1's involvement in replication stress-induced cytotoxicity. 
+Nonetheless, whether PAK1 also affects HR repair and PARPi sensitivity in 
+ovarian cancer remains unresolved. In this research, we found that the 
+expression of PAK1 correlated with an unfavorable prognosis in ovarian cancer. 
+Depletion of PAK1, introduction of a kinase-dead mutation, or treatment with the 
+inhibitor IPA-3 could reduce HR repair efficiency and increase ovarian cancer 
+cell sensitivity to the PARP inhibitor olaparib. The combination of olaparib and 
+IPA-3 synergistically increased olaparib-induced DNA replication stress and 
+double-stranded breaks. Using cell line-derived xenograft, patient-derived 
+organoid, and patient-derived xenograft models, we discovered that IPA-3 
+potentiated the therapeutic efficacy of olaparib both in vivo and ex vivo. 
+Collectively, our findings suggest that targeting PAK1 might offer a new avenue 
+for increasing the sensitivity of olaparib and improving the outcomes of ovarian 
+cancer patients.
 
-© 2026 The Author(s).
+© 2025 The Authors.
 
-DOI: 10.1016/j.esmogo.2026.100318
-PMCID: PMC13049665
-PMID: 41938102
+DOI: 10.1016/j.gendis.2025.101887
+PMCID: PMC13092676
+PMID: 42017177
+
+Conflict of interest statement: The authors declared no competing interests.
 
 
-29. Curr Cancer Drug Targets. 2026 Apr 3. doi:
-10.2174/0115680096437832251215093401.  Online ahead of print.
+3. BMC Cancer. 2026 Apr 21. doi: 10.1186/s12885-026-16017-y. Online ahead of
+print.
 
-Comparative Analysis of Homologous Recombination Repair Status Across 
-Gynecologic and Breast Cancers in Chinese Populations.
+Prevalence of recurrent and non-recurrent BRCA1 and BRCA2 pathogenic variants in 
+Polish breast cancer patients: insights from a regional genetic testing cohort 
+from Lower Silesia.
 
-Huang Y(1), Shao J(2), Yin X(1), Jiang Y(1), Luo J(1), Huang J(1), Zhao J(3)(4), 
-Fu S(1), Liao J(1)(5).
+Matkowski R(1)(2), Abrahamowska M(3)(4), Michalowska D(3), Chrusciel A(3), 
+Szelachowska J(3)(4), Blomka D(3), Lawicka P(3), Czykalko E(3), Pietron A(3), 
+Ekiert M(3)(4), Doraczynska-Kowalik A(5), Janus-Szymanska G(6), Kasprzak P(3), 
+Szynglarewicz B(3)(4), Laczmanska I(7).
 
 Author information:
-(1)Cellular & Molecular Diagnostics Center, Sun Yat-sen Memorial Hospital, Sun 
-Yat-sen University, Guangzhou, 510120, China.
-(2)Department of Clinical Pharmacy, The Second People's Hospital of Foshan, 
-Foshan, 528000, China.
-(3)Breast Tumor Center, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, 
-Guangzhou, 510120, China.
-(4)Guangzhou Regenerative Medicine and Health, Guangdong Laboratory, Sun Yat-sen 
-Memorial Hospital, Sun Yat-sen University, Guangzhou, 510120, China.
-(5)Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene 
-Regulation, Guangzhou, 510120, China.
+(1)Lower Silesian Center of Oncology, Pulmonology and Hematology, Hirszfeld 12 
+Sq, Wroclaw, 53-413, Poland. rafal.matkowski@umw.edu.pl.
+(2)Department of Oncology, Faculty of Medicine, Wroclaw Medical University, 1 
+Ludwik Pasteur Embankment, Wroclaw, 53-367, Poland. rafal.matkowski@umw.edu.pl.
+(3)Lower Silesian Center of Oncology, Pulmonology and Hematology, Hirszfeld 12 
+Sq, Wroclaw, 53-413, Poland.
+(4)Department of Oncology, Faculty of Medicine, Wroclaw Medical University, 1 
+Ludwik Pasteur Embankment, Wroclaw, 53-367, Poland.
+(5)Department of Genetics, Faculty of Medicine, Wroclaw Medical University, 
+Marcinkowskiego 1, Wroclaw, 50-368, Poland.
+(6)Faculty of Medicine, Wroclaw University of Science and Technology, 
+Grunwaldzki Sq. 11, Wroclaw, 50-377, Poland.
+(7)Department of Clinical and Experimental Pathology, Faculty of Medicine, 
+Wroclaw Medical University, Borowska 213, Wroclaw, 50-556, Poland.
 
-BACKGROUND: Homologous recombination deficiency (HRD) is a key genomic hallmark 
-in multiple malignancies, driving genomic instability and influencing 
-responsiveness to targeted therapies such as PARP inhibitors. While HRD has been 
-extensively studied in cancers such as breast and ovarian carcinoma, its 
-associations with broader genomic characteristics across diverse female-specific 
-tumor types, including endometrial and cervical carcinoma, remain less well 
-defined.
-METHODS: Utilizing a 520-gene next-generation sequencing (NGS) panel, we 
-conducted a retrospective analysis of genomic mutational profiles and HRD scores 
-in 270 patients, including those with breast carcinoma (BRCA), ovarian carcinoma 
-(OV), cervical carcinoma (CCA), and uterine corpus endometrial carcinoma (UCEC). 
-Correlations between mutated genes, tumor mutation burden (TMB), microsatellite 
-instability status, and genomic HRD scores were further analyzed.
-RESULTS: BRCA, OV, and CCA exhibit comparable median HRD scores, which are 
-significantly higher than those observed in UCEC. Within the HR gene spectrum, 
-deficiencies in BRCA1/2 and mutations in PALB2 were associated with high HRD 
-scores (≥42). Notably, a subset of patients without germline or somatic 
-mutations in BRCA1/2, PALB2, or other HR-related genes also displayed high HRD. 
-Further analysis revealed that, in BRCA, mutations in SMARCA4, EPHA5, and JAK2 
-may serve as potential HRD markers, whereas in OV, PIK3CA mutations could 
-indicate a negative association. Additionally, TP53 mutations were linked to 
-high HRD scores in BRCA, OV, and UCEC patients, while no such association was 
-observed in CCA patients.
-CONCLUSION: The mutational patterns affecting homologous recombination repair 
-differ across gynecologic and breast cancers. Further research into 
-cancer-specific HRD mechanisms is warranted.
+DOI: 10.1186/s12885-026-16017-y
+PMID: 42015116
 
-Copyright© Bentham Science Publishers; For any queries, please email at 
-epub@benthamscience.net.
-
-DOI: 10.2174/0115680096437832251215093401
-PMID: 41935348
+Conflict of interest statement: Declarations. Ethical approval and consent to 
+participate: The study was conducted in accordance with the Declaration of 
+Helsinki. All tested patients provided written informed consent for genetic 
+testing and for the use of results for research purposes. The Wroclaw Medical 
+University Ethics Committee evaluated and authorised the experiment (No. 
+233/2025). Consent for publication: The authors consent to the publication of 
+the submitted work and confirm that all necessary permissions have been 
+obtained. Competing interests: The authors declare no competing interests.
 
 
-30. Indian J Med Res. 2026 Jan;163(1):95-103. doi: 10.25259/IJMR_1642_2024.
+4. Pathol Res Pract. 2026 Apr 15;282:156469. doi: 10.1016/j.prp.2026.156469.
+Online  ahead of print.
 
-Clinically actionable alterations in Indian breast cancer patients derived 
-through whole transcriptome sequencing.
+Whole genome sequencing of locally advanced and metastatic breast carcinoma 
+unravels relevant molecular signatures and novel events.
 
-Gardi N(1)(2), Chaubal R(1)(2)(3), Gandhi KA(1)(2), Kadam A(1)(2), Singh 
-A(1)(2), Raja AS(1)(2)(4), Vanmali V(3), Hawaldar R(3), Sale S(1)(2), Joshi 
-S(2)(3), Badwe R(2)(3), Gupta S(1)(2)(4).
+Kozan EN(1), Delgado-de la Mora J(1), Al Assaad M(1), Ginter P(2), Gundem G(3), 
+Levine MF(3), Gorski K(4), Phan A(2), Beg S(1), Sigaras A(5), LaPolla D(6), 
+Semaan A(1), Wilkes DC(1), Greco N(5), Sigouros M(5), Manohar J(5), 
+Medina-Martínez JS(3), Sboner A(7), Elemento O(8), Hoda S(2), Saxena A(6), 
+Andreopoulou E(6), Boyraz B(2), Mosquera JM(9).
 
 Author information:
-(1)Clinician Scientist Laboratory, Advanced Centre for Treatment, Research, and 
-Education in Cancer, Tata Memorial Centre, Mumbai, Maharashtra, India.
-(2)Training School Complex, Homi Bhabha National Institute, Mumbai, Maharashtra, 
-India.
-(3)Department of Surgical Oncology, Tata Memorial Hospital, Tata Memorial 
-Centre, Mumbai, Maharashtra, India.
-(4)Department of Medical Oncology, Tata Memorial Hospital, Tata Memorial Centre, 
-Mumbai, Maharashtra, India.
+(1)Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New 
+York, NY, USA; Englander Institute for Precision Medicine, Weill Cornell 
+Medicine, New York, NY, USA.
+(2)Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New 
+York, NY, USA.
+(3)Isabl Inc., New York, NY, USA.
+(4)Englander Institute for Precision Medicine, Weill Cornell Medicine, New York, 
+NY, USA; Department of Systems and Computational Biomedicine, Weill Cornell 
+Medicine, New York, NY, USA.
+(5)Englander Institute for Precision Medicine, Weill Cornell Medicine, New York, 
+NY, USA.
+(6)Department of Medicine, Weill Cornell Medicine, New York, NY, USA.
+(7)Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New 
+York, NY, USA; Englander Institute for Precision Medicine, Weill Cornell 
+Medicine, New York, NY, USA; Institute for Computational Biomedicine, Weill 
+Cornell Medicine, New York, NY, USA.
+(8)Englander Institute for Precision Medicine, Weill Cornell Medicine, New York, 
+NY, USA; Department of Systems and Computational Biomedicine, Weill Cornell 
+Medicine, New York, NY, USA; Institute for Computational Biomedicine, Weill 
+Cornell Medicine, New York, NY, USA.
+(9)Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New 
+York, NY, USA; Englander Institute for Precision Medicine, Weill Cornell 
+Medicine, New York, NY, USA. Electronic address: jmm9018@med.cornell.edu.
 
-Background and objectives Genomic studies are essential for identifying 
-mutations that may influence key aspects of breast tumours, such as 
-susceptibility, aggressiveness, and response to treatment. There are deficient 
-molecular and genomic data from Indian breast cancer patients. Methods mRNA from 
-primary breast cancer samples were subjected to next-generation transcriptome 
-(mRNA) sequencing on an Illumina platform, in duplicates and triplicates to 
-generate 30-60 M reads/sample. PAM50, and absolute intrinsic molecular subtyping 
-(AIMS) gene expression-based classifiers were used for intrinsic subtyping. 
-Variants were called using, GATK, MuTect2, VarScan2, and VarDict, followed by 
-filtering for somatic and non-synonymous changes. Germline variants were 
-excluded using public databases. ClinVar annotations prioritised pathogenic 
-variants, and the STRING algorithm was used for network analysis. Results A 
-total of 207 RNA-Seq datasets from 97 breast cancer patients were analysed. 
-There was good concordance between the immunohistochemical receptor and AIMS 
-classification for all subtypes, but there was discordance between 
-immunohistochemical and PAM50 subtypes within the ER-positive/HER2-positive 
-subgroup, wherein only 38.5% (n= 5) were classified as HER2-like by gene 
-expression classification. Variant analysis identified 145 high-confidence 
-somatic mutations, with TP53 (n=46, 47%) and PIK3CA (n=33, 34%) being the most 
-frequent. Additional actionable mutations in BRCA1, BRCA2, FGFR2, PTEN, AKT1, 
-and mTOR pathways were identified. At least one actionable mutation was found in 
-52% of patients. Fusion transcript analysis identified 91 recurrent fusions, 
-including novel partners with ERBB2, MED1, and CDK12, suggesting the possibility 
-of unique molecular events. Interpretation and conclusions This study 
-demonstrates that Indian breast cancer patients exhibit molecular subtypes and 
-actionable mutations comparable to Caucasian cohorts.
+Metastatic breast cancer remains the leading cause of cancer related mortality 
+in women. While comprehensive genomic profiling of primary tumors has advanced, 
+the whole genome landscape of metastatic disease remains incompletely 
+characterized. We performed whole genome and transcriptome sequencing on 50 
+tumor samples from 37 patients with locally advanced or metastatic breast 
+cancer. Based on immunohistochemistry, samples were classified as Luminal, 
+triple-negative breast cancer (TNBC), or HER2-enriched. We assessed tumor 
+mutational burden, homologous recombination deficiency, mutational signatures, 
+structural variants, and therapeutic actionability. TNBC demonstrated highest 
+median whole genome tumor mutational burden (5.8 mutations/Mb) compared to 
+HER2-enriched (4.7) and Luminal (2.7) subtypes. Homologous recombination 
+deficiency (confident or suspected) was detected in 27% of patients (10/37), 
+enriched in TNBC (60%) versus Luminal tumors (17%). Notably, half of HRD cases 
+were BRCA1/2 wild-type and harbored deleterious structural variants in other 
+homologous recombination repair genes. Therapeutically actionable alterations 
+were identified in 84% of patients, with FDA approved biomarkers in 30-46% 
+across subtypes. We identified a novel ESR1::EP300 fusion with potential 
+implications for endocrine resistance. Multi-region sequencing of two rapid 
+autopsy cases revealed substantial spatial heterogeneity in mutational burden 
+and structural variants, while core driver events remained conserved. 
+Comprehensive whole-genome profiling of metastatic breast cancer reveals 
+extensive genomic complexity, prevalent non-BRCA mechanisms of homologous 
+recombination deficiency, and broad therapeutic actionability, supporting 
+broader implementation of genome-wide sequencing approaches in advanced disease.
 
-DOI: 10.25259/IJMR_1642_2024
-PMCID: PMC13054166
-PMID: 41934415 [Indexed for MEDLINE]
+Copyright © 2026 Elsevier GmbH. All rights reserved.
 
-Conflict of interest statement: None.
+DOI: 10.1016/j.prp.2026.156469
+PMID: 42013747
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: Gunes Gundem, Max F. Levine, and 
+Juan S. Medina-Martínez are employees at Isabl, Inc. The Isabl GxT platform and 
+HRD classifier used in this study are developed and maintained by Isabl, Inc. If 
+there are other authors, they declare that they have no known competing 
+financial interests or personal relationships that could have appeared to 
+influence the work reported in this paper.
+
+
+5. Eur J Surg Oncol. 2026 Mar 25;52(6):111768. doi: 10.1016/j.ejso.2026.111768. 
+Online ahead of print.
+
+Advanced high-grade serous ovarian cancer treated with intensive cytoreductive 
+surgery and chemotherapy: prognostic impact of lymph node involvement: analysis 
+of the French national ESME-Unicancer database.
+
+Le Bars S(1), Guerin-Charbonnel C(1), Martin E(1), Thomas QD(2), Costaz H(3), 
+Pomel C(4), Marchal F(5), Narducci F(6), Gouy S(7), Laas E(8), Rossi L(9), 
+Lambaudie E(10), Rouzier R(11), Petit T(12), Gladieff L(13), De La Motte Rouge 
+T(14), Bosquet L(15), Colombo PE(2), Classe JM(1), Loaec C(16).
+
+Author information:
+(1)Institut de Cancérologie de L'Ouest, Saint Herblain, France.
+(2)Department of Medical Oncology, Institut Du Cancer de Montpellier, France.
+(3)Department of Surgical Oncology, Centre Georges François Leclerc, Dijon, 
+France.
+(4)Department of Surgical Oncology, Centre de Lutte Contre le Cancer Jean 
+Perrin, Clermont Ferrand, France.
+(5)Department of Surgical Oncology, Institut de Cancerologie de Lorraine, 
+Université de Lorraine, CNRS, CRAN, UMR, 7039, Nancy, France.
+(6)Department of Surgical Oncology, Centre Oscar Lambret, Lille, France.
+(7)Department of Surgical Oncology, Institut Gustave Roussy, Villejuif, France.
+(8)Department of Surgical Oncology, Institut Curie, Paris, France.
+(9)Department of Surgical Oncology Centre Leon Berard, Lyon, France.
+(10)Department of Surgical Oncology, Institut Paoli Calmettes, Marseille, 
+France.
+(11)Department of Surgical Oncology, Centre François Baclesse, Caen, France.
+(12)Department of Medical Oncology, Centre Paul Strauss, Strasbourg, France.
+(13)Department of Medical Oncology, Oncopole CLAUDIUS REGAUD - IUCT Oncopole, 
+Toulouse, France.
+(14)Department of Medical Oncology, Centre Eugène Marquis, Rennes, France.
+(15)Data and Partnership Department, Unicancer, Paris, France.
+(16)Institut de Cancérologie de L'Ouest, Saint Herblain, France. Electronic 
+address: cecile.loaec@ico.unicancer.fr.
+
+INTRODUCTION: Benefits on survival of retroperitoneal lymph node (LN) dissection 
+during cytoreductive surgery (CRS) for epithelial ovarian cancer are debated. 
+However, LN involvement may be a prognostic factor especially in case of 
+high-grade serous ovarian cancer (HGSOC).
+MATERIALS AND METHODS: In the French Epidemiological Strategy and Medical 
+Economics - Ovarian Cancer (ESME-OC) database, we identified patients treated 
+for advanced-stage (FIGO III-IV) HGSOC with chemotherapy and intensive CRS 
+including retroperitoneal LN dissection. Our first objective was to identify 
+prognostic factors in case of maximalist treatment.
+RESULTS: Of 13032 patients included, 485 with advanced HGSOC diagnosed between 
+May 29, 2006 and December 16, 2019 were analyzed. Primary CRS was performed on 
+279 patients (57.5%). Of them, 70.3% had LN involvement. Surgery was performed 
+after neo-adjuvant chemotherapy (NAC) in 206 patients (42.5%). Of them, 61.2% 
+had LN involvement. LN involvement was considered major with a Lymph Node Ratio 
+(LNR) ≥25% for 21.1% of patients who underwent primary CRS and 15.0% after NAC. 
+In primary CRS, when adjusted to FIGO stage and BRCA1/2 deleterious mutation, 
+LNR ≥25% vs none indicated a poorer prognosis for both overall survival (OS) 
+(HR = 2.46 [1.25; 4.84], p = 0.009) and progression-free survival (PFS) 
+(HR = 2.23 [1.40; 3.57], p < 0.001). After NAC, LNR ≥25% vs none was a negative 
+prognostic factor with a stronger negative impact on PFS (HR = 2.00 [1.12; 
+3.57]; p = 0.018).
+CONCLUSION: LN involvement is a negative prognostic factor in advanced-stage 
+HGSOC especially in case of primary CRS. LN involvement could be a target for 
+developing new therapies.
+
+Copyright © 2026. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.ejso.2026.111768
+PMID: 42013623
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: Sophie LE BARS reports was provided 
+by Institute of Cancer Research Western France. Sophie LE BARS reports a 
+relationship with Institute of Cancer Research Western France that includes: 
+employment and non-financial support. Sophie LE BARS has patent Doctor issued to 
+M.D. no conflict of interest If there are other authors, they declare that they 
+have no known competing financial interests or personal relationships that could 
+have appeared to influence the work reported in this paper.
