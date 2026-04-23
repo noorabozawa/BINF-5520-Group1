@@ -3,7 +3,7 @@ from Bio import Entrez
 Entrez.email = "noorabozawa@gmail.com"
 
 QUERY = "BRCA1 mutation"
-MAX_RESULTS = 5
+MAX_RESULTS = 30
 
 
 def search_pubmed(query, max_results=5):
