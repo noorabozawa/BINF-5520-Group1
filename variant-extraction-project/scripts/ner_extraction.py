@@ -2,12 +2,15 @@ def extract_entities(text):
     genes = set()
     diseases = set()
 
-    if "brca1" in text:
-        genes.add("BRCA1")
+    gene_keywords = ["brca1", "tp53", "egfr"]
+    disease_keywords = ["breast cancer", "lung cancer", "cancer"]
 
-    if "breast cancer" in text:
-        diseases.add("breast cancer")
-    elif "cancer" in text:
-        diseases.add("cancer")
+    for g in gene_keywords:
+        if g in text:
+            genes.add(g.upper())
+
+    for d in disease_keywords:
+        if d in text:
+            diseases.add(d)
 
     return list(genes), list(diseases)
