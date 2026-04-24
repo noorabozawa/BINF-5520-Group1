@@ -1,1 +1,236 @@
-[]
+[
+    {
+        "gene": "BRCA1",
+        "variant": "c.2443inst",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.2511insg",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.2533insg",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.i845f",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.3576",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.e781f",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.p1192p",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.a794f",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.k795x",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.f1193f",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.2380inst",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.1653t",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.2429a",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.3762delg",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.3740",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.2026",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.2339insg",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.2430c",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.i815f",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.2376insc",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.k793f",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.3830delc",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.3621delg",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.2383a",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.n838f",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.a1277f",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.n1255f",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.f1193l",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.4252",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.3644a",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.3579c",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.3577",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.s1437s",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.n810t",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.n810k",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.l1418l",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.n1215i",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "c.4311",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    },
+    {
+        "gene": "BRCA1",
+        "variant": "p.v1247d",
+        "disease": "breast cancer",
+        "relationship": "associated_with"
+    }
+]

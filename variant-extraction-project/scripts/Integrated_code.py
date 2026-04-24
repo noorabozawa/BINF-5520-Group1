@@ -1,33 +1,36 @@
-# integrated_code.py
-
-from preprocessing import preprocess_text
-from ner_extraction import extract_entities
-from regex_extraction import extract_variants
-from llm_extraction import structure_output
+import sys
+import os
+sys.path.append(os.path.dirname(__file__))
 
 import json
+from pubmed_search import search_pubmed, fetch_abstracts
+from preprocessing import preprocess_text
+from regex_extraction import extract_variants
+from ner_extraction import extract_entities
+from llm_extraction import structure_output
 
 
 def main():
-    text = "The BRCA1 gene has a mutation c.68_69delAG associated with breast cancer."
+    ids = search_pubmed("BRCA1 mutation", 20)
+    text = fetch_abstracts(ids)
 
-    # 1. Preprocessing
-    cleaned_text = preprocess_text(text)
+    if not text:
+        print("No abstracts retrieved")
+        return
 
-    # 2. NER
-    genes, diseases = extract_entities(cleaned_text)
+    cleaned = preprocess_text(text)
 
-    # 3. Regex
-    variants = extract_variants(cleaned_text)
+    variants = extract_variants(cleaned)
+    genes, diseases = extract_entities(cleaned)
 
-    # 4. Structure output
+    if not variants or not genes or not diseases:
+        print("No complete extraction found")
+        return
+
     results = structure_output(genes, variants, diseases)
 
-    # 5. Save to JSON
-    with open("../results/extracted_data.json", "w") as file:
-        json.dump(results, file, indent=4)
-
-    print("✅ Results saved to results/extracted_data.json")
+    with open("../results/extracted_data.json", "w") as f:
+        json.dump(results, f, indent=4)
 
 
 if __name__ == "__main__":

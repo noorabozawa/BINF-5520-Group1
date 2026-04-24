@@ -1,4 +1,213 @@
-1. Front Oncol. 2026 Apr 7;16:1769043. doi: 10.3389/fonc.2026.1769043.
+1. Mutagenesis. 2026 Apr 24:geag018. doi: 10.1093/mutage/geag018. Online ahead of
+ print.
+
+Differential Roles of BRCA1 and BRCA2 in the DNA Damage Response Revealed by 
+isogenic V79 Mutant Cell lines.
+
+Chailapakul P(1), Maeda J(1), Miura T(2), Kato TA(1).
+
+Author information:
+(1)Department of Environmental & Radiological Health Sciences, Colorado State 
+University, Fort Collins, CO, USA  80523.
+(2)Institute of Radiation Emergency Medicine, Hirosaki University, Aomori, Japan 
+ 036-8564.
+
+This study aimed to establish a novel BRCA1 mutant cell line from Chinese 
+hamster V79 cells and clarify the role of BRCA1 in the DNA damage response (DDR) 
+by comparison with a BRCA2 mutant line, V-C8. Using CRISPR/Cas9 editing, we 
+generated a hypomorphic BRCA1 mutant, designated B1-21, carrying a 27-bp 
+in-frame deletion in exon 4. This mutation deletes nine amino acids within the 
+RING domain. B1-21, V79, and V-C8 cells were analyzed for DDR phenotypes. Both 
+mutants showed impaired RAD51 foci formation, defective homologous recombination 
+repair, and increased sensitivity to DNA-damaging agents. B1-21 cells were 
+particularly sensitive to camptothecin and the PARP inhibitor NU1025, whereas 
+V-C8 cells showed higher sensitivity to etoposide, cisplatin, mitomycin C, and 
+bleomycin. Although γH2AX and FANCD2 focus responses were similar between V79 
+and B1-21, RAD51 recruitment was only partially reduced in B1-21 and completely 
+absent in V-C8. B1-21 also displayed chromosomal instability (19-20 
+chromosomes), while V79 and V-C8 maintained a stable karyotype. After gamma 
+irradiation, V-C8 cells accumulated substantially more chromatid-type 
+aberrations and retained unrepaired chromatin longer than B1-21. Neither mutant 
+showed normal RAD51 foci formation, radiation-induced sister chromatid exchange 
+or an effective G2/M checkpoint arrest, unlike wild-type cells. Mitotic index 
+measurements further confirmed checkpoint failure: V79 cells suppressed mitotic 
+entry after irradiation, while B1-21 and V-C8 continued to enter mitosis, with 
+V-C8 showing the most complete checkpoint breakdown. These findings indicate 
+that partial disruption of the BRCA1 RING domain results in a hypomorphic 
+phenotype with impaired homologous recombination, defective checkpoint control, 
+and enhanced genotoxic sensitivity. The isogenic BRCA1 and BRCA2 mutant V79 
+lines offer a valuable model for dissecting DDR pathway differences and 
+developing mutation-specific therapeutic strategies targeting BRCA-mutant 
+cancers.
+
+© The Author(s) 2026. Published by Oxford University Press on behalf of the UK 
+Environmental Mutagen Society.
+
+DOI: 10.1093/mutage/geag018
+PMID: 42028973
+
+
+2. J Obstet Gynaecol Res. 2026 May;52(5):e70289. doi: 10.1111/jog.70289.
+
+Clinicopathological Status and Prognostic Factors of Recurrent Epithelial 
+Ovarian Cancer in Japan: Retrospective Survey of JSOG Committee on Gynecologic 
+Oncology.
+
+Watanabe Y(1), Baba T(2), Soeda S(3), Tokunaga H(4), Yamagami W(5), Nomura H(6), 
+Kobayashi Y(7), Kawana K(8), Yoshino K(9), Yokoyama Y(10), Nishi H(11), 
+Kobayashi H(12), Matsuzawa Y(1), Oyamada S(13), Takahashi S(14), Nagase S(15).
+
+Author information:
+(1)Division of Obstetrics and Gynecology, Tohoku Medical and Pharmaceutical 
+University, Sendai, Japan.
+(2)Department of Obstetrics and Gynecology, Iwate Medical University School of 
+Medicine, Yahaba, Japan.
+(3)Department of Obstetrics and Gynecology, Fukushima Medical University, 
+Fukushima, Japan.
+(4)Department of Gynecology and Obstetrics, Tohoku University Graduate School of 
+Medicine, Sendai, Japan.
+(5)Department of Obstetrics and Gynecology, Keio University School of Medicine, 
+Tokyo, Japan.
+(6)Department of Obstetrics and Gynecology, Tokai University School of Medicine, 
+Isehara, Japan.
+(7)Department of Obstetrics and Gynecology, Kyorin University Faculty of 
+Medicine, Tokyo, Japan.
+(8)Department of Obstetrics and Gynecology, Graduate School of Medicine, Nihon 
+University, Tokyo, Japan.
+(9)Department of Obstetrics and Gynecology, School of Medicine, University of 
+Occupational and Environmental Health, Kitakyushu, Japan.
+(10)Department of Obstetrics and Gynecology, Hirosaki University School of 
+Medicine, Hirosaki, Japan.
+(11)Department of Obstetrics and Gynecology, Tokyo Medical University, Tokyo, 
+Japan.
+(12)Department of Obstetrics and Gynecology, Faculty of Medicine, Kagoshima 
+University, Kagoshima, Japan.
+(13)Clinical Research, Innovation and Education Center, Tohoku University 
+Hospital, Sendai, Japan.
+(14)Center for Clinical Research Promotion and Development, Tohoku Medical and 
+Pharmaceutical Hospital, Sendai, Japan.
+(15)Department of Obstetrics and Gynecology, Yamagata University, Faculty of 
+Medicine, Yamagata, Japan.
+
+AIM: Despite advancements in maintenance therapies, recurrent epithelial ovarian 
+cancer remains a clinical challenge with varying outcomes. This study aimed to 
+evaluate the clinicopathological status and prognostic factors of patients with 
+recurrent epithelial ovarian cancer.
+METHODS: We conducted a retrospective survey through the Committee on 
+Gynecologic Oncology of the Japan Society of Gynecology and Obstetrics across 16 
+institutions.
+RESULTS: Histological subtypes included high-grade serous (HGS; n = 304), 
+clear-cell (CC; n = 83), endometrioid (EM; n = 35), mucinous (n = 12), and 
+low-grade serous (n = 9) carcinomas. At recurrence, the median age was 61 years, 
+74.0% of patients had a platinum-free interval (PFI) ≥ 6 months, and 78.8% 
+maintained a performance status (PS) of 0. Genetic testing identified 42 BRCA1/2 
+mutations and 52 cases of homologous recombination deficiency positivity. 
+Recurrence occurred primarily in the peritoneum, lymph nodes, and liver. For PFI 
+≥ 6 months, paclitaxel/carboplatin ± bevacizumab was the primary treatment; for 
+PFI < 6 months, pegylated liposomal doxorubicin ± bevacizumab predominated. The 
+overall response rate was 69.9% for PFI ≥ 6 months versus 17.7% for PFI 
+< 6 months. Median overall survival was 27.9 months. Multivariate analysis 
+confirmed histological subtype (CC/EM vs. HGS), PS, CA125 (≥ 100 U/mL), and PFI 
+as significant independent prognostic factors, while first-line molecularly 
+targeted therapy use showed no significant impact.
+CONCLUSION: PFI, histological subtype, PS, and CA125 levels are important 
+prognostic factors for the use of molecular-targeted agents for recurrent 
+epithelial ovarian cancer. Patients with CC and EM subtypes experience worse 
+outcomes than those with HGS, highlighting the need for subtype-specific 
+management in recurrent ovarian cancer.
+
+© 2026 The Author(s). Journal of Obstetrics and Gynaecology Research published 
+by John Wiley & Sons Australia, Ltd on behalf of Japan Society of Obstetrics and 
+Gynecology.
+
+DOI: 10.1111/jog.70289
+PMID: 42027044 [Indexed for MEDLINE]
+
+
+3. NPJ Genom Med. 2026 Apr 23. doi: 10.1038/s41525-026-00570-3. Online ahead of 
+print.
+
+Immuno-molecular features associated with exceptional recurrence-free 
+survivorship from Ovarian Cancer in the pre-PARP era.
+
+Blanc-Durand F(1)(2)(3)(4), Yaniz Galende E(2), Ferron G(4)(5), Kaminsky MC(6), 
+Kalbacher E(7), Abadie-Lacourtoisie S(8), Joly F(4)(9), Meunier J(10), Tredan 
+O(4)(11), Lebreton C(3)(4)(12), Alexandre J(4)(13), Zannetti A(14), Louvet 
+C(15), Blonz C(4)(16), Dohollou N(17), Berton D(18), Desauw C(19), Carola E(20), 
+Fabbro M(4)(21), Follana P(4)(22), Pujade-Lauraine E(4), Mourani L(2), Le Formal 
+A(2), Gaultier De Saint Basile H(2), Genestie C(2)(23), Rouleau E(2)(24), Leary 
+A(25)(26)(27)(28).
+
+Author information:
+(1)Medical Oncology, Gynecology Unit, Gustave Roussy Institute, Villejuif, 
+France.
+(2)INSERM UMR 981, Gustave Roussy Institute, Villejuif, France.
+(3)GINEGEPS (GINEco Group on Early Phase Studies), Paris, France.
+(4)GINECO (Groupe d'Investigateurs Nationaux pour l'Etude des Cancers de 
+l'Ovaire), Paris, France.
+(5)Oncopole Claudius Regaud IUCT, Toulouse, France.
+(6)ICL - Institut de Cancérologie de Lorraine, Vandoeuvre-Les-Nancy, France.
+(7)CHU Jean Minjoz, Besançon, France.
+(8)ICO - Institut de Cancérologie de l'Ouest, site Paul Papin, Angers, France.
+(9)Centre François Baclesse, Caen, France.
+(10)Centre Hospitalier Régional d'Orléans, Orléans, France.
+(11)Centre Léon Bérard, Lyon, France.
+(12)Institut Bergonié, Bordeaux, France.
+(13)Université Paris Centre, AP-HP, Hôpital Cochin, Paris, France.
+(14)Centre hospitalier de Cholet, Cholet, France.
+(15)Institut Mutualiste Montsouris, Paris, France.
+(16)Hôpital Privé du Confluent, Nantes, France.
+(17)Polyclinique Bordeaux Nord Aquitaine, Bordeaux, France.
+(18)ICO Centre René Gauducheau, Saint-Herblain, Paris, France.
+(19)Centre Hospitalier Régional Universitaire de Lille - Hôpital Huriez, Lille, 
+France.
+(20)GHPSO Site de Sentes, Senlis, France.
+(21)Institut du Cancer de Montpellier - ICM Val d'Aurelle, Montpellier, France.
+(22)Centre Antoine Lacassagne, Nice, France.
+(23)Pathology Department, Gustave Roussy Institute, Villejuif, France.
+(24)Cancer Genetics, Gustave Roussy Institute, Villejuif, France.
+(25)Medical Oncology, Gynecology Unit, Gustave Roussy Institute, Villejuif, 
+France. Alexandra.leary@gustaveroussy.fr.
+(26)INSERM UMR 981, Gustave Roussy Institute, Villejuif, France. 
+Alexandra.leary@gustaveroussy.fr.
+(27)GINEGEPS (GINEco Group on Early Phase Studies), Paris, France. 
+Alexandra.leary@gustaveroussy.fr.
+(28)GINECO (Groupe d'Investigateurs Nationaux pour l'Etude des Cancers de 
+l'Ovaire), Paris, France. Alexandra.leary@gustaveroussy.fr.
+
+High-grade serous ovarian cancer (HGSOC) remains a leading cause of 
+gynecological cancer mortality, with only <15% of patients achieving long-term, 
+relapse-free survival. Using data from the VIVROVAIRE (NCT03418844) and CHIVA 
+(NCT03418844) clinical trials, this study investigated the molecular and 
+immunophenotypic characteristics of long-term recurrence-free survivors (LTS) 
+compared with short-term survivors (STS). Tumor samples from 37 LTS 
+(recurrence-free ≥3 years) and 105 STS were analyzed using next-generation 
+sequencing, BRCA1/RAD51C promoter methylation assays, shallow whole genome and 
+multiplex immunofluorescence. Homologous recombination deficiency (HRD) was 
+defined by BRCA1/2 or RAD51C/D alterations, and genomic instability scores 
+(GIS). Immune profiling included quantification of CD4+, CD8+, CD20+, and FOXP3+ 
+cells. LTS were younger and had a lower prevalence of FIGO stage IV disease. 
+Molecularly, LTS showed fewer TP53 mutations, enrichment of BRCA2 mutations and 
+BRCA1 and RAD51C promoter methylation, and a strong association between RB1 loss 
+co-occurring with a BRCA alteration. Conversely, CCNE1 amplification was 
+underrepresented in LTS. Immune profiling demonstrated increased stromal and 
+intraepithelial CD8+ T-cell infiltration and reduced FOXP3+ regulatory T cells 
+in LTS. Overall, exceptional survival in HGSOC is associated with younger age, 
+enrichment of BRCA2 mutations and BRCA1/RAD51C methylation, reduced CCNE1 
+amplification, and a competent antitumor immune response. These findings 
+highlight potential biomarkers for refining risk stratification and guiding 
+personalized therapeutic strategies in ovarian cancer management.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41525-026-00570-3
+PMID: 42026095
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+
+4. Front Oncol. 2026 Apr 7;16:1769043. doi: 10.3389/fonc.2026.1769043.
 eCollection  2026.
 
 Case Report: Durable complete response to olaparib in a patient with 
@@ -38,7 +247,7 @@ conducted in the absence of any commercial or financial relationships that could
 be construed as a potential conflict of interest.
 
 
-2. Genes Dis. 2025 Oct 21;13(4):101887. doi: 10.1016/j.gendis.2025.101887. 
+5. Genes Dis. 2025 Oct 21;13(4):101887. doi: 10.1016/j.gendis.2025.101887. 
 eCollection 2026 Jul.
 
 PAK1 inhibition synergistically enhances the anti-tumor efficacy of PARP 
@@ -86,7 +295,7 @@ PMID: 42017177
 Conflict of interest statement: The authors declared no competing interests.
 
 
-3. BMC Cancer. 2026 Apr 21. doi: 10.1186/s12885-026-16017-y. Online ahead of
+6. BMC Cancer. 2026 Apr 21. doi: 10.1186/s12885-026-16017-y. Online ahead of
 print.
 
 Prevalence of recurrent and non-recurrent BRCA1 and BRCA2 pathogenic variants in 
@@ -127,7 +336,7 @@ the submitted work and confirm that all necessary permissions have been
 obtained. Competing interests: The authors declare no competing interests.
 
 
-4. Pathol Res Pract. 2026 Apr 15;282:156469. doi: 10.1016/j.prp.2026.156469.
+7. Pathol Res Pract. 2026 Apr 15;282:156469. doi: 10.1016/j.prp.2026.156469.
 Online  ahead of print.
 
 Whole genome sequencing of locally advanced and metastatic breast carcinoma 
@@ -204,7 +413,7 @@ financial interests or personal relationships that could have appeared to
 influence the work reported in this paper.
 
 
-5. Eur J Surg Oncol. 2026 Mar 25;52(6):111768. doi: 10.1016/j.ejso.2026.111768. 
+8. Eur J Surg Oncol. 2026 Mar 25;52(6):111768. doi: 10.1016/j.ejso.2026.111768. 
 Online ahead of print.
 
 Advanced high-grade serous ovarian cancer treated with intensive cytoreductive 
@@ -281,7 +490,7 @@ have no known competing financial interests or personal relationships that could
 have appeared to influence the work reported in this paper.
 
 
-6. Cancer Epidemiol Biomarkers Prev. 2026 Apr 21. doi: 
+9. Cancer Epidemiol Biomarkers Prev. 2026 Apr 21. doi: 
 10.1158/1055-9965.EPI-25-2008. Online ahead of print.
 
 BRCA testing in Asian ovarian cancer patients: Standard clinical practice or 
@@ -359,7 +568,7 @@ DOI: 10.1158/1055-9965.EPI-25-2008
 PMID: 42013351
 
 
-7. Scand J Urol. 2026 Apr 21;61:138-147. doi: 10.2340/sju.v61.45715.
+10. Scand J Urol. 2026 Apr 21;61:138-147. doi: 10.2340/sju.v61.45715.
 
 The Swedish national guidelines on prostate cancer: recurrent, metastatic and 
 castration resistant disease.
@@ -433,7 +642,7 @@ DOI: 10.2340/sju.v61.45715
 PMID: 42012147 [Indexed for MEDLINE]
 
 
-8. Cancer Med. 2026 Apr;15(4):e71846. doi: 10.1002/cam4.71846.
+11. Cancer Med. 2026 Apr;15(4):e71846. doi: 10.1002/cam4.71846.
 
 High Prevalence of Non-BRCA Pathogenic Variants and a Recurrent PALB2 Variant in 
 an Argentine Hereditary Breast and Ovarian Cancer Cohort.
@@ -486,7 +695,7 @@ PMID: 42011088 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no conflicts of interest.
 
 
-9. Arch Gynecol Obstet. 2026 Apr 20;313(1):169. doi: 10.1007/s00404-026-08442-y.
+12. Arch Gynecol Obstet. 2026 Apr 20;313(1):169. doi: 10.1007/s00404-026-08442-y.
 
 Management of incidental STIC lesions with and without BRCA mutations: a survey 
 of current clinical practice in Austria, Germany, and Switzerland.
@@ -549,7 +758,7 @@ with this publication and there has been no financial support for this work that
 could have influenced its outcome.
 
 
-10. Front Oncol. 2026 Apr 2;16:1754873. doi: 10.3389/fonc.2026.1754873.
+13. Front Oncol. 2026 Apr 2;16:1754873. doi: 10.3389/fonc.2026.1754873.
 eCollection  2026.
 
 Eprenetapopt in combination with carboplatin in high-grade ovarian and triple 
@@ -626,7 +835,7 @@ conducted in the absence of any commercial or financial relationships that could
 be construed as a potential conflict of interest.
 
 
-11. Curr Drug Targets. 2026 Apr 15. doi: 10.2174/0113894501439423251224072750. 
+14. Curr Drug Targets. 2026 Apr 15. doi: 10.2174/0113894501439423251224072750. 
 Online ahead of print.
 
 (E)-Labda dial-Loaded Nanoparticles for Triple Negative Breast Cancer.
@@ -675,7 +884,7 @@ DOI: 10.2174/0113894501439423251224072750
 PMID: 42003077
 
 
-12. Pharmacogenomics. 2026 Apr 19:1-11. doi: 10.1080/14622416.2026.2658438.
+15. Pharmacogenomics. 2026 Apr 19:1-11. doi: 10.1080/14622416.2026.2658438.
 Online  ahead of print.
 
 The use of cell-free DNA (cfDNA)/circulating tumor DNA (ctDNA) to guide 
@@ -726,7 +935,7 @@ DOI: 10.1080/14622416.2026.2658438
 PMID: 42002527
 
 
-13. J Chin Med Assoc. 2026 Apr 1;89(4):263-270. doi:
+16. J Chin Med Assoc. 2026 Apr 1;89(4):263-270. doi:
 10.1097/JCMA.0000000000001365.  Epub 2026 Mar 6.
 
 Comprehensive review of current management and precision medicine in pancreatic 
@@ -779,7 +988,7 @@ they have no conflicts of interest related to the subject matter or materials
 discussed in this article.
 
 
-14. J Med Case Rep. 2026 Apr 16;20(1):206. doi: 10.1186/s13256-025-05048-x.
+17. J Med Case Rep. 2026 Apr 16;20(1):206. doi: 10.1186/s13256-025-05048-x.
 
 A report of novel inactivating missense mutations of BRCA1 detected in patients 
 with acute myeloid leukemia.
@@ -847,7 +1056,7 @@ written consent is available for review by the Editor-in-Chief of this journal.
 Competing interests: The authors do not have any competing interests.
 
 
-15. BMC Cancer. 2026 Apr 16;26(1):495. doi: 10.1186/s12885-026-15980-w.
+18. BMC Cancer. 2026 Apr 16;26(1):495. doi: 10.1186/s12885-026-15980-w.
 
 Characteristics and outcomes of patients with endometriosis and malignant or 
 borderline ovarian tumors: real-world evidence from an ESGO centre of 
@@ -919,7 +1128,7 @@ the requirement for written informed consent. Consent for publication: Not
 applicable. Competing interests: The authors declare no competing interests.
 
 
-16. Exp Mol Med. 2026 Apr 16. doi: 10.1038/s12276-026-01693-4. Online ahead of 
+19. Exp Mol Med. 2026 Apr 16. doi: 10.1038/s12276-026-01693-4. Online ahead of 
 print.
 
 Delineation of the heterogeneity underlying genomic instability in hereditary 
@@ -994,7 +1203,7 @@ Conflict of interest statement: Competing interests: The authors declare no
 competing interests.
 
 
-17. JCO Precis Oncol. 2026 Apr;10(4):e2501088. doi: 10.1200/PO-25-01088. Epub
+20. JCO Precis Oncol. 2026 Apr;10(4):e2501088. doi: 10.1200/PO-25-01088. Epub
 2026  Apr 16.
 
 Increasing Use of Germline Genetic Testing in Pancreatic Ductal Adenocarcinoma 
@@ -1045,7 +1254,7 @@ DOI: 10.1200/PO-25-01088
 PMID: 41990298 [Indexed for MEDLINE]
 
 
-18. JCO Precis Oncol. 2026 Apr;10(4):e2500596. doi: 10.1200/PO-25-00596. Epub
+21. JCO Precis Oncol. 2026 Apr;10(4):e2500596. doi: 10.1200/PO-25-00596. Epub
 2026  Apr 16.
 
 Germline Pathogenic Variants in Homologous Recombination Pathway Genes Are 
@@ -1106,7 +1315,7 @@ information reported by companies about payments made to US-licensed physicians
 (Open Payments).
 
 
-19. Cancer Treat Res Commun. 2026 Apr 12;47:101214. doi: 
+22. Cancer Treat Res Commun. 2026 Apr 12;47:101214. doi: 
 10.1016/j.ctarc.2026.101214. Online ahead of print.
 
 The complex landscape of non-coding RNAs in olaparib response and resistance.
@@ -1149,7 +1358,7 @@ Conflict of interest statement: Declaration of competing interest Authors
 declare no conflict of interests.
 
 
-20. Cancers (Basel). 2026 Mar 29;18(7):1106. doi: 10.3390/cancers18071106.
+23. Cancers (Basel). 2026 Mar 29;18(7):1106. doi: 10.3390/cancers18071106.
 
 Risk of Radiation-Associated Contralateral Breast Cancer in Germline Mutation 
 Carriers: A Meta-Analysis and Systematic Review.
@@ -1205,7 +1414,7 @@ PMID: 41976331
 Conflict of interest statement: The authors declare no conflicts of interest.
 
 
-21. Nat Rev Cancer. 2026 Apr 13. doi: 10.1038/s41568-026-00916-0. Online ahead of
+24. Nat Rev Cancer. 2026 Apr 13. doi: 10.1038/s41568-026-00916-0. Online ahead of
  print.
 
 Rethinking ovarian cancer III: the past decade and future directions.
@@ -1308,7 +1517,7 @@ R.R., P.D.P.P., C.A.I., C.F., R.J.B., I.L.-G., D.P.C., S.L., R.D., K.P.N., S.P.,
 B.H.N., A.F., K.F., and B.G.N. all declare no competing interests.
 
 
-22. Cells. 2026 Mar 26;15(7):588. doi: 10.3390/cells15070588.
+25. Cells. 2026 Mar 26;15(7):588. doi: 10.3390/cells15070588.
 
 PARP Inhibition in Prostate Cancer: Current Status, Resistance Mechanisms, and 
 Clinical Challenges.
@@ -1359,7 +1568,7 @@ PMID: 41972679 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no conflicts of interest.
 
 
-23. Biochem Biophys Rep. 2026 Mar 31;46:102564. doi: 10.1016/j.bbrep.2026.102564.
+26. Biochem Biophys Rep. 2026 Mar 31;46:102564. doi: 10.1016/j.bbrep.2026.102564.
  eCollection 2026 Jun.
 
 From mutation to treatment: The dual role of BRCA1 and BRCA2 in gynecological 
@@ -1407,7 +1616,7 @@ competing financial interests or personal relationships that could have appeared
 to influence the work reported in this paper.
 
 
-24. Transl Oncol. 2026 Apr 11;68:102757. doi: 10.1016/j.tranon.2026.102757.
+27. Transl Oncol. 2026 Apr 11;68:102757. doi: 10.1016/j.tranon.2026.102757.
 Online  ahead of print.
 
 PARP inhibitors target cellular energy metabolism: Mechanisms of action and 
@@ -1464,7 +1673,7 @@ Conflict of interest statement: Declaration of competing interest The authors
 declare that they have no competing interests.
 
 
-25. Clin Genitourin Cancer. 2026 Mar 19:102545. doi: 10.1016/j.clgc.2026.102545. 
+28. Clin Genitourin Cancer. 2026 Mar 19:102545. doi: 10.1016/j.clgc.2026.102545. 
 Online ahead of print.
 
 Prognostic Significance of Circulating Tumor DNA in Metastatic Prostate Cancer: 
@@ -1522,7 +1731,7 @@ Conflict of interest statement: Disclosure The authors have stated that they
 have no conflicts of interest.
 
 
-26. NPJ Breast Cancer. 2026 Apr 11;12(1):60. doi: 10.1038/s41523-026-00947-8.
+29. NPJ Breast Cancer. 2026 Apr 11;12(1):60. doi: 10.1038/s41523-026-00947-8.
 
 PARP inhibition with olaparib and talazoparib for HER2-negative advanced breast 
 cancer-Results from the prospective PRAEGNANT registry.
@@ -1754,7 +1963,7 @@ Novartis, Roche, Mundipharma, Amgen, Servier Deutschland GmbH, AbbVie. The other
 authors do not have a competing interest.
 
 
-27. Biomark Res. 2026 Apr 10;14(1):40. doi: 10.1186/s40364-026-00915-1.
+30. Biomark Res. 2026 Apr 10;14(1):40. doi: 10.1186/s40364-026-00915-1.
 
 The molecular landscape of the C1498 murine acute myeloid leukemia cell line.
 
@@ -1814,222 +2023,3 @@ PMID: 41964082
 Conflict of interest statement: Declarations. Ethics approval and consent to 
 participate: Not applicable. Consent for publication: Not applicable. Competing 
 interests: The authors declare no competing interests.
-
-
-28. Proc Natl Acad Sci U S A. 2026 Apr 21;123(16):e2513742123. doi: 
-10.1073/pnas.2513742123. Epub 2026 Apr 10.
-
-Resistance to neoadjuvant talazoparib in triple-negative breast cancer by 
-BRN2-induced ATR/STAT3 pathways or SHLD2 subclone expansion.
-
-Abdulkareem NM(#)(1), Jiang Y(#)(1), Qi Y(1)(2), Liu X(3), Zhang X(1), Cai S(1), 
-Shao J(1), Jeter-Jones S(1), Rinkenbaugh AL(1), Cheng CC(1), Hancock F(1), 
-Schwartz J(4), Litton JK(4), Chang JT(2)(3), Piwnica-Worms H(1).
-
-Author information:
-(1)Department of Experimental Radiation Oncology, The University of Texas MD 
-Anderson Cancer Center, Houston, TX 77030.
-(2)Department of Bioinformatics and Computational Biology, The University of 
-Texas MD Anderson Cancer Center, Houston, TX 77030.
-(3)Department of Integrative Biology and Pharmacology, Institute of Molecular 
-Medicine, The University of Texas Health Science Center at Houston, Houston, TX 
-77030.
-(4)Department of Breast Medical Oncology, The University of Texas MD Anderson 
-Cancer Center, Houston, TX 77030.
-(#)Contributed equally
-
-Intrinsic and acquired resistance to poly(ADP-ribose) polymerase (PARP) 
-inhibitors (PARPi) remains a major barrier in treating homologous recombination 
-(HR) repair-deficient tumors, including those with germline or somatic BRCA1/2 
-mutations. Although PARPi are FDA approved for adjuvant treatment of locally 
-advanced or metastatic breast cancer in patients with germline BRCA1/2 
-mutations, emerging data support their use as monotherapy in the neoadjuvant 
-setting. Promising safety profiles of newer-generation PARPi further support 
-this potential. However, resistance mechanisms specific to the neoadjuvant 
-setting are poorly understood. To address this gap, we leveraged resources from 
-a phase II neoadjuvant clinical trial (NCT03499353), analyzing tumors from 
-patients with germline BRCA1/2 mutant breast tumors before and after six months 
-of talazoparib monotherapy. Whole-transcriptome analyses were performed on these 
-samples. Additionally, we established orthotopic patient-derived xenograft 
-models from a subset of the patient tumors and conducted whole-exome and 
-whole-transcriptome analysis. This integrative approach revealed both known and 
-previously unknown PARPi resistance mechanisms. In one case, overexpression of 
-BRN2, encoding a transcription factor that plays a critical role in 
-neurogenesis, led to activation of ATR/RAD51 and STAT3 pathways, restoring HR 
-repair. BRN2-driven resistance could be reversed with ATR and STAT3 inhibitors, 
-resensitizing cells to talazoparib. In another, an HR repair proficient tumor 
-subclone lacking Shieldin 2 expression expanded during treatment and accounted 
-for intrinsic resistance. Our findings highlight the need to determine intrinsic 
-and anticipate acquired resistance pathways in treatment-naïve tumors and 
-support combining PARPi with targeted agents to improve outcomes in the 
-neoadjuvant setting.
-
-DOI: 10.1073/pnas.2513742123
-PMCID: PMC13099559
-PMID: 41961819 [Indexed for MEDLINE]
-
-Conflict of interest statement: Competing interests statement:Dr. Litton is on 
-the advisory board of Gilead (uncompensated). Dr. Litton receives research 
-support (to her Institution) from Medivation, Pfizer, Merck, Zenith, EMD-Serono, 
-Genentech, Astra-Zeneca.
-
-
-29. Breast Cancer. 2026 Apr 10. doi: 10.1007/s12282-026-01855-2. Online ahead of 
-print.
-
-BRCA1/2 Reversion Mutations in Japanese Patients with Metastatic Breast Cancer 
-Progressing on Olaparib: OLIVE (WJOG15321B).
-
-Sakai H(1), Kusumoto-Matsuo R(2), Hosonaga M(3), Nozawa K(4), Futamura M(5), 
-Tanabe Y(6), Mukohara T(7), Shiraishi K(8), Toyama T(9), Yasojima H(10), 
-Watanabe N(11), Sakai H(12), Iwasa T(13), Takeuchi N(14), Tada H(15), Sakai 
-K(16), Chiba N(17), Takano T(3), Tsurutani J(2).
-
-Author information:
-(1)Advanced Cancer Translational Research Institute, Showa Medical University, 
-1-5-8 Hatanodai, Shinagawa-ku, Tokyo, 142-8555, Japan. 
-sakai-h@med.showa-u.ac.jp.
-(2)Advanced Cancer Translational Research Institute, Showa Medical University, 
-1-5-8 Hatanodai, Shinagawa-ku, Tokyo, 142-8555, Japan.
-(3)Breast Oncology Center, Cancer Institute Hospital of the Japanese Foundation 
-for Cancer Research, Tokyo, Japan.
-(4)Department of Breast Oncology, Aichi Cancer Center, Nagoya, Japan.
-(5)Department of Breast Surgery, Gifu University Hospital, Gifu, Japan.
-(6)Department of Medical Oncology, Toranomon Hospital, Tokyo, Japan.
-(7)Department of Oncology, National Cancer Center Hospital East, Kashiwa, Japan.
-(8)Department of Medical Oncology, NHO Nagoya Medical Center, Nagoya, Japan.
-(9)Department of Breast Surgery, Nagoya City University, Nagoya, Japan.
-(10)Department of Surgery, Breast Oncology, NHO Osaka National Hospital, Osaka, 
-Japan.
-(11)Department of Breast and Endocrine Surgery, Osaka International Cancer 
-Institute, Osaka, Japan.
-(12)Department of Medical Oncology, Hyogo Cancer Center, Akashi, Japan.
-(13)Department of Medical Oncology, Kindai University Faculty of Medicine, 
-Osaka, Japan.
-(14)Department of Oncology, Ina Central Hospital, Ina, Japan.
-(15)Department of Surgery, Division of Breast and Endocrine Surgery, Tohoku 
-University Hospital, Sendai, Japan.
-(16)Department of Genome Biology, Kindai University Faculty of Medicine, Osaka, 
-Japan.
-(17)Department of Cancer Biology, Institute of Development, Aging and Cancer 
-(IDAC), Tohoku University, Sendai, Japan.
-
-DOI: 10.1007/s12282-026-01855-2
-PMID: 41961224
-
-Conflict of interest statement: Declarations. Conflict of interest: HS received 
-honoraria from Daiichi Sankyo, Eli Lilly, Gilead Sciences, AstraZeneca, and 
-Pfizer, and medical writing support from Daiichi Sankyo outside the submitted 
-work. MF received honoraria from Chugai and Daiichi Sankyo. TM received research 
-funding (to the institution) from MSD, AstraZeneca, Eisai, Sanofi, Novartis 
-Pharma, Bayer, ONO Pharmaceutical, Daiichi Sankyo, Chugai Pharmaceutical, 
-Pfizer, Gilead Sciences, Merck Biopharma, Seagen, Astellas Pharma, Sysmex, and 
-Exact Sciences; and honoraria from Terumo, Bayer, MICIN, Kyowa Kirin, Daiichi 
-Sankyo, Eli Lilly, MI-Force, AstraZeneca, Eisai, Taiho Pharmaceutical, Chugai 
-Pharmaceutical, Shionogi, Pfizer, and Ono Pharmaceutical. He is an advisory 
-board member of Pfizer and AstraZeneca. TaT received honoraria from Chugai, 
-Daiichi Sankyo, Pfizer, MSD, Eli Lilly, Novartis, and Taiho. HT received 
-honoraria from Chugai Pharmaceutical, Eli Lilly, Pfizer, and Daiichi Sankyo. KS 
-received honoraria for lectures from Takeda Pharmaceutical Co., Ltd., Nippon 
-Kayaku Co., Ltd., and Qiagen, Inc., and honoraria for manuscript writing from 
-Life Technologies Japan Ltd. NC received research funding from AstraZeneca 
-outside the submitted work. ToT received honoraria from Daiichi Sankyo, Eli 
-Lilly, and Gilead Sciences. JT received research funding from Daiichi Sankyo 
-Co., Ltd., outside the submitted work; honoraria from Daiichi Sankyo Co., Ltd., 
-AstraZeneca K.K., Eli Lilly Japan K.K., Pfizer Japan Inc., Eisai Co., Ltd., 
-Kyowa Kirin Co., Ltd., Taiho Pharmaceutical Co., Ltd., MSD K.K., and Gilead 
-Sciences, Inc.; consulting fees from Daiichi Sankyo Co., Ltd., AstraZeneca K.K., 
-Seagen Inc., Pfizer Japan Inc., and Gilead Sciences, Inc.; and his institution 
-received research funding from Eli Lilly Japan K.K., Kyowa Kirin Co., Ltd., 
-Taiho Pharmaceutical Co., Ltd., Chugai Pharmaceutical Co., Ltd., MSD K.K., and 
-Eisai Co., Ltd., outside the submitted work. All other authors declare no 
-competing financial or non-financial interests. Ethical approval and consent to 
-participate: Study protocol was approved by the institutional review board 
-(Approval number: 21-029-B). Informed consent was obtained from all participants 
-involved in the study.
-
-
-30. Breast Cancer Res. 2026 Apr 9. doi: 10.1186/s13058-026-02273-0. Online ahead
-of  print.
-
-Contributing factors of contralateral breast cancer in patients with BRCA 
-mutation (ON-BRCA II study, KoREa-BSG 11).
-
-Shin SH(#)(1)(2), Ahn SG(#)(3), Ryu JM(4), Lee SB(5), Park HS(6), Lee ES(7), Lee 
-J(8), Kang B(9), Kim S(10), Kim EY(11), Kang YJ(12), Min SY(13), Lee M(14), Kim 
-SK(15), Kim HK(16), Cha CD(17); and the Korea Robot endoscopy Minimal Access 
-BreastSurgery Study Group.
-
-Author information:
-(1)Department of Medical Research Collaborating Center, Hanyang Univ. College of 
-Medicine, Seoul, Republic of Korea.
-(2)Department of Radiology, NYU Grossman School of Medicine, New York, USA.
-(3)Department of Surgery, Gangnam Severance Hospital, Yonsei University College 
-of Medicine, Seoul, Republic of Korea.
-(4)Division of Breast Surgery, Department of Surgery, Sungkyunkwan University 
-School of Medicine, Samsung Medical Center, Seoul, Republic of Korea.
-(5)Division of Breast Surgery, Department of Surgery, University of Ulsan 
-College of Medicine, Asan Medical Center, Seoul, Republic of Korea.
-(6)Department of Surgery, Yonsei University College of Medicine, Seoul, Republic 
-of Korea.
-(7)Department of Surgery, Korea Univ. Anam Hospital, Korea University College of 
-Medicine, Seoul, Republic of Korea.
-(8)Department of Surgery, Ewha Womans University Mokdong Hospital, Ewha 
-University College of Medicine, Seoul, Republic of Korea.
-(9)Department of Surgery, School of Medicine, Kyungpook National University, 
-Kyungpook National University Chilgok Hospital, Daegu, Republic of Korea.
-(10)Department of Breast and Endocrine Surgery, Hallym University Sacred Heart 
-Hospital, Hallym University, Anyang, Republic of Korea.
-(11)Department of Surgery, Kangbuk Samsung Hospital, Sungkyunkwan University 
-School of Medicine, Seoul, Republic of Korea.
-(12)Department of Surgery, Incheon St. Mary's Hospital, College of Medicine, The 
-Catholic University of Korea, Incheon, Republic of Korea.
-(13)Department of Surgery, Kyung Hee University Hospital, Kyung Hee University 
-College of Medicine, Seoul, Republic of Korea.
-(14)Department of Surgery, Keimyung University School of Medicine, Daegu, 
-Republic of Korea.
-(15)Department of Pediatrics, Baylor College of Medicine, Houston, USA.
-(16)Department of Surgery, Seoul National University Hospital, 101 Daehak-Ro, 
-Jongno-Gu, Seoul, Republic of Korea. limittango@gmail.com.
-(17)Department of Surgery, Hanyang University Medical Center, Wangsimni-Ro, 
-Seongdong-Gu, 222-1, Seoul, Republic of Korea. chachihwan@gmail.com.
-(#)Contributed equally
-
-BACKGROUND: The cumulative risk of contralateral breast cancer (CBC) in BRCA1/2 
-carriers is remarkably higher than in non-carriers. This study aimed to 
-investigate the clinicopathological predictors associated with the risk of 
-metachronous CBC among breast cancer patients with BRCA1/2 mutations using 
-correspondence analysis.
-METHODS: This retrospective study included patients who underwent BRCA testing 
-between January 2008 and December 2018. The inclusion criterion was patients 
-being between 20 and 80-years-old with invasive breast cancer (pT1-3, N0-3). We 
-performed univariate and multivariate survival analyses to assess the risks 
-associated with BRCA mutations, and conducted correspondence analysis to 
-identify contributing factors for CBC among subgroup by age and BRCA mutations.
-RESULTS: Total of 4009 patients were included in this analysis. After median 
-follow-up of 93 months, 278 cases of CBC were documented. Among 576 patients 
-with BRCA mutations, there was no difference in the incidence of CBC between 
-BRCA1 and BRCA2 carriers (P = 0.07). Correspondence analysis revealed that, in 
-younger patients (< 50 years) with BRCA1 mutations, the triple-negative subtype 
-(r = 0.93) and high grade (r = 0.74) showed the closest geometric proximity 
-associated with CBC. In BRCA2 carriers, high Ki-67 labeling index (≥ 20%) 
-demonstrated prominent geometric association in the biplot related to CBC, 
-regardless of age (r = 0.93).
-CONCLUSION: Although no difference was found in the risk of CBC between BRCA 1/2 
-mutations, correspondence analysis revealed different contributing factors. For 
-young BRCA carriers with a triple-negative subtype and poor pathologic 
-parameters such as high grade and Ki-67 index, risk-reducing contralateral 
-prophylactic mastectomy could be considered as a treatment strategy.
-
-© 2026. The Author(s).
-
-DOI: 10.1186/s13058-026-02273-0
-PMID: 41957809
-
-Conflict of interest statement: Declarations. Ethics approval and consent to 
-participate: This study was approved by the Institutional Review Board of 
-Hanyang University Hospital (No. HYUH 2022–04-039) and followed the principles 
-of the Declaration of Helsinki, which protects human subjects in medical 
-research. Owing to the retrospective study design, the IRB waived the 
-requirement for written informed consent. Consent for publication: Not 
-applicable. Competing interests: The authors declare no competing interests.

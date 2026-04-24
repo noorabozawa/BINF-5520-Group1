@@ -1,21 +1,12 @@
-import re
-
-def clean_text(text):
-    text = text.lower()
-    text = re.sub(r"\s+", " ", text)
-    text = re.sub(r"[^a-z0-9.\-\s]", "", text)
-
-    return text
+def preprocess_text(text):
+    return text.lower()
 
 
 if __name__ == "__main__":
-    with open("../data/abstracts.txt", "r") as f:
-        raw_text = f.read()
-    cleaned_text = clean_text(raw_text)
-    with open("../data/cleaned_abstracts.txt", "w") as f:
-        f.write(cleaned_text)
+    with open("../data/abstracts.txt", "r", encoding="utf-8") as f:
+        text = f.read()
 
-    print("Preprocessing complete. Cleaned file saved.")
+    cleaned = preprocess_text(text)
 
-def preprocess_text(text):
-    return text.lower()
+    with open("../data/cleaned_abstracts.txt", "w", encoding="utf-8") as f:
+        f.write(cleaned)

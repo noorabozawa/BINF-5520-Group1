@@ -1,19 +1,12 @@
 import re
 
-# Example
-VARIANT_PATTERN = r"[pc]\.\d+[A-Z]>[A-Z]|p\.[A-Z]\d+[A-Z]"
-
+VARIANT_PATTERN = r"(c\.\d+[_\d]*[a-z]*|p\.[a-z]\d+[a-z]|rs\d+)"
 
 def extract_variants(text):
     variants = re.findall(VARIANT_PATTERN, text)
-    return variants
 
+    if not variants:
+        if "mutation" in text:
+            variants.append("mutation")
 
-if __name__ == "__main__":
-    with open("../data/abstracts.txt", "r") as f:
-        text = f.read()
-
-    variants = extract_variants(text)
-
-    print("Extracted Variants:")
-    print(variants)
+    return list(set(variants))
