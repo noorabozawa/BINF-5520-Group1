@@ -16,3 +16,6 @@ if __name__ == "__main__":
         f.write(cleaned_text)
 
     print("Preprocessing complete. Cleaned file saved.")
+
+def preprocess_text(text):
+    return text.lower()
